@@ -4,6 +4,9 @@
 [submodule "busybox/repo"]
 	path = busybox/repo
 	url = git://git.busybox.net/busybox
+[submodule "git/repo"]
+	path = git/repo
+	url = https://github.com/git/git.git
 [submodule "linux/repo"]
 	path = linux/repo
 	url = https://github.com/torvalds/linux.git
@@ -19,6 +22,11 @@
 [submodule "xen/repo"]
 	path = xen/repo
 	url = https://github.com/xen-project/xen
+
+# Lists for git
+[submodule "git/resources/mbox/pubin/vger.kernel.org/git/0.git"]
+	path = git/resources/mbox/pubin/vger.kernel.org/git/0.git
+	url = https://lore.kernel.org/git/0
 
 # Lists for u-boot
 [submodule "u-boot/resources/mbox/pubin/lists.denx.de/u-boot/0.git"]
