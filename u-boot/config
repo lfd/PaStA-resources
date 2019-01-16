@@ -3,7 +3,7 @@
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "origin/master"
+UPSTREAM = "221c4d982698d9f537237108f779b8174ce24c87"
 
 ### Project specific autothresholds for interactive rating ###
 INTERACTIVE_THRESHOLD = 1.1
@@ -13,8 +13,8 @@ MESSAGE_DIFF_WEIGHT = 0.3
 
 ### Used for parsing mailinglists ###
 [mbox]
-MINDATE = "2005-04-16"
-MAXDATE = "2030-01-01"
+MINDATE = 1970-01-01
+MAXDATE = 2040-01-01
 
 [mbox.raw]
-u-boot-users = "mbox-uboot"
+u-boot-passau = ["u-boot-passau", "/mnt/rackstation/mboxes/passau-mboxes/gmane.comp.boot-loaders.u-boot.mbox"]
