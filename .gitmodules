@@ -991,3 +991,6 @@
 [submodule "PostgreSQL/repo"]
 	path = PostgreSQL/repo
 	url = https://github.com/postgres/postgres.git
+[submodule "FFmpeg/repo"]
+	path = FFmpeg/repo
+	url = https://github.com/FFmpeg/FFmpeg.git
