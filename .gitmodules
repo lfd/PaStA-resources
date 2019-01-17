@@ -830,3 +830,6 @@
 [submodule "flac/repo"]
 	path = flac/repo
 	url = https://github.com/xiph/flac.git
+[submodule "OpenSSL/repo"]
+	path = OpenSSL/repo
+	url = git://git.openssl.org/openssl.git
