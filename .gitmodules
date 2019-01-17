@@ -839,3 +839,6 @@
 [submodule "gcc/repo"]
 	path = gcc/repo
 	url = https://github.com/gcc-mirror/gcc.git
+[submodule "LLVM/repo"]
+	path = LLVM/repo
+	url = https://github.com/llvm-mirror/llvm.git
