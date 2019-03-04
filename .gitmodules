@@ -870,3 +870,6 @@
 [submodule "git/repo"]
 	path = git/repo
 	url = https://github.com/git/git.git
+[submodule "flac/repo"]
+	path = flac/repo
+	url = https://github.com/xiph/flac.git
