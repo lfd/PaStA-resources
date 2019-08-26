@@ -20,9 +20,23 @@ MESSAGE_DIFF_WEIGHT = 0.3
 MINDATE = 1970-01-01
 MAXDATE = 2030-01-01
 
+[mbox.patchwork]
+# api url of a patchwork instance. Use a specific api version in order to
+# prevent undefined behaviour when api changes.
+# url = 'http://patchwork:8000/api/1.2/'
+
+# Provide an api_token token or username/password if restricted api access is
+# needed (e.g updating relations)
+# token = 'your_token'
+# username = 'your_username'
+# password = 'your_password'
+
 [mbox.raw]
 # listname = "filename"
 # ...
+# Note: When using patchwork, pulled mails will be placed into lists with
+# corresponding list-id. Therefore listname should be a list-id:
+# 'linux-kernel.vger.kernel.org' = "lkml.mbox"
 
 [mbox.pubin]
 # Mailing lists are hosted somewhere. A ML host may host multiple lists.
