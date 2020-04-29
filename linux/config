@@ -3,7 +3,7 @@
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "origin/master"
+UPSTREAM = "v5.5..origin/master"
 
 ### Blacklist of upstream commit hashes to ignore for upstream comparison ###
 UPSTREAM_BLACKLIST = "linux-blacklist"
@@ -16,7 +16,7 @@ MESSAGE_DIFF_WEIGHT = 0.3
 
 ### Used for parsing mailinglists ###
 [mbox]
-MINDATE = 1970-01-01
+MINDATE = 2020-01-01
 MAXDATE = 2030-01-01
 
 [mbox.raw]
@@ -40,398 +40,397 @@ MAXDATE = 2030-01-01
 # resources/project_name/resources/mbox/pubin/hoster/listname1/ . PaStA
 # will then try to automatically find shards beginning from 0.
 
-"acpica.org" = [
-	"devel"
-]
-
+#"acpica.org" = [
+#	"devel"
+#]
+#
 "alsa-project.org" = [
 	"alsa-devel"
 ]
 
-"googlegroups.com" = [
-	"clang-built-linux",
-	"jailhouse-dev",
-	"kasan-dev",
-	"linux-ntb",
-	"open-iscsi"
-]
-
-"groups.io" = [
-	"linux-oxnas"
-]
-
-"isely.net" = [
-	"pvrusb2"
-]
-
-"kernel.org" = [
-	"soc"
-]
-
-"kvack.org" = [
-	"linux-mm"
-]
-
-"linux-speakup.org" = [
-	"speakup"
-]
-
-"linux-xtensa.org" = [
-	"linux-xtensa"
-]
-
-"linux.kernel.org" = [
-	"tools",
-]
-
-"linuxdriverproject.org" = [
-	"driverdev-devel"
-]
-
-"lists.01.org" = [
-	"linux-nfc",
-	"linux-nvdimm"
-]
-
-"lists.ath9k.org" = [
-	"ath9k-devel",
-]
-
-"lists.bufferbloat.net" = [
-	"cake"
-]
-
-"lists.cip-project.org" = [
-	"cip-dev"
-]
-
-"lists.cs.columbia.edu" = [
-	"kvmarm"
-]
-
-"lists.elisa.tech" = [
-	"linux-safety",
-]
-
-"lists.ettus.com" = [
-	"usrp-users"
-]
-
-"lists.freedesktop.org" = [
-	"amd-gfx",
-	"dri-devel",
-	"etnaviv",
-	"freedreno",
-	"intel-gfx",
-	"intel-gvt-dev",
-	"nouveau",
-	"spice-devel"
-]
-
-"lists.infradead.org" = [
-	"ath10k",
-	"ath11k",
-	"b43-dev",
-	"kexec",
-	"libertas-dev",
-	"linux-afs",
-	"linux-amlogic",
-	"linux-arm-kernel",
-	"linux-i3c",
-	"linux-mediatek",
-	"linux-mtd",
-	"linux-nvme",
-	"linux-parport",
-	"linux-phy",
-	"linux-riscv",
-	"linux-rockchip",
-	"linux-rpi-kernel",
-	"linux-snps-arc",
-	"linux-um",
-	"linux-unisoc",
-	"wcn36xx"
-]
-
-"lists.librecores.org" = [
-	"openrisc"
-]
-
-"lists.linaro.org" = [
-	"greybus-dev",
-	"linaro-mm-sig"
-]
-
-"lists.linbit.com" = [
-	"drbd-dev"
-]
-
-"lists.linux-foundation.org" = [
-	"bridge",
-	"iommu",
-	"netem",
-	"virtualization"
-]
-
-"lists.linux.dev" = [
-	"containers",
-	"ksummit",
-	"landlock",
-	"linux-coco",
-	"linux-staging",
-	"linux-sunxi",
-	"llvm",
-	"mptcp",
-	"ntfs3",
-	"nvdimm",
-	"regressions"
-]
-
-"lists.linux.it" = [
-	"ltp"
-]
-
-"lists.linuxfoundation.org" = [
-	"containers"
-]
-
-"lists.one-eyed-alien.net" = [
-	"usb-storage"
-]
-
-"lists.open-mesh.org" = [
-	"b.a.t.m.a.n"
-]
-
-"lists.openwall.com" = [
-	"kernel-hardening"
-]
-
-"lists.openwrt.org" = [
-	"openwrt-devel"
-]
-
-"lists.orangefs.org" = [
-	"devel"
-]
-
-"lists.osdn.me" = [
-	"tomoyo-users",
-	"tomoyo-users-en"
-]
-
-"lists.osmocom.org" = [
-	"osmocom-net-gprs"
-]
-
-"lists.ozlabs.org" = [
-	"ccan",
-	"linux-aspeed",
-	"linux-erofs",
-	"linuxppc-dev",
-	"linuxppc-users",
-	"openbmc"
-]
-
-"lists.samba.org" = [
-	"samba-technical"
-]
-
-"lists.sourceforge.net" = [
-	"ibm-acpi-devel",
-	"industrypack-devel",
-	"jfs-discussion",
-	"kgdb-bugreport",
-	"legousb-devel",
-	"linux-decnet-user",
-	"linux-f2fs-devel",
-	"linux-ntfs-dev",
-	"linux-uvc-devel",
-	"linux1394-devel",
-	"mjpeg-users",
-	"openipmi-developer",
-	"oprofile-list",
-	"osst-users",
-	"squashfs-devel",
-	"tboot-devel",
-	"tipc-discussion",
-	"tpmdd-devel",
-	"v9fs-developer"
-]
-
-"lists.ubuntu.com" = [
-	"apparmor"
-]
-
-"lists.xenproject.org" = [
-	"xen-devel"
-]
-
-"lists.zx2c4.com" = [
-	"wireguard"
-]
-
-"listserv.isdn4linux.de" = [
-	"isdn4linux"
-]
-
-"lustre.org" = [
-	"lustre-devel"
-]
-
-"nongnu.org" = [
-	"qemu-devel"
-]
-
-"oss.oracle.com" = [
-	"ocfs2-devel"
-]
-
-"osuosl.org" = [
-	"intel-wired-lan"
-]
-
-"other.debian.org" = [
-	"nbd"
-]
-
-"redhat.com" = [
-	"blinux-list",
-	"cluster-devel",
-	"dm-devel",
-	"linux-audit",
-	"linux-cachefs",
-	"linux-lvm"
-]
-
-"saout.de" = [
-	"dm-crypt",
-]
-
-"st-md-mailman.stormreply.com" = [
-	"linux-stm32",
-	"uboot-stm32"
-]
-
-"systeme.lip6.fr" = [
-	"cocci"
-]
-
-"vger.kernel.org" = [
-	"autofs",
-	"bpf",
-	"ceph-devel",
-	"cgroups",
-	"dash",
-	"dccp",
-	"devicetree",
-	"dmaengine",
-	"dwarves",
-	"ecryptfs",
-	"io-uring",
-	"kernel-janitors",
-	"keyrings",
-	"kvm",
-	"kvm-ppc",
-	"linux-acpi",
-	"linux-alpha",
-	"linux-api",
-	"linux-arch",
-	"linux-arm-msm",
-	"linux-bcache",
-	"linux-bcachefs",
-	"linux-block",
-	"linux-bluetooth",
-	"linux-btrfs",
-	"linux-can",
-	"linux-cifs",
-	"linux-clk",
-	"linux-crypto",
-	"linux-csky",
-	"linux-cxl",
-	"linux-doc",
-	"linux-edac",
-	"linux-efi",
-	"linux-embedded",
-	"linux-ext4",
-	"linux-fbdev",
-	"linux-fpga",
-	"linux-fscrypt",
-	"linux-fsdevel",
-	"linux-gpio",
-	"linux-hams",
-	"linux-hardening",
-	"linux-hexagon",
-	"linux-hwmon",
-	"linux-hyperv",
-	"linux-i2c",
-	"linux-ia64",
-	"linux-ide",
-	"linux-iio",
-	"linux-input",
-	"linux-integrity",
-	"linux-kbuild",
-	"linux-kernel",
-	"linux-kselftest",
-	"linux-leds",
-	"linux-m68k",
-	"linux-man",
-	"linux-media",
-	"linux-mips",
-	"linux-mmc",
-	"linux-modules",
-	"linux-next",
-	"linux-nfs",
-	"linux-nilfs",
-	"linux-omap",
-	"linux-parisc",
-	"linux-pci",
-	"linux-perf-users",
-	"linux-pm",
-	"linux-ppp",
-	"linux-pwm",
-	"linux-raid",
-	"linux-rdma",
-	"linux-remoteproc",
-	"linux-renesas-soc",
-	"linux-rtc",
-	"linux-s390",
-	"linux-samsung-soc",
-	"linux-scsi",
-	"linux-sctp",
-	"linux-security-module",
-	"linux-serial",
-	"linux-sgx",
-	"linux-sh",
-	"linux-sparse",
-	"linux-spdx",
-	"linux-spi",
-	"linux-tegra",
-	"linux-tip-commits",
-	"linux-toolchains",
-	"linux-trace-devel",
-	"linux-unionfs",
-	"linux-usb",
-	"linux-watchdog",
-	"linux-wireless",
-	"linux-wpan",
-	"linux-x25",
-	"linux-xfs",
-	"live-patching",
-	"lvs-devel",
-	"mm-commits",
-	"netdev",
-	"netfilter-devel",
-	"phone-devel",
-	"platform-driver-x86",
-	"rcu",
-	"reiserfs-devel",
-	"rust-for-linux",
-	"selinux",
-	"sparclinux",
-	"stable",
-	"target-devel",
-	"util-linux",
-	"workflows",
-	"xdp-newbies"
-]
-
+#"googlegroups.com" = [
+#	"clang-built-linux",
+#	"jailhouse-dev",
+#	"kasan-dev",
+#	"linux-ntb",
+#	"open-iscsi"
+#]
+#
+#"groups.io" = [
+#	"linux-oxnas"
+#]
+#
+#"isely.net" = [
+#	"pvrusb2"
+#]
+#
+#"kernel.org" = [
+#	"soc"
+#]
+#
+#"kvack.org" = [
+#	"linux-mm"
+#]
+#
+#"linux-speakup.org" = [
+#	"speakup"
+#]
+#
+#"linux-xtensa.org" = [
+#	"linux-xtensa"
+#]
+#
+#"linux.kernel.org" = [
+#	"tools",
+#]
+#
+#"linuxdriverproject.org" = [
+#	"driverdev-devel"
+#]
+#
+#"lists.01.org" = [
+#	"linux-nfc",
+#	"linux-nvdimm"
+#]
+#
+#"lists.ath9k.org" = [
+#	"ath9k-devel",
+#]
+#
+#"lists.bufferbloat.net" = [
+#	"cake"
+#]
+#
+#"lists.cip-project.org" = [
+#	"cip-dev"
+#]
+#
+#"lists.cs.columbia.edu" = [
+#	"kvmarm"
+#]
+#
+#"lists.elisa.tech" = [
+#	"linux-safety",
+#]
+#
+#"lists.ettus.com" = [
+#	"usrp-users"
+#]
+#
+#"lists.freedesktop.org" = [
+#	"amd-gfx",
+#	"dri-devel",
+#	"etnaviv",
+#	"freedreno",
+#	"intel-gfx",
+#	"intel-gvt-dev",
+#	"nouveau",
+#	"spice-devel"
+#]
+#
+#"lists.infradead.org" = [
+#	"ath10k",
+#	"ath11k",
+#	"b43-dev",
+#	"kexec",
+#	"libertas-dev",
+#	"linux-afs",
+#	"linux-amlogic",
+#	"linux-arm-kernel",
+#	"linux-i3c",
+#	"linux-mediatek",
+#	"linux-mtd",
+#	"linux-nvme",
+#	"linux-parport",
+#	"linux-phy",
+#	"linux-riscv",
+#	"linux-rockchip",
+#	"linux-rpi-kernel",
+#	"linux-snps-arc",
+#	"linux-um",
+#	"linux-unisoc",
+#	"wcn36xx"
+#]
+#
+#"lists.librecores.org" = [
+#	"openrisc"
+#]
+#
+#"lists.linaro.org" = [
+#	"greybus-dev",
+#	"linaro-mm-sig"
+#]
+#
+#"lists.linbit.com" = [
+#	"drbd-dev"
+#]
+#
+#"lists.linux-foundation.org" = [
+#	"bridge",
+#	"iommu",
+#	"netem",
+#	"virtualization"
+#]
+#
+#"lists.linux.dev" = [
+#	"containers",
+#	"ksummit",
+#	"landlock",
+#	"linux-coco",
+#	"linux-staging",
+#	"linux-sunxi",
+#	"llvm",
+#	"mptcp",
+#	"ntfs3",
+#	"nvdimm",
+#	"regressions"
+#]
+#
+#"lists.linux.it" = [
+#	"ltp"
+#]
+#
+#"lists.linuxfoundation.org" = [
+#	"containers"
+#]
+#
+#"lists.one-eyed-alien.net" = [
+#	"usb-storage"
+#]
+#
+#"lists.open-mesh.org" = [
+#	"b.a.t.m.a.n"
+#]
+#
+#"lists.openwall.com" = [
+#	"kernel-hardening"
+#]
+#
+#"lists.openwrt.org" = [
+#	"openwrt-devel"
+#]
+#
+#"lists.orangefs.org" = [
+#	"devel"
+#]
+#
+#"lists.osdn.me" = [
+#	"tomoyo-users",
+#	"tomoyo-users-en"
+#]
+#
+#"lists.osmocom.org" = [
+#	"osmocom-net-gprs"
+#]
+#
+#"lists.ozlabs.org" = [
+#	"ccan",
+#	"linux-aspeed",
+#	"linux-erofs",
+#	"linuxppc-dev",
+#	"linuxppc-users",
+#	"openbmc"
+#]
+#
+#"lists.samba.org" = [
+#	"samba-technical"
+#]
+#
+#"lists.sourceforge.net" = [
+#	"ibm-acpi-devel",
+#	"industrypack-devel",
+#	"jfs-discussion",
+#	"kgdb-bugreport",
+#	"legousb-devel",
+#	"linux-decnet-user",
+#	"linux-f2fs-devel",
+#	"linux-ntfs-dev",
+#	"linux-uvc-devel",
+#	"linux1394-devel",
+#	"mjpeg-users",
+#	"openipmi-developer",
+#	"oprofile-list",
+#	"osst-users",
+#	"squashfs-devel",
+#	"tboot-devel",
+#	"tipc-discussion",
+#	"tpmdd-devel",
+#	"v9fs-developer"
+#]
+#
+#"lists.ubuntu.com" = [
+#	"apparmor"
+#]
+#
+#"lists.xenproject.org" = [
+#	"xen-devel"
+#]
+#
+#"lists.zx2c4.com" = [
+#	"wireguard"
+#]
+#
+#"listserv.isdn4linux.de" = [
+#	"isdn4linux"
+#]
+#
+#"lustre.org" = [
+#	"lustre-devel"
+#]
+#
+#"nongnu.org" = [
+#	"qemu-devel"
+#]
+#
+#"oss.oracle.com" = [
+#	"ocfs2-devel"
+#]
+#
+#"osuosl.org" = [
+#	"intel-wired-lan"
+#]
+#
+#"other.debian.org" = [
+#	"nbd"
+#]
+#
+#"redhat.com" = [
+#	"blinux-list",
+#	"cluster-devel",
+#	"dm-devel",
+#	"linux-audit",
+#	"linux-cachefs",
+#	"linux-lvm"
+#]
+#
+#"saout.de" = [
+#	"dm-crypt",
+#]
+#
+#"st-md-mailman.stormreply.com" = [
+#	"linux-stm32",
+#	"uboot-stm32"
+#]
+#
+#"systeme.lip6.fr" = [
+#	"cocci"
+#]
+#
+#"vger.kernel.org" = [
+#	"autofs",
+#	"bpf",
+#	"ceph-devel",
+#	"cgroups",
+#	"dash",
+#	"dccp",
+#	"devicetree",
+#	"dmaengine",
+#	"dwarves",
+#	"ecryptfs",
+#	"io-uring",
+#	"kernel-janitors",
+#	"keyrings",
+#	"kvm",
+#	"kvm-ppc",
+#	"linux-acpi",
+#	"linux-alpha",
+#	"linux-api",
+#	"linux-arch",
+#	"linux-arm-msm",
+#	"linux-bcache",
+#	"linux-bcachefs",
+#	"linux-block",
+#	"linux-bluetooth",
+#	"linux-btrfs",
+#	"linux-can",
+#	"linux-cifs",
+#	"linux-clk",
+#	"linux-crypto",
+#	"linux-csky",
+#	"linux-cxl",
+#	"linux-doc",
+#	"linux-edac",
+#	"linux-efi",
+#	"linux-embedded",
+#	"linux-ext4",
+#	"linux-fbdev",
+#	"linux-fpga",
+#	"linux-fscrypt",
+#	"linux-fsdevel",
+#	"linux-gpio",
+#	"linux-hams",
+#	"linux-hardening",
+#	"linux-hexagon",
+#	"linux-hwmon",
+#	"linux-hyperv",
+#	"linux-i2c",
+#	"linux-ia64",
+#	"linux-ide",
+#	"linux-iio",
+#	"linux-input",
+#	"linux-integrity",
+#	"linux-kbuild",
+#	"linux-kernel",
+#	"linux-kselftest",
+#	"linux-leds",
+#	"linux-m68k",
+#	"linux-man",
+#	"linux-media",
+#	"linux-mips",
+#	"linux-mmc",
+#	"linux-modules",
+#	"linux-next",
+#	"linux-nfs",
+#	"linux-nilfs",
+#	"linux-omap",
+#	"linux-parisc",
+#	"linux-pci",
+#	"linux-perf-users",
+#	"linux-pm",
+#	"linux-ppp",
+#	"linux-pwm",
+#	"linux-raid",
+#	"linux-rdma",
+#	"linux-remoteproc",
+#	"linux-renesas-soc",
+#	"linux-rtc",
+#	"linux-s390",
+#	"linux-samsung-soc",
+#	"linux-scsi",
+#	"linux-sctp",
+#	"linux-security-module",
+#	"linux-serial",
+#	"linux-sgx",
+#	"linux-sh",
+#	"linux-sparse",
+#	"linux-spdx",
+#	"linux-spi",
+#	"linux-tegra",
+#	"linux-tip-commits",
+#	"linux-toolchains",
+#	"linux-trace-devel",
+#	"linux-unionfs",
+#	"linux-usb",
+#	"linux-watchdog",
+#	"linux-wireless",
+#	"linux-wpan",
+#	"linux-x25",
+#	"linux-xfs",
+#	"live-patching",
+#	"lvs-devel",
+#	"mm-commits",
+#	"netdev",
+#	"netfilter-devel",
+#	"phone-devel",
+#	"platform-driver-x86",
+#	"rcu",
+#	"reiserfs-devel",
+#	"rust-for-linux",
+#	"selinux",
+#	"sparclinux",
+#	"stable",
+#	"target-devel",
+#	"util-linux",
+#	"workflows",
+#	"xdp-newbies"
+#]
