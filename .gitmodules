@@ -848,3 +848,6 @@
 [submodule "FFmpeg/repo"]
 	path = FFmpeg/repo
 	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "Tcl/repo"]
+	path = Tcl/repo
+	url = https://github.com/tcltk/tcl.git
