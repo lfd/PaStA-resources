@@ -3,7 +3,7 @@
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "origin/master"
+UPSTREAM = "v2.6.39..origin/master"
 
 ### Blacklist of upstream commit hashes to ignore for upstream comparison ###
 UPSTREAM_BLACKLIST = "linux-blacklist"
@@ -16,7 +16,7 @@ MESSAGE_DIFF_WEIGHT = 0.3
 
 ### Used for parsing mailinglists ###
 [mbox]
-MINDATE = 1970-01-01
+MINDATE = 2011-05-01
 MAXDATE = 2030-01-01
 
 [mbox.raw]
