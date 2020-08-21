@@ -24,11 +24,10 @@ from time import sleep
 from collections import defaultdict
 from lxml import html
 
-url_kernel_org = 'https://git.kernel.org/pub/scm/public-inbox'
 url_lore = 'https://lore.kernel.org/lists.html'
 url_github = 'https://raw.githubusercontent.com/lfd/mail-archiver/linux-archives/.gitmodules'
 
-pubin_providers = ['git.kernel.org', 'lore.kernel.org', 'github.com']
+pubin_providers = ['lore.kernel.org', 'github.com']
 
 lore_map = dict()
 
@@ -41,7 +40,7 @@ blacklist = {
     'lists.cip-project.org': {'cip-testing', 'cip-testing-results'},
     'lists.linuxfoundation.org': {'linux-kernel-mentees'},
     'lore.kernel.org': {'linux-firmware', 'signatures'},
-    'vger.kernel.org': {'backports', 'fstests', 'linux-trace-users', 'linux-kernel', 'selinux-refpolicy', 'git', 'linux-rt-users'},
+    'vger.kernel.org': {'backports', 'fstests', 'linux-trace-users', 'selinux-refpolicy', 'git', 'linux-rt-users'},
 }
 
 def get_tree(url):
@@ -58,26 +57,6 @@ def get_tree(url):
             raise ValueError('Maximum retries reached')
 
     return html.fromstring(resp.content)
-
-
-def get_kernel_org():
-    ret = defaultdict(dict)
-
-    tree = get_tree(url_kernel_org)
-    links = tree.xpath('/html/body//a[@title]/@href')
-    links = [link[len('/pub/scm/public-inbox/'):-1] for link in links]
-    links = [link.split('/') for link in links]
-    links = [link for link in links if len(link) == 3]
-
-    for hoster, listname, shard in links:
-        shard = int(shard[0:-4])
-        hoster = ret[hoster]
-
-        if listname not in hoster:
-            hoster[listname] = 0
-        hoster[listname] = max(shard, hoster[listname])
-
-    return ret
 
 
 def get_lore():
@@ -181,7 +160,6 @@ def generate_submodule(provider, hoster, listname, shard):
     return ret
 
 data = dict()
-data['git.kernel.org'] = get_kernel_org()
 data['lore.kernel.org'] = get_lore()
 data['github.com'] = get_github()
 
