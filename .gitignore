@@ -1,5 +1,6 @@
 __pycache__/
 *.pkl
+*.csv
 */resources/R
 */diffs
 
