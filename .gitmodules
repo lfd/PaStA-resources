@@ -1,6 +1,9 @@
 [submodule "PreemptRT/repo"]
 	path = PreemptRT/repo
 	url = https://github.com/lfd/PreemptRT.git
+[submodule "buildroot/repo"]
+	path = buildroot/repo
+	url = https://github.com/buildroot/buildroot.git
 [submodule "busybox/repo"]
 	path = busybox/repo
 	url = git://git.busybox.net/busybox
@@ -25,6 +28,11 @@
 [submodule "xen/repo"]
 	path = xen/repo
 	url = https://github.com/xen-project/xen
+
+# Lists for buildroot
+[submodule "buildroot/resources/mbox/pubin/lists.buildroot.org/buildroot/0.git"]
+	path = buildroot/resources/mbox/pubin/lists.buildroot.org/buildroot/0.git
+	url = https://lore.kernel.org/buildroot/0
 
 # Lists for dpdk
 [submodule "dpdk/resources/mbox/pubin/dpdk.org/dev/0.git"]
