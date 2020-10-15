@@ -851,3 +851,6 @@
 [submodule "Tcl/repo"]
 	path = Tcl/repo
 	url = https://github.com/tcltk/tcl.git
+[submodule "buildroot/repo"]
+	path = buildroot/repo
+	url = https://github.com/buildroot/buildroot.git
