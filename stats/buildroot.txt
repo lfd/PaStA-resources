@@ -1,0 +1,32 @@
+Loading configuration: buildroot
+Loading mailbox subsystem
+  ↪ loaded invalid mail index: found 144253 invalid mails
+Loading raw mailboxes...
+  ↪ loaded mail index for devel@passau: found 281704 mails
+           Total mails with patches:  137451
+                      Total commits:   51957
+                      Mail clusters:   63267
+                             #mails:  281704
+                        patch ratio: 48.79%
+              patch mails / commits: 2.65
+
+Total number of unassigned clusters:   17023
+Total number of   assigned clusters:   46244
+
+Total number of unassigned messages:   22503
+Total number of   assigned messages:  114948
+
+Percentage of commit hashes in clusters: 90.68% (aka. commit coverage)
+     Percentage of clusters with hashes: 73.09%
+
+Mail clusters with   1 commit hashes:          45877 (99.21%)
+Mail clusters with   2 commit hashes:            289 ( 0.62%)
+Mail clusters with   3 commit hashes:             32 ( 0.07%)
+Mail clusters with   4 commit hashes:             14 ( 0.03%)
+Mail clusters with >=5 commit hashes:             32 ( 0.07%)
+
+     Mail clusters with   1 messages:          20290 (32.07%)
+     Mail clusters with   2 messages:          26227 (41.45%)
+     Mail clusters with   3 messages:          10036 (15.86%)
+     Mail clusters with   4 messages:           3993 ( 6.31%)
+     Mail clusters with >=5 messages:           2721 ( 4.30%)

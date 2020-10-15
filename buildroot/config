@@ -4,7 +4,7 @@ PROJECT_NAME = "buildroot"
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "2009.02_rc1..origin/master"
+UPSTREAM = "58ab28a9a6574c5215f1aec5923aee345575b20b..005a11344bd0000aac762c6f9f9295a6eb304df1"
 
 ### Project specific autothresholds for interactive rating ###
 INTERACTIVE_THRESHOLD = 1.1
@@ -14,12 +14,8 @@ MESSAGE_DIFF_WEIGHT = 0.3
 
 ### Used for parsing mailinglists ###
 [mbox]
-MINDATE = 2009-01-17
+MINDATE = 1970-01-01
 MAXDATE = 2040-01-01
 
-[mbox.pubin]
-
-# From 2006-07-14 --
-"lists.buildroot.org" = [
-	"buildroot"
-]
+[mbox.raw."passau"]
+"devel" = ["/mnt/rackstation/mboxes/passau-mboxes/gmane.comp.lib.uclibc.buildroot.mbox"]
