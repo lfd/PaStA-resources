@@ -196,6 +196,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/io-uring/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/io-uring/0.git
 	url = https://lore.kernel.org/io-uring/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/keyrings/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/keyrings/0.git
+	url = https://lore.kernel.org/keyrings/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/kvm/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/kvm/0.git
 	url = https://lore.kernel.org/kvm/0
@@ -750,9 +753,6 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/kernel-janitors/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/kernel-janitors/0.git
 	url = https://github.com/linux-mailinglist-archives/kernel-janitors.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/keyrings/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/keyrings/0.git
-	url = https://github.com/linux-mailinglist-archives/keyrings.vger.kernel.org.0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/kvm-ppc/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/kvm-ppc/0.git
 	url = https://github.com/linux-mailinglist-archives/kvm-ppc.vger.kernel.org.0
