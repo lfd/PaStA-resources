@@ -271,6 +271,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-gpio/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-gpio/0.git
 	url = https://lore.kernel.org/linux-gpio/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hardening/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hardening/0.git
+	url = https://lore.kernel.org/linux-hardening/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hwmon/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hwmon/0.git
 	url = https://lore.kernel.org/linux-hwmon/0

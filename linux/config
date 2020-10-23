@@ -313,6 +313,7 @@ MAXDATE = 2030-01-01
 	"linux-fsdevel",
 	"linux-gpio",
 	"linux-hams",
+	"linux-hardening",
 	"linux-hexagon",
 	"linux-hwmon",
 	"linux-hyperv",
