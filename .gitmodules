@@ -385,6 +385,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-scsi/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-scsi/0.git
 	url = https://lore.kernel.org/linux-scsi/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sctp/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sctp/0.git
+	url = https://lore.kernel.org/linux-sctp/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-security-module/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-security-module/0.git
 	url = https://lore.kernel.org/linux-security-module/0
@@ -783,9 +786,6 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-s390/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-s390/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-s390.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sctp/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sctp/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-sctp.vger.kernel.org.0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-sh.vger.kernel.org.0
