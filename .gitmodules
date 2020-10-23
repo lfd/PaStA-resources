@@ -128,6 +128,9 @@
 [submodule "linux/resources/mbox/pubin/lists.ozlabs.org/linuxppc-dev/0.git"]
 	path = linux/resources/mbox/pubin/lists.ozlabs.org/linuxppc-dev/0.git
 	url = https://lore.kernel.org/linuxppc-dev/0
+[submodule "linux/resources/mbox/pubin/lists.ozlabs.org/openbmc/0.git"]
+	path = linux/resources/mbox/pubin/lists.ozlabs.org/openbmc/0.git
+	url = https://lore.kernel.org/openbmc/0
 
 ## lists.sourceforge.net
 [submodule "linux/resources/mbox/pubin/lists.sourceforge.net/linux-f2fs-devel/0.git"]
@@ -630,9 +633,6 @@
 [submodule "linux/resources/mbox/pubin/lists.ozlabs.org/linuxppc-users/0.git"]
 	path = linux/resources/mbox/pubin/lists.ozlabs.org/linuxppc-users/0.git
 	url = https://github.com/linux-mailinglist-archives/linuxppc-users.lists.ozlabs.org.0
-[submodule "linux/resources/mbox/pubin/lists.ozlabs.org/openbmc/0.git"]
-	path = linux/resources/mbox/pubin/lists.ozlabs.org/openbmc/0.git
-	url = https://github.com/linux-mailinglist-archives/openbmc.lists.ozlabs.org.0
 
 ## lists.samba.org
 [submodule "linux/resources/mbox/pubin/lists.samba.org/samba-technical/0.git"]
