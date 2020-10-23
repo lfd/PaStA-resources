@@ -162,6 +162,9 @@
 	url = https://lore.kernel.org/qemu-devel/1
 
 ## redhat.com
+[submodule "linux/resources/mbox/pubin/redhat.com/dm-devel/0.git"]
+	path = linux/resources/mbox/pubin/redhat.com/dm-devel/0.git
+	url = https://lore.kernel.org/dm-devel/0
 [submodule "linux/resources/mbox/pubin/redhat.com/linux-audit/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/linux-audit/0.git
 	url = https://lore.kernel.org/linux-audit/0
@@ -719,9 +722,6 @@
 [submodule "linux/resources/mbox/pubin/redhat.com/cluster-devel/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/cluster-devel/0.git
 	url = https://github.com/linux-mailinglist-archives/cluster-devel.redhat.com.0
-[submodule "linux/resources/mbox/pubin/redhat.com/dm-devel/0.git"]
-	path = linux/resources/mbox/pubin/redhat.com/dm-devel/0.git
-	url = https://github.com/linux-mailinglist-archives/dm-devel.redhat.com.0
 [submodule "linux/resources/mbox/pubin/redhat.com/linux-cachefs/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/linux-cachefs/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-cachefs.redhat.com.0
