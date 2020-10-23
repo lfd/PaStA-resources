@@ -373,6 +373,7 @@ MAXDATE = 2030-01-01
 	"mm-commits",
 	"netdev",
 	"netfilter-devel",
+	"phone-devel",
 	"platform-driver-x86",
 	"rcu",
 	"reiserfs-devel",

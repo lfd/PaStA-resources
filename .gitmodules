@@ -457,6 +457,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/netfilter-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/netfilter-devel/0.git
 	url = https://lore.kernel.org/netfilter-devel/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/phone-devel/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/phone-devel/0.git
+	url = https://lore.kernel.org/phone-devel/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/rcu/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/rcu/0.git
 	url = https://lore.kernel.org/rcu/0
