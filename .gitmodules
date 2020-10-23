@@ -187,6 +187,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/devicetree/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/devicetree/0.git
 	url = https://lore.kernel.org/linux-devicetree/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/devicetree/1.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/devicetree/1.git
+	url = https://lore.kernel.org/linux-devicetree/1
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/dmaengine/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/dmaengine/0.git
 	url = https://lore.kernel.org/dmaengine/0
