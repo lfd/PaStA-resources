@@ -181,6 +181,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/dmaengine/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/dmaengine/0.git
 	url = https://lore.kernel.org/dmaengine/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/dwarves/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/dwarves/0.git
+	url = https://lore.kernel.org/dwarves/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/io-uring/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/io-uring/0.git
 	url = https://lore.kernel.org/io-uring/0
@@ -232,9 +235,6 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-doc/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-doc/0.git
 	url = https://lore.kernel.org/linux-doc/0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-dwarves/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-dwarves/0.git
-	url = https://lore.kernel.org/linux-dwarves/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-edac/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-edac/0.git
 	url = https://lore.kernel.org/linux-edac/0
