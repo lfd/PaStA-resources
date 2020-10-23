@@ -418,6 +418,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-tegra/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-tegra/0.git
 	url = https://lore.kernel.org/linux-tegra/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-toolchains/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-toolchains/0.git
+	url = https://lore.kernel.org/linux-toolchains/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-trace-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-trace-devel/0.git
 	url = https://lore.kernel.org/linux-trace-devel/0

@@ -360,6 +360,7 @@ MAXDATE = 2030-01-01
 	"linux-spi",
 	"linux-tegra",
 	"linux-tip-commits",
+	"linux-toolchains",
 	"linux-trace-devel",
 	"linux-unionfs",
 	"linux-usb",
