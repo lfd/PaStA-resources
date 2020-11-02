@@ -857,3 +857,6 @@
 [submodule "coreutils/repo"]
 	path = coreutils/repo
 	url = https://git.savannah.gnu.org/git/coreutils.git
+[submodule "dpdk/repo"]
+	path = dpdk/repo
+	url = https://github.com/DPDK/dpdk.git
