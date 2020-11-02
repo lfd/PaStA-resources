@@ -997,3 +997,6 @@
 [submodule "buildroot/repo"]
 	path = buildroot/repo
 	url = https://github.com/buildroot/buildroot.git
+[submodule "coreutils/repo"]
+	path = coreutils/repo
+	url = https://git.savannah.gnu.org/git/coreutils.git
