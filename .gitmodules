@@ -1003,3 +1003,6 @@
 [submodule "dpdk/repo"]
 	path = dpdk/repo
 	url = https://github.com/DPDK/dpdk.git
+[submodule "openembedded/repo"]
+	path = openembedded/repo
+	url = https://github.com/openembedded/openembedded-core.git
