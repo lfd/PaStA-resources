@@ -1,0 +1,34 @@
+2020-11-09 23:20:57,044 PaStA           INFO     Cmdline: ./pasta clusterstats
+2020-11-09 23:20:57,044 pypasta.Config  INFO     Loading configuration: dpdk
+2020-11-09 23:20:57,060 Repository.Mbox INFO     Loading mailbox subsystem
+2020-11-09 23:20:57,164 Repository.Mbox INFO       ↪ loaded invalid mail index: found 110758 invalid mails
+2020-11-09 23:20:57,164 Repository.Mbox INFO     Loading raw mailboxes...
+2020-11-09 23:20:59,466 Repository.Mbox INFO       ↪ loaded mail index for devel@saarland: found 190561 mails
+2020-11-09 23:21:00,561 ta_clusterstats INFO                Total mails with patches:   79803
+2020-11-09 23:21:00,561 ta_clusterstats INFO                           Total commits:   25177
+2020-11-09 23:21:00,562 ta_clusterstats INFO                           Mail clusters:   34055
+2020-11-09 23:21:00,562 ta_clusterstats INFO                                  #mails:  190561
+2020-11-09 23:21:00,562 ta_clusterstats INFO                             patch ratio: 41.88%
+2020-11-09 23:21:00,562 ta_clusterstats INFO                   patch mails / commits: 3.17
+2020-11-09 23:21:00,562 ta_clusterstats INFO     
+2020-11-09 23:21:00,562 ta_clusterstats INFO     Total number of unassigned clusters:   11317
+2020-11-09 23:21:00,562 ta_clusterstats INFO     Total number of   assigned clusters:   22738
+2020-11-09 23:21:00,562 ta_clusterstats INFO     
+2020-11-09 23:21:00,563 ta_clusterstats INFO     Total number of unassigned messages:   21133
+2020-11-09 23:21:00,565 ta_clusterstats INFO     Total number of   assigned messages:   58670
+2020-11-09 23:21:00,565 ta_clusterstats INFO     
+2020-11-09 23:21:00,566 ta_clusterstats INFO     Percentage of commit hashes in clusters: 90.81% (aka. commit coverage)
+2020-11-09 23:21:00,566 ta_clusterstats INFO          Percentage of clusters with hashes: 66.77%
+2020-11-09 23:21:00,566 ta_clusterstats INFO     
+2020-11-09 23:21:00,568 ta_clusterstats INFO     Mail clusters with   1 commit hashes:          22649 (99.61%)
+2020-11-09 23:21:00,570 ta_clusterstats INFO     Mail clusters with   2 commit hashes:             75 ( 0.33%)
+2020-11-09 23:21:00,572 ta_clusterstats INFO     Mail clusters with   3 commit hashes:              8 ( 0.04%)
+2020-11-09 23:21:00,574 ta_clusterstats INFO     Mail clusters with   4 commit hashes:              3 ( 0.01%)
+2020-11-09 23:21:00,576 ta_clusterstats INFO     Mail clusters with >=5 commit hashes:              3 ( 0.01%)
+2020-11-09 23:21:00,576 ta_clusterstats INFO     
+2020-11-09 23:21:00,579 ta_clusterstats INFO          Mail clusters with   1 messages:          17003 (49.93%)
+2020-11-09 23:21:00,583 ta_clusterstats INFO          Mail clusters with   2 messages:           6905 (20.28%)
+2020-11-09 23:21:00,586 ta_clusterstats INFO          Mail clusters with   3 messages:           3995 (11.73%)
+2020-11-09 23:21:00,589 ta_clusterstats INFO          Mail clusters with   4 messages:           2125 ( 6.24%)
+2020-11-09 23:21:00,592 ta_clusterstats INFO          Mail clusters with >=5 messages:           4027 (11.82%)
+2020-11-09 23:21:00,668 PaStA           INFO     Shutting down
