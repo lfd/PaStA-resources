@@ -866,3 +866,6 @@
 [submodule "openvpn/repo"]
 	path = openvpn/repo
 	url = https://github.com/OpenVPN/openvpn.git
+[submodule "ptxdist/ptxdist"]
+	path = ptxdist/repo
+	url = https://git.pengutronix.de/git/ptxdist

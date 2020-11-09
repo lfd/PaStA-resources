@@ -1,0 +1,21 @@
+[PaStA]
+### Project name. Should not contain whitespaces ###
+PROJECT_NAME = "ptxdist"
+MODE = "mbox"
+
+### necessary for upstream comparison. Patches within this range will be considered ###
+UPSTREAM = "2fb3ec3a5fc47b4d8bfadea64b1005b1dbca6b77..4b4a3f14c173c9978a274a718987675000b1b6b7"
+
+### Project specific autothresholds for interactive rating ###
+INTERACTIVE_THRESHOLD = 1.1
+AUTOACCEPT_THRESHOLD = 0.82
+DIFF_LINES_RATIO = 0.4
+MESSAGE_DIFF_WEIGHT = 0.3
+
+### Used for parsing mailinglists ###
+[mbox]
+MINDATE = 1970-01-01
+MAXDATE = 2040-01-01
+
+[mbox.raw."passau"]
+"devel" = ["/mnt/rackstation/mboxes/passau-mboxes/gmane.comp.embedded.ptxdist.devel.mbox"]
