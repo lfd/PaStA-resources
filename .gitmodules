@@ -16,6 +16,9 @@
 [submodule "linux/repo"]
 	path = linux/repo
 	url = https://github.com/torvalds/linux.git
+[submodule "openembedded/repo"]
+	path = openembedded/repo
+	url = https://github.com/openembedded/openembedded-core.git
 [submodule "qemu/repo"]
 	path = qemu/repo
 	url = https://github.com/qemu/qemu.git
