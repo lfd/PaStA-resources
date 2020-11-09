@@ -1006,3 +1006,6 @@
 [submodule "openembedded/repo"]
 	path = openembedded/repo
 	url = https://github.com/openembedded/openembedded-core.git
+[submodule "openvpn/repo"]
+	path = openvpn/repo
+	url = https://github.com/OpenVPN/openvpn.git
