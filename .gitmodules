@@ -406,6 +406,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sgx/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sgx/0.git
 	url = https://lore.kernel.org/linux-sgx/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git
+	url = https://lore.kernel.org/linux-sh/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sparse/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sparse/0.git
 	url = https://lore.kernel.org/linux-sparse/0
@@ -804,9 +807,6 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-s390/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-s390/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-s390.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-sh.vger.kernel.org.0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-tip-commits/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-tip-commits/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-tip-commits.vger.kernel.org.0
