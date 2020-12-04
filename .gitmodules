@@ -244,6 +244,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-csky/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-csky/0.git
 	url = https://lore.kernel.org/linux-csky/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-cxl/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-cxl/0.git
+	url = https://lore.kernel.org/linux-cxl/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-doc/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-doc/0.git
 	url = https://lore.kernel.org/linux-doc/0
