@@ -367,6 +367,7 @@ MAXDATE = 2030-01-01
 	"linux-watchdog",
 	"linux-wireless",
 	"linux-wpan",
+	"linux-x25",
 	"linux-xfs",
 	"live-patching",
 	"lvs-devel",
