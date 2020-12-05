@@ -165,6 +165,9 @@
 [submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/1.git"]
 	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/1.git
 	url = https://lore.kernel.org/qemu-devel/1
+[submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git"]
+	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git
+	url = https://lore.kernel.org/qemu-devel/2
 
 ## redhat.com
 [submodule "linux/resources/mbox/pubin/redhat.com/dm-devel/0.git"]
