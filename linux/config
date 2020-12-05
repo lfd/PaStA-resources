@@ -97,6 +97,10 @@ MAXDATE = 2030-01-01
 	"kvmarm"
 ]
 
+"lists.elisa.tech" = [
+	"linux-safety",
+]
+
 "lists.ettus.com" = [
 	"usrp-users"
 ]

@@ -51,6 +51,11 @@
 	path = linux/resources/mbox/pubin/lists.cs.columbia.edu/kvmarm/0.git
 	url = https://lore.kernel.org/kvmarm/0
 
+## lists.elisa.tech
+[submodule "linux/resources/mbox/pubin/lists.elisa.tech/linux-safety/0.git"]
+	path = linux/resources/mbox/pubin/lists.elisa.tech/linux-safety/0.git
+	url = https://lore.kernel.org/linux-safety/0
+
 ## lists.freedesktop.org
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/amd-gfx/0.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/amd-gfx/0.git
