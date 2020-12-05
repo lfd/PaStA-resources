@@ -176,6 +176,9 @@
 [submodule "linux/resources/mbox/pubin/redhat.com/linux-audit/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/linux-audit/0.git
 	url = https://lore.kernel.org/linux-audit/0
+[submodule "linux/resources/mbox/pubin/redhat.com/linux-lvm/0.git"]
+	path = linux/resources/mbox/pubin/redhat.com/linux-lvm/0.git
+	url = https://lore.kernel.org/linux-lvm/0
 
 ## systeme.lip6.fr
 [submodule "linux/resources/mbox/pubin/systeme.lip6.fr/cocci/0.git"]

@@ -264,7 +264,8 @@ MAXDATE = 2030-01-01
 	"cluster-devel",
 	"dm-devel",
 	"linux-audit",
-	"linux-cachefs"
+	"linux-cachefs",
+	"linux-lvm"
 ]
 
 "st-md-mailman.stormreply.com" = [
