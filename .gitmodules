@@ -381,6 +381,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-pci/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-pci/0.git
 	url = https://lore.kernel.org/linux-pci/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-perf-users/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-perf-users/0.git
+	url = https://lore.kernel.org/linux-perf-users/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-pm/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-pm/0.git
 	url = https://lore.kernel.org/linux-pm/0

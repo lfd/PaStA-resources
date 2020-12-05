@@ -345,6 +345,7 @@ MAXDATE = 2030-01-01
 	"linux-omap",
 	"linux-parisc",
 	"linux-pci",
+	"linux-perf-users",
 	"linux-pm",
 	"linux-ppp",
 	"linux-pwm",
