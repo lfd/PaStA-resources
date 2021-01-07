@@ -248,6 +248,10 @@ MAXDATE = 2030-01-01
 	"isdn4linux"
 ]
 
+"lore.kernel.org" = [
+	"soc" # in fact, this list has the address soc@kernel.org
+]
+
 "nongnu.org" = [
 	"qemu-devel"
 ]

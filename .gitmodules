@@ -164,6 +164,11 @@
 	path = linux/resources/mbox/pubin/lists.zx2c4.com/wireguard/0.git
 	url = https://lore.kernel.org/wireguard/0
 
+## lore.kernel.org
+[submodule "linux/resources/mbox/pubin/lore.kernel.org/soc/0.git"]
+	path = linux/resources/mbox/pubin/lore.kernel.org/soc/0.git
+	url = https://lore.kernel.org/soc/0
+
 ## nongnu.org
 [submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/0.git"]
 	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/0.git
