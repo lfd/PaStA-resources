@@ -260,6 +260,10 @@ MAXDATE = 2030-01-01
 	"lustre-devel-lustre" # in fact, this list has the adress lustre-devel@lustre.org
 ]
 
+"oss.oracle.com" = [
+	"ocfs2-devel"
+]
+
 "osuosl.org" = [
 	"intel-wired-lan"
 ]
