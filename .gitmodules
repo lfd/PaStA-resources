@@ -180,6 +180,11 @@
 	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git
 	url = https://lore.kernel.org/qemu-devel/2
 
+## org
+[submodule "linux/resources/mbox/pubin/org/lustre-devel-lustre/0.git"]
+	path = linux/resources/mbox/pubin/org/lustre-devel-lustre/0.git
+	url = https://lore.kernel.org/lustre-devel/0
+
 ## redhat.com
 [submodule "linux/resources/mbox/pubin/redhat.com/dm-devel/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/dm-devel/0.git

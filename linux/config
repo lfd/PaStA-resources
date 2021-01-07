@@ -256,6 +256,10 @@ MAXDATE = 2030-01-01
 	"qemu-devel"
 ]
 
+"org" = [
+	"lustre-devel-lustre" # in fact, this list has the adress lustre-devel@lustre.org
+]
+
 "osuosl.org" = [
 	"intel-wired-lan"
 ]
