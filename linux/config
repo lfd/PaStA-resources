@@ -64,6 +64,10 @@ MAXDATE = 2030-01-01
 	"pvrusb2"
 ]
 
+"kernel.org" = [
+	"soc"
+]
+
 "kvack.org" = [
 	"linux-mm"
 ]
@@ -248,16 +252,12 @@ MAXDATE = 2030-01-01
 	"isdn4linux"
 ]
 
-"lore.kernel.org" = [
-	"soc" # in fact, this list has the address soc@kernel.org
+"lustre.org" = [
+	"lustre-devel"
 ]
 
 "nongnu.org" = [
 	"qemu-devel"
-]
-
-"org" = [
-	"lustre-devel-lustre" # in fact, this list has the adress lustre-devel@lustre.org
 ]
 
 "oss.oracle.com" = [

@@ -26,6 +26,11 @@
 	path = linux/resources/mbox/pubin/alsa-project.org/alsa-devel/0.git
 	url = https://lore.kernel.org/alsa-devel/0
 
+## lore.kernel.org
+[submodule "linux/resources/mbox/pubin/lore.kernel.org/soc/0.git"]
+	path = linux/resources/mbox/pubin/kernel.org/soc/0.git
+	url = https://lore.kernel.org/soc/0
+
 ## kvack.org
 [submodule "linux/resources/mbox/pubin/kvack.org/linux-mm/0.git"]
 	path = linux/resources/mbox/pubin/kvack.org/linux-mm/0.git
@@ -164,10 +169,10 @@
 	path = linux/resources/mbox/pubin/lists.zx2c4.com/wireguard/0.git
 	url = https://lore.kernel.org/wireguard/0
 
-## lore.kernel.org
-[submodule "linux/resources/mbox/pubin/lore.kernel.org/soc/0.git"]
-	path = linux/resources/mbox/pubin/lore.kernel.org/soc/0.git
-	url = https://lore.kernel.org/soc/0
+## lustre.org
+[submodule "linux/resources/mbox/pubin/org/lustre-devel-lustre/0.git"]
+	path = linux/resources/mbox/pubin/lustre.org/lustre-devel/0.git
+	url = https://lore.kernel.org/lustre-devel/0
 
 ## nongnu.org
 [submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/0.git"]
@@ -179,11 +184,6 @@
 [submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git"]
 	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git
 	url = https://lore.kernel.org/qemu-devel/2
-
-## org
-[submodule "linux/resources/mbox/pubin/org/lustre-devel-lustre/0.git"]
-	path = linux/resources/mbox/pubin/org/lustre-devel-lustre/0.git
-	url = https://lore.kernel.org/lustre-devel/0
 
 ## oss.oracle.com
 [submodule "linux/resources/mbox/pubin/oss.oracle.com/ocfs2-devel/0.git"]
