@@ -1,0 +1,27 @@
+           Total mails with patches:  193296
+                      Total commits:  183127
+                      Mail clusters:  125318
+                             #mails:  912873
+                        patch ratio: 21.17%
+              patch mails / commits: 1.06
+
+Total number of unassigned clusters:  110997
+Total number of   assigned clusters:   14321
+
+Total number of unassigned messages:  163480
+Total number of   assigned messages:   29816
+
+Percentage of commit hashes in clusters: 8.13% (aka. commit coverage)
+     Percentage of clusters with hashes: 11.43%
+
+Mail clusters with   1 commit hashes:          13861 (96.79%)
+Mail clusters with   2 commit hashes:            385 ( 2.69%)
+Mail clusters with   3 commit hashes:             62 ( 0.43%)
+Mail clusters with   4 commit hashes:              8 ( 0.06%)
+Mail clusters with >=5 commit hashes:              5 ( 0.03%)
+
+     Mail clusters with   1 messages:          95314 (76.06%)
+     Mail clusters with   2 messages:          16017 (12.78%)
+     Mail clusters with   3 messages:           6404 ( 5.11%)
+     Mail clusters with   4 messages:           3105 ( 2.48%)
+     Mail clusters with >=5 messages:           4478 ( 3.57%)
