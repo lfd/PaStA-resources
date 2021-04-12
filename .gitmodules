@@ -136,6 +136,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/ksummit/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/ksummit/0.git
 	url = https://lore.kernel.org/ksummit/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-coco/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/linux-coco/0.git
+	url = https://lore.kernel.org/linux-coco/0
 
 ## lists.linuxfoundation.org
 [submodule "linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git"]
