@@ -32,13 +32,17 @@ pubin_providers = ['lore.kernel.org', 'github.com']
 lore_map = dict()
 
 blacklist = {
+    'coda.cs.cmu.edu': {'codalist'},
     'kernelnewbies.org': {'kernelnewbies'},
     'lists.kernelnewbies.org': {'kernelnewbies'},
-    'NetBSD.org': {'radiotap'},
+    'netbsd.org': {'radiotap'},
     'dpdk.org': {'dev'},
+    'gitolite.kernel.org': {'transparency-log'},
     'linux.kernel.org': {'keys'},
     'lists.cip-project.org': {'cip-testing', 'cip-testing-results'},
+    'cip-testing-results.lists.cip-project.org': {'64575'},
     'lists.linuxfoundation.org': {'linux-kernel-mentees'},
+    'lists.lttng.org': {'lttng-dev'},
     'lore.kernel.org': {'linux-firmware', 'signatures'},
     'vger.kernel.org': {'backports', 'fstests', 'linux-trace-users', 'selinux-refpolicy', 'git', 'linux-rt-users'},
 }
