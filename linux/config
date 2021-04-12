@@ -80,6 +80,10 @@ MAXDATE = 2030-01-01
 	"linux-xtensa"
 ]
 
+"linux.kernel.org" = [
+	"tools",
+]
+
 "linuxdriverproject.org" = [
 	"driverdev-devel"
 ]
