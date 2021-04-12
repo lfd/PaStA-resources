@@ -138,6 +138,7 @@ MAXDATE = 2030-01-01
 	"linux-mtd",
 	"linux-nvme",
 	"linux-parport",
+	"linux-phy",
 	"linux-riscv",
 	"linux-rockchip",
 	"linux-rpi-kernel",
