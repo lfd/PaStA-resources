@@ -172,7 +172,8 @@ MAXDATE = 2030-01-01
 	"ksummit",
 	"linux-coco",
 	"linux-staging",
-	"linux-sunxi"
+	"linux-sunxi",
+	"mptcp"
 ]
 
 "lists.linux.it" = [

@@ -145,6 +145,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-sunxi/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/linux-sunxi/0.git
 	url = https://lore.kernel.org/linux-sunxi/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git
+	url = https://lore.kernel.org/mptcp/0
 
 ## lists.linuxfoundation.org
 [submodule "linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git"]
