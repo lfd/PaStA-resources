@@ -148,6 +148,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git
 	url = https://lore.kernel.org/mptcp/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/regressions/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/regressions/0.git
+	url = https://lore.kernel.org/regressions/0
 
 ## lists.linuxfoundation.org
 [submodule "linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git"]

@@ -173,7 +173,8 @@ MAXDATE = 2030-01-01
 	"linux-coco",
 	"linux-staging",
 	"linux-sunxi",
-	"mptcp"
+	"mptcp",
+	"regressions"
 ]
 
 "lists.linux.it" = [
