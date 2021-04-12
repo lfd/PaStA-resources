@@ -168,6 +168,10 @@ MAXDATE = 2030-01-01
 	"virtualization"
 ]
 
+"lists.linux.dev" = [
+	"ksummit"
+]
+
 "lists.linux.it" = [
 	"ltp"
 ]
