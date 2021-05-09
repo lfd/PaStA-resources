@@ -16,6 +16,9 @@
 [submodule "u-boot/repo"]
 	path = u-boot/repo
 	url = git://git.denx.de/u-boot.git
+[submodule "xen/repo"]
+	path = xen/repo
+	url = https://github.com/xen-project/xen
 
 ##################################################
 # Linux Public Inboxes hosted by lore.kernel.org
