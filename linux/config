@@ -365,6 +365,7 @@ MAXDATE = 2030-01-01
 	"linux-kernel",
 	"linux-kselftest",
 	"linux-leds",
+	"linux-llvm",
 	"linux-m68k",
 	"linux-man",
 	"linux-media",
