@@ -96,6 +96,9 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/ath11k/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/ath11k/0.git
 	url = https://lore.kernel.org/ath11k/0
+[submodule "linux/resources/mbox/pubin/lists.infradead.org/b43-dev/0.git"]
+	path = linux/resources/mbox/pubin/lists.infradead.org/b43-dev/0.git
+	url = https://lore.kernel.org/b43-dev/0
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-amlogic/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-amlogic/0.git
 	url = https://lore.kernel.org/linux-amlogic/0
@@ -649,9 +652,6 @@
 	url = https://github.com/linux-mailinglist-archives/spice-devel.lists.freedesktop.org.0
 
 ## lists.infradead.org
-[submodule "linux/resources/mbox/pubin/lists.infradead.org/b43-dev/0.git"]
-	path = linux/resources/mbox/pubin/lists.infradead.org/b43-dev/0.git
-	url = https://github.com/linux-mailinglist-archives/b43-dev.lists.infradead.org.0
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/kexec/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/kexec/0.git
 	url = https://github.com/linux-mailinglist-archives/kexec.lists.infradead.org.0
