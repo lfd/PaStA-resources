@@ -30,6 +30,7 @@
 	url = https://lore.kernel.org/alsa-devel/0
 
 ## lore.kernel.org
+# THIS LIST MUST STAY HERE
 [submodule "linux/resources/mbox/pubin/lore.kernel.org/soc/0.git"]
 	path = linux/resources/mbox/pubin/kernel.org/soc/0.git
 	url = https://lore.kernel.org/soc/0
@@ -165,6 +166,7 @@
 	url = https://lore.kernel.org/regressions/0
 
 ## lists.linuxfoundation.org
+# THIS LIST MUST STAY HERE
 [submodule "linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git"]
 	path = linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git
 	url = https://lore.kernel.org/containers/0
