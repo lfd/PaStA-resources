@@ -50,6 +50,9 @@
 	url = https://lore.kernel.org/driverdev-devel/0
 
 ## lists.01.org
+[submodule "linux/resources/mbox/pubin/lists.01.org/linux-nfc/0.git"]
+	path = linux/resources/mbox/pubin/lists.01.org/linux-nfc/0.git
+	url = https://lore.kernel.org/linux-nfc/0
 [submodule "linux/resources/mbox/pubin/lists.01.org/linux-nvdimm/0.git"]
 	path = linux/resources/mbox/pubin/lists.01.org/linux-nvdimm/0.git
 	url = https://lore.kernel.org/linux-nvdimm/0
@@ -620,10 +623,6 @@
 	path = linux/resources/mbox/pubin/linux-xtensa.org/linux-xtensa/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-xtensa.linux-xtensa.org.0
 
-## lists.01.org
-[submodule "linux/resources/mbox/pubin/lists.01.org/linux-nfc/0.git"]
-	path = linux/resources/mbox/pubin/lists.01.org/linux-nfc/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-nfc.lists.01.org.0
 
 ## lists.bufferbloat.net
 [submodule "linux/resources/mbox/pubin/lists.bufferbloat.net/cake/0.git"]
