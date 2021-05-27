@@ -414,6 +414,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/9.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/9.git
 	url = https://lore.kernel.org/lkml/9
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/10.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/10.git
+	url = https://lore.kernel.org/lkml/10
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git
 	url = https://lore.kernel.org/linux-kselftest/0
