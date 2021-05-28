@@ -3,7 +3,8 @@
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "origin/master"
+# 4.1.0-rc1 is the first point in time where we have a MAINTAINERS file
+UPSTREAM = "4.1.0-rc1..origin/master"
 
 ### Project specific autothresholds for interactive rating ###
 INTERACTIVE_THRESHOLD = 1.1
@@ -13,5 +14,5 @@ MESSAGE_DIFF_WEIGHT = 0.3
 
 ### Used for parsing mailinglists ###
 [mbox]
-MINDATE = "2005-04-16"
+MINDATE = "2011-01-14"
 MAXDATE = "2030-01-01"
