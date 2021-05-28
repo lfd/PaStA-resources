@@ -16,3 +16,9 @@ MESSAGE_DIFF_WEIGHT = 0.3
 [mbox]
 MINDATE = "2011-01-14"
 MAXDATE = "2030-01-01"
+
+[mbox.pubin]
+
+"lists.xenproject.org" = [
+	"xen-devel"
+]
