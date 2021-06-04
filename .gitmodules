@@ -20,6 +20,11 @@
 	path = xen/repo
 	url = https://github.com/xen-project/xen
 
+# Lists for u-boot
+[submodule "u-boot/resources/mbox/pubin/lists.denx.de/u-boot/0.git"]
+	path = u-boot/resources/mbox/pubin/lists.denx.de/u-boot/0.git
+	url = https://lore.kernel.org/u-boot/0
+
 ##################################################
 # Linux Public Inboxes hosted by lore.kernel.org
 ##################################################
