@@ -3,7 +3,7 @@
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "origin/master"
+UPSTREAM = "v0.14.0-rc0..origin/master"
 
 ### Project specific autothresholds for interactive rating ###
 INTERACTIVE_THRESHOLD = 1.1
@@ -13,5 +13,10 @@ MESSAGE_DIFF_WEIGHT = 0.3
 AUTHOR_DATE_INTERVAL = 365
 
 [mbox]
-MINDATE = "2005-04-16"
+MINDATE = "2011-02-02"
 MAXDATE = "2030-01-01"
+
+[mbox.pubin]
+"nongnu.org" = [
+	"qemu-devel"
+]
