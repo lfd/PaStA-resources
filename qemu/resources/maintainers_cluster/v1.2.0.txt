@@ -1,0 +1,187 @@
+ARM Machines - Calxeda Highbank
+
+ARM Machines - Exynos
+
+ARM Machines - Gumstix
+
+ARM Machines - i.MX31
+
+ARM Machines - Integrator CP
+
+ARM Machines - Mainstone
+
+ARM Machines - Musicpal
+
+ARM Machines - nSeries
+
+ARM Machines - Palm
+
+ARM Machines - Real View
+
+ARM Machines - Spitz
+
+ARM Machines - Stellaris
+
+ARM Machines - Versatile PB
+
+ARM Machines - Xilinx Zynq
+
+CRIS Machines - Axis Dev88
+
+CRIS Machines - etraxfs
+
+Devices - IDE
+
+Devices - LSI53C895A
+
+Devices - OMAP
+
+Devices - PCI
+
+Devices - SCSI
+Devices - virtio
+Devices - virtio-blk
+Devices - virtio-serial
+
+Devices - USB
+
+Devices - vhost
+
+Devices - virtio-9p
+
+Devices - Xilinx EDK
+
+Guest CPU Cores (KVM): - Overall
+Guest CPU Cores (KVM): - PPC
+Guest CPU Cores (KVM): - S390
+Guest CPU Cores (KVM): - X86
+Guest CPU cores (TCG): - PowerPC
+Guest CPU cores (TCG): - S390
+Guest CPU cores (TCG): - X86
+
+Guest CPU cores (TCG): - Alpha
+
+Guest CPU cores (TCG): - ARM
+
+Guest CPU cores (TCG): - CRIS
+
+Guest CPU cores (TCG): - LM32
+
+Guest CPU cores (TCG): - M68K
+
+Guest CPU cores (TCG): - MicroBlaze
+
+Guest CPU cores (TCG): - MIPS
+
+Guest CPU cores (TCG): - SH4
+
+Guest CPU cores (TCG): - SPARC
+
+Guest CPU cores (TCG): - UniCore32
+
+Guest CPU cores (TCG): - Xtensa
+
+Guest CPU Cores (Xen): - X86
+
+Hosts: - LINUX
+
+Hosts: - POSIX
+
+Hosts: - W32, W64
+
+LM32 Machines - EVR32 and uclinux BSP
+
+LM32 Machines - milkymist
+
+M68K Machines - an5206
+
+M68K Machines - dummy_m68k
+
+M68K Machines - mcf5208
+
+MicroBlaze Machines - petalogix_ml605
+
+MicroBlaze Machines - petalogix_s3adsp1800
+
+MIPS Machines - Jazz
+
+MIPS Machines - Malta
+
+MIPS Machines - Mipssim
+
+MIPS Machines - R4000
+
+PowerPC Machines - 405
+
+PowerPC Machines - New World
+
+PowerPC Machines - Old World
+
+PowerPC Machines - PReP
+
+S390 Machines - S390 Virtio
+
+SH4 Machines - R2D
+
+SH4 Machines - Shix
+
+SPARC Machines - Sun4m
+
+SPARC Machines - Sun4u
+
+Stable branches - Stable 0.14
+
+Stable branches - Stable 0.15
+
+Stable branches - Stable 1.0
+
+Subsystems - Audio
+Subsystems - Cocoa graphics
+Subsystems - Graphics
+Subsystems - SPICE
+
+Subsystems - Block
+Subsystems - Network Block Device (NBD)
+
+Subsystems - Character Devices
+
+Subsystems - Checkpatch
+
+Subsystems - Device Tree
+
+Subsystems - GDB stub
+
+Subsystems - Main loop
+
+Subsystems - Monitor (QMP/HMP)
+
+Subsystems - Network device layer
+
+Subsystems - SLIRP
+
+Subsystems - Tracing
+
+Tiny Code Generator (TCG) - ARM target
+Tiny Code Generator (TCG) - Common code
+Tiny Code Generator (TCG) - HPPA target
+Tiny Code Generator (TCG) - i386 target
+Tiny Code Generator (TCG) - IA64 target
+Tiny Code Generator (TCG) - MIPS target
+Tiny Code Generator (TCG) - PPC
+Tiny Code Generator (TCG) - PPC64 target
+Tiny Code Generator (TCG) - S390 target
+Tiny Code Generator (TCG) - SPARC target
+Tiny Code Generator (TCG) - TCI target
+
+UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox
+
+Usermode Emulation - BSD user
+
+Usermode Emulation - Linux user
+
+X86 Machines - PC
+
+Xtensa Machines - Avnet LX60
+
+Xtensa Machines - sim
+

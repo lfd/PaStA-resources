@@ -1,0 +1,397 @@
+from,to,lines,size
+ARM Machines - ARM ACPI Subsystem,ARM Machines - ARM ACPI Subsystem,771,27479
+ARM Machines - ARM ACPI Subsystem,Devices - ACPI/SMBIOS,771,27479
+ARM Machines - ARM ACPI Subsystem,Guest CPU cores (TCG): - ARM,725,26226
+ARM Machines - ARM PrimeCell,ARM Machines - ARM PrimeCell,5039,141248
+ARM Machines - ARM PrimeCell,Devices - Character devices,342,8878
+ARM Machines - ARM cores,ARM Machines - ARM cores,5288,164975
+ARM Machines - Allwinner-a10,ARM Machines - Allwinner-a10,1583,47371
+ARM Machines - Allwinner-a10,Devices - Network devices,533,15534
+ARM Machines - Allwinner-a10,Guest CPU cores (TCG): - ARM,221,7206
+ARM Machines - Calxeda Highbank,ARM Machines - Calxeda Highbank,907,30234
+ARM Machines - Calxeda Highbank,Devices - Network devices,432,14791
+ARM Machines - Calxeda Highbank,Guest CPU cores (TCG): - ARM,475,15443
+ARM Machines - Canon DIGIC,ARM Machines - Canon DIGIC,680,18538
+ARM Machines - Canon DIGIC,Devices - Character devices,197,4975
+ARM Machines - Canon DIGIC,Guest CPU cores (TCG): - ARM,278,8145
+ARM Machines - Exynos,ARM Machines - Exynos,7459,245667
+ARM Machines - Exynos,Devices - Character devices,674,19618
+ARM Machines - Exynos,Guest CPU cores (TCG): - ARM,566,20146
+ARM Machines - Gumstix,ARM Machines - Gumstix,158,4383
+ARM Machines - Gumstix,Guest CPU cores (TCG): - ARM,158,4383
+ARM Machines - Integrator CP,ARM Machines - Integrator CP,679,19985
+ARM Machines - Integrator CP,Guest CPU cores (TCG): - ARM,679,19985
+ARM Machines - Musicpal,ARM Machines - Musicpal,1747,48973
+ARM Machines - Musicpal,Guest CPU cores (TCG): - ARM,1747,48973
+ARM Machines - PXA2XX,ARM Machines - PXA2XX,8885,257435
+ARM Machines - PXA2XX,Guest CPU cores (TCG): - ARM,5101,151414
+ARM Machines - Palm,ARM Machines - Palm,278,9412
+ARM Machines - Palm,Guest CPU cores (TCG): - ARM,278,9412
+ARM Machines - Real View,ARM Machines - Real View,586,18304
+ARM Machines - Real View,Guest CPU cores (TCG): - ARM,471,15177
+ARM Machines - Stellaris,ARM Machines - Stellaris,2063,58756
+ARM Machines - Stellaris,Devices - Network devices,503,14541
+ARM Machines - Stellaris,Guest CPU cores (TCG): - ARM,1473,42015
+ARM Machines - Versatile PB,ARM Machines - Versatile PB,1114,34237
+ARM Machines - Versatile PB,Guest CPU cores (TCG): - ARM,453,13737
+ARM Machines - Xilinx Zynq,ARM Machines - Xilinx Zynq,3828,116602
+ARM Machines - Xilinx Zynq,Devices - Character devices,539,15133
+ARM Machines - Xilinx Zynq,Devices - Network devices,1254,42121
+ARM Machines - Xilinx Zynq,Devices - Xilinx EDK,1086,34388
+ARM Machines - Xilinx Zynq,Devices - Xilinx SPI,771,23871
+ARM Machines - Xilinx Zynq,Guest CPU cores (TCG): - ARM,315,10517
+ARM Machines - Xilinx ZynqMP,ARM Machines - Xilinx ZynqMP,475,16043
+ARM Machines - Xilinx ZynqMP,Guest CPU cores (TCG): - ARM,400,13670
+ARM Machines - i.MX31,ARM Machines - i.MX31,3494,97250
+ARM Machines - i.MX31,Devices - Character devices,366,9548
+ARM Machines - i.MX31,Devices - Network devices,709,19299
+ARM Machines - i.MX31,Guest CPU cores (TCG): - ARM,302,10718
+ARM Machines - nSeries,ARM Machines - nSeries,1452,44017
+ARM Machines - nSeries,Guest CPU cores (TCG): - ARM,1452,44017
+Block drivers - ARCHIPELAGO,Block drivers - ARCHIPELAGO,1084,31819
+Block drivers - ARCHIPELAGO,Subsystems - Block layer core,1084,31819
+Block drivers - Bootdevice,Block drivers - Bootdevice,341,9386
+Block drivers - CURL,Block drivers - CURL,827,23956
+Block drivers - CURL,Subsystems - Block layer core,827,23956
+Block drivers - GLUSTER,Block drivers - GLUSTER,813,22471
+Block drivers - GLUSTER,Subsystems - Block layer core,813,22471
+Block drivers - Image format fuzzer,Block drivers - Image format fuzzer,1417,54531
+Block drivers - NFS,Block drivers - NFS,549,15422
+Block drivers - NFS,Subsystems - Block layer core,549,15422
+Block drivers - Null Block Driver,Block drivers - Null Block Driver,222,6114
+Block drivers - Null Block Driver,Subsystems - Block layer core,222,6114
+Block drivers - Quorum,Block drivers - Quorum,1070,31232
+Block drivers - Quorum,Subsystems - Block layer core,1070,31232
+Block drivers - RBD,Block drivers - RBD,967,25689
+Block drivers - RBD,Subsystems - Block layer core,967,25689
+Block drivers - SSH,Block drivers - SSH,1112,31476
+Block drivers - SSH,Subsystems - Block layer core,1112,31476
+Block drivers - Sheepdog,Block drivers - Sheepdog,2910,80858
+Block drivers - Sheepdog,Subsystems - Block layer core,2910,80858
+Block drivers - VDI,Block drivers - VDI,915,30613
+Block drivers - VDI,Subsystems - Block layer core,915,30613
+Block drivers - VHDX,Block drivers - VHDX,3698,121637
+Block drivers - VHDX,Subsystems - Block layer core,3698,121637
+Block drivers - VMDK,Block drivers - VMDK,2319,72634
+Block drivers - VMDK,Subsystems - Block layer core,2319,72634
+Block drivers - blkdebug,Block drivers - blkdebug,812,23423
+Block drivers - blkdebug,Subsystems - Block layer core,812,23423
+Block drivers - blkverify,Block drivers - blkverify,369,11192
+Block drivers - blkverify,Subsystems - Block layer core,369,11192
+Block drivers - bochs,Block drivers - bochs,277,8448
+Block drivers - bochs,Subsystems - Block layer core,277,8448
+Block drivers - cloop,Block drivers - cloop,283,8822
+Block drivers - cloop,Subsystems - Block layer core,283,8822
+Block drivers - dmg,Block drivers - dmg,725,22381
+Block drivers - dmg,Subsystems - Block layer core,725,22381
+Block drivers - iSCSI,Block drivers - iSCSI,1874,56802
+Block drivers - iSCSI,Subsystems - Block layer core,1874,56802
+Block drivers - parallels,Block drivers - parallels,760,21742
+Block drivers - parallels,Subsystems - Block layer core,760,21742
+Block drivers - qcow,Block drivers - qcow,1039,32781
+Block drivers - qcow,Subsystems - Block layer core,1039,32781
+Block drivers - qcow2,Block drivers - qcow2,9299,301944
+Block drivers - qcow2,Subsystems - Block layer core,9299,301944
+Block drivers - qed,Block drivers - qed,1699,50666
+Block drivers - qed,Subsystems - Block layer core,1699,50666
+Block drivers - raw,Block drivers - raw,4233,118185
+Block drivers - raw,Subsystems - Block layer core,4233,118185
+Block drivers - vpc,Block drivers - vpc,946,27873
+Block drivers - vpc,Subsystems - Block layer core,946,27873
+Block drivers - vvfat,Block drivers - vvfat,3043,87610
+Block drivers - vvfat,Subsystems - Block layer core,3043,87610
+CRIS Machines - Axis Dev88,CRIS Machines - Axis Dev88,2591,71826
+CRIS Machines - Axis Dev88,Devices - Character devices,253,6830
+CRIS Machines - Axis Dev88,Devices - Network devices,646,16779
+CRIS Machines - Axis Dev88,Guest CPU cores (TCG): - CRIS,361,11037
+Devices - ACPI/SMBIOS,Devices - ACPI/SMBIOS,11982,393560
+Devices - ACPI/SMBIOS,Guest CPU cores (TCG): - ARM,725,26226
+Devices - ACPI/SMBIOS,Guest CPU cores (TCG): - X86,3155,111764
+Devices - ACPI/SMBIOS,X86 Machines - PC,4362,149813
+Devices - Character devices,Devices - Character devices,11199,313766
+Devices - Character devices,Devices - IPack,603,16428
+Devices - Character devices,Devices - OMAP,187,5233
+Devices - Character devices,Devices - Xilinx EDK,248,6556
+Devices - Character devices,Devices - virtio,1348,38808
+Devices - Character devices,Devices - virtio-serial,1348,38808
+Devices - Character devices,Guest CPU Cores (Xen): - X86,305,8467
+Devices - Character devices,Guest CPU cores (TCG): - LM32,723,17012
+Devices - Character devices,PowerPC Machines - sPAPR (pseries),245,6610
+Devices - Character devices,S390 Machines - S390 Virtio-ccw,668,18432
+Devices - Character devices,SPARC Machines - Leon3,298,8023
+Devices - Character devices,X86 Machines - PC Chipset,2174,67096
+Devices - EDU,Devices - EDU,408,10631
+Devices - Floppy,Devices - Floppy,3162,92029
+Devices - Floppy,Subsystems - Block layer core,2541,77338
+Devices - IDE,Devices - IDE,15241,463520
+Devices - IDE,Subsystems - Block layer core,411,13002
+Devices - IPack,Devices - IPack,1380,38520
+Devices - LSI53C895A,Devices - LSI53C895A,2163,63283
+Devices - LSI53C895A,Devices - SCSI,2163,63283
+Devices - Network devices,Devices - Network devices,38666,1194481
+Devices - Network devices,Devices - Rocker,5975,176877
+Devices - Network devices,Devices - Vmware,4563,134987
+Devices - Network devices,Devices - Xilinx EDK,1355,37309
+Devices - Network devices,Devices - ppce500,2046,74974
+Devices - Network devices,Devices - vhost,495,12698
+Devices - Network devices,Devices - virtio,1868,57380
+Devices - Network devices,Guest CPU Cores (Xen): - X86,421,13674
+Devices - Network devices,Guest CPU cores (TCG): - LM32,540,14112
+Devices - Network devices,PowerPC Machines - sPAPR (pseries),569,17809
+Devices - Network devices,"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",764,20004
+Devices - OMAP,Devices - OMAP,17188,500427
+Devices - OMAP,Devices - SSI,373,10514
+Devices - OMAP,Guest CPU cores (TCG): - ARM,7020,215055
+Devices - PCI,Devices - PCI,10694,339437
+Devices - PCI,PowerPC Machines - New World,171,5263
+Devices - Rocker,Devices - Rocker,5975,176877
+Devices - SCSI,Devices - SCSI,17773,531825
+Devices - SCSI,Devices - Vmware,1653,48616
+Devices - SCSI,Devices - megasas,3819,120019
+Devices - SCSI,Devices - vhost,352,10610
+Devices - SCSI,Devices - virtio,1334,41290
+Devices - SCSI,PowerPC Machines - sPAPR (pseries),1301,38289
+Devices - SSI,Devices - SSI,1590,45839
+Devices - SSI,Subsystems - Block layer core,711,21787
+Devices - USB,Devices - USB,33609,1041072
+Devices - USB,Devices - USB (serial adapter),649,17970
+Devices - USB (serial adapter),Devices - USB (serial adapter),649,17970
+Devices - VFIO,Devices - VFIO,5852,187481
+Devices - Vmware,Devices - Vmware,6216,183603
+Devices - Xilinx EDK,Devices - Xilinx EDK,4219,119917
+Devices - Xilinx EDK,Devices - Xilinx SPI,1161,33749
+Devices - Xilinx EDK,Guest CPU cores (TCG): - ARM,315,10517
+Devices - Xilinx SPI,Devices - Xilinx SPI,1161,33749
+Devices - megasas,Devices - megasas,3819,120019
+Devices - nvme,Devices - nvme,1718,49320
+Devices - nvme,Subsystems - Block layer core,1684,48607
+Devices - ppc4xx,Devices - ppc4xx,4636,130550
+Devices - ppc4xx,Guest CPU cores (TCG): - PowerPC,4636,130550
+Devices - ppc4xx,PowerPC Machines - 405,660,20632
+Devices - ppc4xx,PowerPC Machines - Bamboo,299,9738
+Devices - ppce500,Devices - ppce500,3791,130801
+Devices - ppce500,Guest CPU cores (TCG): - PowerPC,1195,39310
+Devices - ppce500,PowerPC Machines - e500,1178,38973
+Devices - vhost,Devices - vhost,2986,88493
+Devices - virtio,Devices - virtio,25701,755964
+Devices - virtio,Devices - virtio-9p,8552,230349
+Devices - virtio,Devices - virtio-blk,1023,32232
+Devices - virtio,Devices - virtio-ccw,2206,70924
+Devices - virtio,Devices - virtio-input,997,31594
+Devices - virtio,Devices - virtio-rng,267,7589
+Devices - virtio,Devices - virtio-serial,1348,38808
+Devices - virtio,Guest CPU cores (TCG): - S390,2206,70924
+Devices - virtio,S390 Machines - S390 Virtio-ccw,2206,70924
+Devices - virtio,Subsystems - Block layer core,1023,32232
+Devices - virtio,Subsystems - Network device backends,326,8613
+Devices - virtio-9p,Devices - virtio-9p,11580,310544
+Devices - virtio-blk,Devices - virtio-blk,1912,59681
+Devices - virtio-blk,Subsystems - Block layer core,1385,43548
+Devices - virtio-ccw,Devices - virtio-ccw,2206,70924
+Devices - virtio-ccw,Guest CPU cores (TCG): - S390,2206,70924
+Devices - virtio-ccw,S390 Machines - S390 Virtio-ccw,2206,70924
+Devices - virtio-input,Devices - virtio-input,1116,35931
+Devices - virtio-rng,Devices - virtio-rng,815,20505
+Devices - virtio-serial,Devices - virtio-serial,1572,45311
+General Project Administration,General Project Administration,0,0
+Guest CPU Cores (KVM): - ARM,Guest CPU Cores (KVM): - ARM,616,15790
+Guest CPU Cores (KVM): - ARM,Guest CPU Cores (KVM): - Overall,616,15790
+Guest CPU Cores (KVM): - ARM,Guest CPU cores (TCG): - ARM,616,15790
+Guest CPU Cores (KVM): - MIPS,Guest CPU Cores (KVM): - MIPS,689,18995
+Guest CPU Cores (KVM): - MIPS,Guest CPU Cores (KVM): - Overall,689,18995
+Guest CPU Cores (KVM): - MIPS,Guest CPU cores (TCG): - MIPS,689,18995
+Guest CPU Cores (KVM): - Overall,Guest CPU Cores (KVM): - Overall,14553,422603
+Guest CPU Cores (KVM): - Overall,Guest CPU Cores (KVM): - PPC,2524,71968
+Guest CPU Cores (KVM): - Overall,Guest CPU Cores (KVM): - S390,2252,62626
+Guest CPU Cores (KVM): - Overall,Guest CPU Cores (KVM): - X86,3088,93619
+Guest CPU Cores (KVM): - Overall,Guest CPU cores (TCG): - ARM,1985,58753
+Guest CPU Cores (KVM): - Overall,Guest CPU cores (TCG): - MIPS,715,19689
+Guest CPU Cores (KVM): - Overall,Guest CPU cores (TCG): - PowerPC,2826,78896
+Guest CPU Cores (KVM): - Overall,Guest CPU cores (TCG): - S390,2252,62626
+Guest CPU Cores (KVM): - Overall,Guest CPU cores (TCG): - X86,3165,95842
+Guest CPU Cores (KVM): - PPC,Guest CPU Cores (KVM): - PPC,2524,71968
+Guest CPU Cores (KVM): - PPC,Guest CPU cores (TCG): - PowerPC,2524,71968
+Guest CPU Cores (KVM): - S390,Guest CPU Cores (KVM): - S390,4296,122990
+Guest CPU Cores (KVM): - S390,Guest CPU cores (TCG): - S390,3500,97282
+Guest CPU Cores (KVM): - S390,S390 Machines - S390 Virtio-ccw,79,2259
+Guest CPU Cores (KVM): - S390,Subsystems - GDB stub,184,9045
+Guest CPU Cores (KVM): - X86,Guest CPU Cores (KVM): - X86,3088,93619
+Guest CPU Cores (KVM): - X86,Guest CPU cores (TCG): - X86,3088,93619
+Guest CPU Cores (Xen): - X86,Guest CPU Cores (Xen): - X86,10652,320726
+Guest CPU cores (TCG): - ARM,Guest CPU cores (TCG): - ARM,86360,2847219
+Guest CPU cores (TCG): - ARM,Tiny Code Generator (TCG) - AArch64 target,8172,270359
+Guest CPU cores (TCG): - ARM,Tiny Code Generator (TCG) - ARM target,4012,157625
+Guest CPU cores (TCG): - Alpha,Guest CPU cores (TCG): - Alpha,9514,296579
+Guest CPU cores (TCG): - CRIS,Guest CPU cores (TCG): - CRIS,18091,424913
+Guest CPU cores (TCG): - LM32,Guest CPU cores (TCG): - LM32,11930,271897
+Guest CPU cores (TCG): - LM32,LM32 Machines - EVR32 and uclinux BSP,331,10749
+Guest CPU cores (TCG): - LM32,LM32 Machines - milkymist,219,7029
+Guest CPU cores (TCG): - LM32,Subsystems - Audio,348,8559
+Guest CPU cores (TCG): - M68K,Guest CPU cores (TCG): - M68K,6616,177877
+Guest CPU cores (TCG): - M68K,M68K Machines - an5206,98,2744
+Guest CPU cores (TCG): - M68K,M68K Machines - dummy_m68k,81,2269
+Guest CPU cores (TCG): - M68K,M68K Machines - mcf5208,304,8486
+Guest CPU cores (TCG): - MIPS,Guest CPU cores (TCG): - MIPS,67105,1993281
+Guest CPU cores (TCG): - MIPS,MIPS Machines - Jazz,388,13060
+Guest CPU cores (TCG): - MIPS,MIPS Machines - Malta,1223,40692
+Guest CPU cores (TCG): - MIPS,MIPS Machines - Mipssim,240,7938
+Guest CPU cores (TCG): - MIPS,MIPS Machines - R4000,307,9623
+Guest CPU cores (TCG): - MIPS,Tiny Code Generator (TCG) - MIPS target,5795,273169
+Guest CPU cores (TCG): - MicroBlaze,Guest CPU cores (TCG): - MicroBlaze,5524,201796
+Guest CPU cores (TCG): - MicroBlaze,MicroBlaze Machines - petalogix_ml605,216,8434
+Guest CPU cores (TCG): - MicroBlaze,MicroBlaze Machines - petalogix_s3adsp1800,134,5158
+Guest CPU cores (TCG): - Moxie,Guest CPU cores (TCG): - Moxie,1842,56152
+Guest CPU cores (TCG): - OpenRISC,Guest CPU cores (TCG): - OpenRISC,6738,170693
+Guest CPU cores (TCG): - OpenRISC,OpenRISC Machines - or1k-sim,143,4505
+Guest CPU cores (TCG): - Overall,Guest CPU cores (TCG): - Overall,11294,339298
+Guest CPU cores (TCG): - Overall,Subsystems - Main loop,1702,44683
+Guest CPU cores (TCG): - Overall,Subsystems - Memory API,3618,104448
+Guest CPU cores (TCG): - PowerPC,Guest CPU cores (TCG): - PowerPC,69303,2441474
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - 405,660,20632
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - Bamboo,299,9738
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - New World,530,19291
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - Old World,373,13107
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - PReP,674,20242
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - e500,1178,38973
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - mpc8544ds,200,5840
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - sPAPR (pseries),9425,296042
+Guest CPU cores (TCG): - PowerPC,PowerPC Machines - virtex_ml507,306,10144
+Guest CPU cores (TCG): - PowerPC,Tiny Code Generator (TCG) - PPC,5413,242713
+Guest CPU cores (TCG): - S390,Guest CPU cores (TCG): - S390,28623,895901
+Guest CPU cores (TCG): - S390,S390 Machines - S390 Virtio,1979,58293
+Guest CPU cores (TCG): - S390,S390 Machines - S390 Virtio-ccw,8811,262436
+Guest CPU cores (TCG): - S390,Tiny Code Generator (TCG) - S390 target,1896,101702
+Guest CPU cores (TCG): - SH4,Guest CPU cores (TCG): - SH4,9449,331706
+Guest CPU cores (TCG): - SH4,SH4 Machines - R2D,363,10619
+Guest CPU cores (TCG): - SH4,SH4 Machines - Shix,97,3393
+Guest CPU cores (TCG): - SPARC,Guest CPU cores (TCG): - SPARC,19891,706878
+Guest CPU cores (TCG): - SPARC,SPARC Machines - Leon3,225,7010
+Guest CPU cores (TCG): - SPARC,SPARC Machines - Sun4m,1593,47326
+Guest CPU cores (TCG): - SPARC,SPARC Machines - Sun4u,1032,30762
+Guest CPU cores (TCG): - SPARC,Tiny Code Generator (TCG) - SPARC target,3236,173819
+Guest CPU cores (TCG): - TriCore,Guest CPU cores (TCG): - TriCore,13781,459272
+Guest CPU cores (TCG): - UniCore32,Guest CPU cores (TCG): - UniCore32,3868,106212
+Guest CPU cores (TCG): - UniCore32,UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox,144,4346
+Guest CPU cores (TCG): - X86,Guest CPU cores (TCG): - X86,62168,1685059
+Guest CPU cores (TCG): - X86,Subsystems - CPU,3233,108890
+Guest CPU cores (TCG): - X86,Tiny Code Generator (TCG) - i386 target,6745,167186
+Guest CPU cores (TCG): - X86,X86 Machines - PC,24985,531193
+Guest CPU cores (TCG): - Xtensa,Guest CPU cores (TCG): - Xtensa,14140,428375
+Guest CPU cores (TCG): - Xtensa,"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",512,16459
+Guest CPU cores (TCG): - Xtensa,Xtensa Machines - sim,115,4088
+Hosts: - LINUX,Hosts: - LINUX,8195,278334
+Hosts: - POSIX,Hosts: - POSIX,830,20984
+Hosts: - POSIX,Subsystems - Block I/O path,494,12992
+"Hosts: - W32, W64","Hosts: - W32, W64",761,21790
+"Hosts: - W32, W64",Subsystems - Block I/O path,375,10460
+LM32 Machines - EVR32 and uclinux BSP,LM32 Machines - EVR32 and uclinux BSP,331,10749
+LM32 Machines - milkymist,LM32 Machines - milkymist,219,7029
+M68K Machines - an5206,M68K Machines - an5206,98,2744
+M68K Machines - dummy_m68k,M68K Machines - dummy_m68k,81,2269
+M68K Machines - mcf5208,M68K Machines - mcf5208,304,8486
+MIPS Machines - Jazz,MIPS Machines - Jazz,388,13060
+MIPS Machines - Malta,MIPS Machines - Malta,1223,40692
+MIPS Machines - Mipssim,MIPS Machines - Mipssim,240,7938
+MIPS Machines - R4000,MIPS Machines - R4000,307,9623
+MicroBlaze Machines - petalogix_ml605,MicroBlaze Machines - petalogix_ml605,216,8434
+MicroBlaze Machines - petalogix_s3adsp1800,MicroBlaze Machines - petalogix_s3adsp1800,134,5158
+OpenRISC Machines - or1k-sim,OpenRISC Machines - or1k-sim,143,4505
+PowerPC Machines - 405,PowerPC Machines - 405,660,20632
+PowerPC Machines - Bamboo,PowerPC Machines - Bamboo,299,9738
+PowerPC Machines - New World,PowerPC Machines - New World,3265,97050
+PowerPC Machines - New World,PowerPC Machines - Old World,2041,55891
+PowerPC Machines - Old World,PowerPC Machines - Old World,2582,74471
+PowerPC Machines - PReP,PowerPC Machines - PReP,1478,44568
+PowerPC Machines - e500,PowerPC Machines - e500,1178,38973
+PowerPC Machines - mpc8544ds,PowerPC Machines - mpc8544ds,200,5840
+PowerPC Machines - sPAPR (pseries),PowerPC Machines - sPAPR (pseries),14750,457836
+PowerPC Machines - virtex_ml507,PowerPC Machines - virtex_ml507,306,10144
+"Responsible Disclosure, Reporting Security Issues","Responsible Disclosure, Reporting Security Issues",0,0
+S390 Machines - S390 Virtio,S390 Machines - S390 Virtio,1979,58293
+S390 Machines - S390 Virtio,S390 Machines - S390 Virtio-ccw,1221,34596
+S390 Machines - S390 Virtio-ccw,S390 Machines - S390 Virtio-ccw,13087,382997
+SH4 Machines - R2D,SH4 Machines - R2D,363,10619
+SH4 Machines - Shix,SH4 Machines - Shix,97,3393
+SPARC Machines - Leon3,SPARC Machines - Leon3,1308,36051
+SPARC Machines - Sun4m,SPARC Machines - Sun4m,1593,47326
+SPARC Machines - Sun4u,SPARC Machines - Sun4u,1032,30762
+Stable branches - Stable 0.10,Stable branches - Stable 0.10,0,0
+Stable branches - Stable 0.14,Stable branches - Stable 0.14,0,0
+Stable branches - Stable 0.15,Stable branches - Stable 0.15,0,0
+Stable branches - Stable 1.0,Stable branches - Stable 1.0,0,0
+Subsystems - Audio,Subsystems - Audio,24800,688137
+Subsystems - Audio,Subsystems - SPICE,411,11442
+Subsystems - Block I/O path,Subsystems - Block I/O path,4906,140375
+Subsystems - Block I/O path,Subsystems - Block layer core,2758,82616
+Subsystems - Block I/O path,Subsystems - Migration,902,24678
+Subsystems - Block Jobs,Subsystems - Block Jobs,2689,82309
+Subsystems - Block Jobs,Subsystems - Block layer core,2689,82309
+"Subsystems - Block QAPI, monitor, command line","Subsystems - Block QAPI, monitor, command line",7369,230009
+"Subsystems - Block QAPI, monitor, command line",Subsystems - Block layer core,4782,146563
+"Subsystems - Block QAPI, monitor, command line",Subsystems - QAPI Schema,2587,83446
+Subsystems - Block layer core,Subsystems - Block layer core,264817,10779020
+Subsystems - Block layer core,Subsystems - Network Block Device (NBD),451,13944
+Subsystems - Buffers,Subsystems - Buffers,332,8916
+Subsystems - CPU,Subsystems - CPU,4393,143245
+Subsystems - Character Devices (Braille),Subsystems - Character Devices (Braille),642,20698
+Subsystems - Character device backends,Subsystems - Character device backends,4609,125110
+Subsystems - Checkpatch,Subsystems - Checkpatch,2579,69628
+Subsystems - Cocoa graphics,Subsystems - Cocoa graphics,1459,53140
+Subsystems - Cocoa graphics,Subsystems - Graphics,1459,53140
+Subsystems - Coroutines,Subsystems - Coroutines,1909,51721
+Subsystems - Coverity model,Subsystems - Coverity model,343,7903
+Subsystems - Cryptography,Subsystems - Cryptography,8315,294012
+Subsystems - Device Tree,Subsystems - Device Tree,352,8777
+Subsystems - Error reporting,Subsystems - Error reporting,755,19011
+Subsystems - Error reporting,Subsystems - QAPI,229,7119
+Subsystems - GDB stub,Subsystems - GDB stub,2593,80604
+Subsystems - Graphics,Subsystems - Graphics,30600,923402
+Subsystems - Graphics,Subsystems - SPICE,1985,60052
+Subsystems - Human Monitor (HMP),Subsystems - Human Monitor (HMP),8383,239545
+Subsystems - Human Monitor (HMP),Subsystems - QMP,4245,115526
+Subsystems - ICC Bus,Subsystems - ICC Bus,0,0
+Subsystems - Main loop,Subsystems - Main loop,7588,214212
+Subsystems - Memory API,Subsystems - Memory API,7985,252088
+Subsystems - Migration,Subsystems - Migration,19112,575028
+Subsystems - NUMA,Subsystems - NUMA,632,18209
+Subsystems - Netmap network backend,Subsystems - Netmap network backend,463,13045
+Subsystems - Netmap network backend,Subsystems - Network device backends,463,13045
+Subsystems - Network Block Device (NBD),Subsystems - Network Block Device (NBD),2729,75336
+Subsystems - Network device backends,Subsystems - Network device backends,9583,265068
+Subsystems - QAPI,Subsystems - QAPI,12452,392483
+Subsystems - QAPI Schema,Subsystems - QAPI Schema,7695,212794
+Subsystems - QEMU Guest Agent,Subsystems - QEMU Guest Agent,9899,286657
+Subsystems - QMP,Subsystems - QMP,12985,365136
+Subsystems - QOM,Subsystems - QOM,4727,134407
+Subsystems - QObject,Subsystems - QObject,6056,156659
+Subsystems - SLIRP,Subsystems - SLIRP,11399,323096
+Subsystems - SPICE,Subsystems - SPICE,5590,176949
+Subsystems - Seccomp,Subsystems - Seccomp,306,9397
+Subsystems - Tracing,Subsystems - Tracing,3411,98939
+Tiny Code Generator (TCG) - AArch64 target,Tiny Code Generator (TCG) - AArch64 target,10173,337245
+Tiny Code Generator (TCG) - AArch64 target,Tiny Code Generator (TCG) - Common code,2001,66886
+Tiny Code Generator (TCG) - ARM target,Tiny Code Generator (TCG) - ARM target,6249,233741
+Tiny Code Generator (TCG) - ARM target,Tiny Code Generator (TCG) - Common code,2237,76116
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - Common code,29044,937055
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - IA64 target,2630,89327
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - MIPS target,2037,62313
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - PPC,2881,89409
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - S390 target,2533,80341
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - SPARC target,1813,57736
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - TCI target,1195,37396
+Tiny Code Generator (TCG) - Common code,Tiny Code Generator (TCG) - i386 target,2613,84518
+Tiny Code Generator (TCG) - IA64 target,Tiny Code Generator (TCG) - IA64 target,13231,495539
+Tiny Code Generator (TCG) - MIPS target,Tiny Code Generator (TCG) - MIPS target,7832,335482
+Tiny Code Generator (TCG) - PPC,Tiny Code Generator (TCG) - PPC,8294,332122
+Tiny Code Generator (TCG) - S390 target,Tiny Code Generator (TCG) - S390 target,4429,182043
+Tiny Code Generator (TCG) - SPARC target,Tiny Code Generator (TCG) - SPARC target,5049,231555
+Tiny Code Generator (TCG) - TCI target,Tiny Code Generator (TCG) - TCI target,2496,76217
+Tiny Code Generator (TCG) - i386 target,Tiny Code Generator (TCG) - i386 target,9358,251704
+UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox,UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox,851,21441
+Usermode Emulation - BSD user,Usermode Emulation - BSD user,7112,255027
+Usermode Emulation - Linux user,Usermode Emulation - Linux user,51091,1707758
+Usermode Emulation - Overall,Usermode Emulation - Overall,1002,30923
+X86 Machines - PC,X86 Machines - PC,30794,717998
+X86 Machines - PC Chipset,X86 Machines - PC Chipset,8224,240207
+"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)","Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",1276,36463
+Xtensa Machines - sim,Xtensa Machines - sim,115,4088
