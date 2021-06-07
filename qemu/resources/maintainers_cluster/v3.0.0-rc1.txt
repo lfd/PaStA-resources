@@ -1,0 +1,328 @@
+Architecture support - S390
+ARM Machines - ARM PrimeCell and CMSDK devices
+ARM Machines - Canon DIGIC
+ARM Machines - Exynos
+Devices - Character devices
+Devices - IPack
+Devices - VFIO
+Devices - vfio-ccw
+Devices - virtio
+Devices - virtio-blk
+Devices - virtio-ccw
+Devices - virtio-crypto
+Devices - virtio-gpu
+Devices - virtio-input
+Devices - virtio-rng
+Devices - virtio-serial
+Guest CPU Cores (KVM): - S390
+Guest CPU cores (TCG): - S390
+S390 Machines - S390 Virtio-ccw
+S390 Machines - S390-ccw Bios
+SPARC Machines - Leon3
+Subsystems - GDB stub
+Tiny Code Generator (TCG) - Common code
+Tiny Code Generator (TCG) - S390 target
+Tiny Code Generator (TCG) - TCI target
+X86 Machines - PC Chipset
+
+ARM Machines - Allwinner-a10
+ARM Machines - Calxeda Highbank
+ARM Machines - i.MX31
+ARM Machines - Xilinx Zynq
+Devices - e1000e
+Devices - e1000x
+Devices - eepro100
+Devices - megasas
+Devices - Network devices
+Devices - Network packet abstractions
+Devices - Rocker
+Devices - SCSI
+Devices - vhost
+Devices - Vmware
+M68K Machines - mcf5208
+MIPS Machines - Mipssim
+
+ARM Machines - ARM ACPI Subsystem
+Devices - ACPI/SMBIOS
+Devices - IPMI
+Devices - NVDIMM
+Devices - virtio-9p
+Devices - VM Generation ID
+Guest CPU Cores (KVM): - X86
+Guest CPU cores (TCG): - X86
+Guest CPU Cores (Xen): - X86
+Tiny Code Generator (TCG) - i386 target
+X86 Machines - PC
+
+ARM Machines - ARM cores
+
+ARM Machines - ASPEED BMCs
+ARM Machines - Emcraft M2S-FG484
+ARM Machines - Gumstix
+ARM Machines - Integrator CP
+ARM Machines - MPS2
+ARM Machines - Musicpal
+ARM Machines - Netduino 2
+ARM Machines - nSeries
+ARM Machines - Palm
+ARM Machines - PXA2XX
+ARM Machines - Real View
+ARM Machines - SmartFusion2
+ARM Machines - Stellaris
+ARM Machines - STM32F205
+ARM Machines - Versatile PB
+ARM Machines - Xilinx ZynqMP
+Devices - OMAP
+Devices - SSI
+Guest CPU Cores (KVM): - ARM
+Guest CPU cores (TCG): - ARM
+Tiny Code Generator (TCG) - AArch64 target
+Tiny Code Generator (TCG) - ARM target
+
+Block drivers - blkdebug
+Block drivers - blklogwrites
+Block drivers - blkverify
+Block drivers - bochs
+Block drivers - cloop
+Block drivers - CURL
+Block drivers - dmg
+Block drivers - GLUSTER
+Block drivers - iSCSI
+Block drivers - Network Block Device (NBD)
+Block drivers - NFS
+Block drivers - Null Block Driver
+Block drivers - NVMe Block Driver
+Block drivers - parallels
+Block drivers - qcow
+Block drivers - qcow2
+Block drivers - qed
+Block drivers - Quorum
+Block drivers - raw
+Block drivers - RBD
+Block drivers - Replication
+Block drivers - Sheepdog
+Block drivers - SSH
+Block drivers - VDI
+Block drivers - VHDX
+Block drivers - VMDK
+Block drivers - vpc
+Block drivers - vvfat
+Devices - Floppy
+Devices - nvme
+Hosts: - W32, W64
+Subsystems - Block I/O path
+Subsystems - Block Jobs
+Subsystems - Block layer core
+Subsystems - Block QAPI, monitor, command line
+Subsystems - COLO Framework
+Subsystems - Coroutines
+Subsystems - Dirty Bitmaps
+Subsystems - Migration
+Subsystems - QAPI Schema
+Subsystems - QObject
+Subsystems - Record/replay
+Subsystems - Sockets
+Subsystems - Stubs
+Subsystems - Throttling infrastructure
+Subsystems - TPM
+
+Block drivers - Bootdevice
+
+Block drivers - Image format fuzzer
+
+Block drivers - PVRDMA
+
+Build and test automation - Build and test automation
+
+Build and test automation - Guest Test Compilation Support
+
+CRIS Machines - Axis Dev88
+Guest CPU cores (TCG): - CRIS
+
+Devices - CHRP NVRAM
+
+Devices - Cirrus VGA
+
+Devices - EDU
+
+Devices - Generic Loader
+
+Devices - IDE
+PowerPC Machines - sam460ex
+
+Devices - PCI
+PowerPC Machines - New World
+PowerPC Machines - Old World
+
+Devices - ppc4xx
+Devices - ppce500
+Guest CPU Cores (KVM): - PPC
+Guest CPU cores (TCG): - PowerPC
+PowerPC Machines - 405
+PowerPC Machines - Bamboo
+PowerPC Machines - e500
+PowerPC Machines - mpc8544ds
+PowerPC Machines - PReP
+PowerPC Machines - sPAPR
+PowerPC Machines - virtex_ml507
+Tiny Code Generator (TCG) - PPC
+
+Devices - ramfb
+
+Devices - SD (Secure Card)
+
+Devices - Standard VGA
+
+Devices - Unimplemented device
+
+Devices - USB
+Devices - USB (serial adapter)
+
+Devices - Xilinx SPI
+
+Documentation - Build system architecture
+
+Documentation - Incompatible changes
+
+Guest CPU Cores (KVM): - MIPS
+Guest CPU cores (TCG): - MIPS
+MIPS Machines - Boston
+MIPS Machines - Fulong 2E
+MIPS Machines - Jazz
+MIPS Machines - Malta
+MIPS Machines - R4000
+Tiny Code Generator (TCG) - MIPS target
+
+Guest CPU Cores (KVM): - Overall
+
+Guest CPU cores (TCG): - Alpha
+
+Guest CPU cores (TCG): - FPU emulation
+
+Guest CPU cores (TCG): - HPPA (PA-RISC)
+
+Guest CPU cores (TCG): - LM32
+LM32 Machines - EVR32 and uclinux BSP
+LM32 Machines - milkymist
+Subsystems - Audio
+
+Guest CPU cores (TCG): - M68K
+
+Guest CPU cores (TCG): - MicroBlaze
+MicroBlaze Machines - petalogix_ml605
+MicroBlaze Machines - petalogix_s3adsp1800
+
+Guest CPU cores (TCG): - Moxie
+
+Guest CPU cores (TCG): - Multiarch Linux User Tests
+
+Guest CPU cores (TCG): - NiosII
+
+Guest CPU cores (TCG): - OpenRISC
+OpenRISC Machines - or1k-sim
+
+Guest CPU cores (TCG): - Overall
+Subsystems - Main loop
+Subsystems - Memory API
+Usermode Emulation - Overall
+
+Guest CPU cores (TCG): - RISC-V
+
+Guest CPU cores (TCG): - SH4
+SH4 Machines - R2D
+SH4 Machines - Shix
+
+Guest CPU cores (TCG): - SPARC
+SPARC Machines - Sun4m
+SPARC Machines - Sun4u
+SPARC Machines - Sun4v
+Tiny Code Generator (TCG) - SPARC target
+
+Guest CPU cores (TCG): - TriCore
+
+Guest CPU cores (TCG): - UniCore32
+UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox
+
+Guest CPU cores (TCG): - Xtensa
+Xtensa Machines - sim
+Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)
+
+Hosts: - Alpha Machines
+
+Hosts: - LINUX
+
+Hosts: - NETBSD
+
+Hosts: - OPENBSD
+
+Hosts: - POSIX
+
+M68K Machines - an5206
+
+Responsible Disclosure, Reporting Security Issues
+
+Subsystems - Block SCSI subsystem
+
+Subsystems - Buffers
+
+Subsystems - Character device backends
+Subsystems - Character Devices (Braille)
+
+Subsystems - Checkpatch
+
+Subsystems - Cocoa graphics
+Subsystems - Graphics
+Subsystems - SPICE
+
+Subsystems - COLO Proxy
+Subsystems - Netmap network backend
+Subsystems - Network device backends
+Subsystems - SLIRP
+
+Subsystems - Command line option argument parsing
+
+Subsystems - Coverity model
+
+Subsystems - CPU
+
+Subsystems - Cryptodev Backends
+
+Subsystems - Cryptography
+
+Subsystems - Device Tree
+
+Subsystems - Dump
+Subsystems - Human Monitor (HMP)
+Subsystems - Python scripts
+Subsystems - QMP
+Subsystems - Tracing
+
+Subsystems - Error reporting
+Subsystems - QAPI
+
+Subsystems - Host Memory Backends
+
+Subsystems - I/O Channels
+
+Subsystems - IOVA Tree
+
+Subsystems - NUMA
+
+Subsystems - QEMU Guest Agent
+
+Subsystems - QOM
+
+Subsystems - Register API
+
+Subsystems - Seccomp
+
+Subsystems - UUID
+
+Trivial patches - Trivial patches
+
+Usermode Emulation - BSD user
+
+Usermode Emulation - Linux user
+
+X86 Machines - Machine core
+

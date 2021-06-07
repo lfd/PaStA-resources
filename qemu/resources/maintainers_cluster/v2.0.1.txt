@@ -1,0 +1,186 @@
+ARM Machines - Allwinner-a10
+ARM Machines - Calxeda Highbank
+ARM Machines - Canon DIGIC
+ARM Machines - Exynos
+ARM Machines - Gumstix
+ARM Machines - i.MX31
+ARM Machines - Integrator CP
+ARM Machines - Mainstone
+ARM Machines - Musicpal
+ARM Machines - nSeries
+ARM Machines - Palm
+ARM Machines - Real View
+ARM Machines - Spitz
+ARM Machines - Stellaris
+ARM Machines - Versatile PB
+Devices - OMAP
+Guest CPU cores (TCG): - ARM
+
+ARM Machines - Xilinx Zynq
+Devices - SSI
+Devices - Xilinx EDK
+
+Block drivers - iSCSI
+Block drivers - NFS
+Block drivers - RBD
+Block drivers - Sheepdog
+Block drivers - VDI
+Block drivers - VHDX
+Block drivers - VMDK
+Devices - nvme
+Subsystems - Block
+Subsystems - Network Block Device (NBD)
+
+CRIS Machines - Axis Dev88
+Guest CPU cores (TCG): - CRIS
+
+Devices - IDE
+
+Devices - LSI53C895A
+Devices - SCSI
+Devices - vhost
+
+Devices - PCI
+Guest CPU Cores (KVM): - ARM
+Guest CPU Cores (KVM): - Overall
+Guest CPU Cores (KVM): - X86
+Guest CPU cores (TCG): - X86
+Subsystems - CPU
+X86 Machines - PC
+
+Devices - ppc4xx
+Devices - ppce500
+Guest CPU Cores (KVM): - PPC
+Guest CPU cores (TCG): - PowerPC
+PowerPC Machines - 405
+PowerPC Machines - Bamboo
+PowerPC Machines - e500
+PowerPC Machines - mpc8544ds
+PowerPC Machines - PReP
+PowerPC Machines - sPAPR
+PowerPC Machines - virtex_ml507
+
+Devices - USB
+
+Devices - VFIO
+
+Devices - virtio
+Devices - virtio-9p
+Devices - virtio-blk
+Devices - virtio-ccw
+Devices - virtio-serial
+Guest CPU Cores (KVM): - S390
+Guest CPU cores (TCG): - S390
+S390 Machines - S390 Virtio
+S390 Machines - S390 Virtio-ccw
+
+Guest CPU cores (TCG): - Alpha
+
+Guest CPU cores (TCG): - LM32
+LM32 Machines - EVR32 and uclinux BSP
+LM32 Machines - milkymist
+
+Guest CPU cores (TCG): - M68K
+M68K Machines - an5206
+M68K Machines - dummy_m68k
+M68K Machines - mcf5208
+
+Guest CPU cores (TCG): - MicroBlaze
+MicroBlaze Machines - petalogix_ml605
+MicroBlaze Machines - petalogix_s3adsp1800
+
+Guest CPU cores (TCG): - MIPS
+MIPS Machines - Jazz
+MIPS Machines - Malta
+MIPS Machines - Mipssim
+MIPS Machines - R4000
+
+Guest CPU cores (TCG): - Moxie
+
+Guest CPU cores (TCG): - OpenRISC
+OpenRISC Machines - or1k-sim
+
+Guest CPU cores (TCG): - SH4
+SH4 Machines - R2D
+SH4 Machines - Shix
+
+Guest CPU cores (TCG): - SPARC
+SPARC Machines - Leon3
+SPARC Machines - Sun4m
+SPARC Machines - Sun4u
+
+Guest CPU cores (TCG): - UniCore32
+UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox
+
+Guest CPU cores (TCG): - Xtensa
+Xtensa Machines - Avnet LX60
+Xtensa Machines - sim
+
+Guest CPU Cores (Xen): - X86
+
+Hosts: - LINUX
+
+Hosts: - POSIX
+
+Hosts: - W32, W64
+
+PowerPC Machines - New World
+PowerPC Machines - Old World
+
+Stable branches - Stable 0.10
+
+Stable branches - Stable 0.14
+
+Stable branches - Stable 0.15
+
+Stable branches - Stable 1.0
+
+Subsystems - Audio
+Subsystems - Cocoa graphics
+Subsystems - Graphics
+Subsystems - SPICE
+
+Subsystems - Character Devices
+
+Subsystems - Checkpatch
+
+Subsystems - Device Tree
+
+Subsystems - GDB stub
+
+Subsystems - Human Monitor (HMP)
+Subsystems - QMP
+
+Subsystems - ICC Bus
+
+Subsystems - Main loop
+
+Subsystems - Netmap network backend
+Subsystems - Network device layer
+
+Subsystems - QAPI
+
+Subsystems - QAPI Schema
+
+Subsystems - Seccomp
+
+Subsystems - SLIRP
+
+Subsystems - Tracing
+
+Tiny Code Generator (TCG) - AArch64 target
+Tiny Code Generator (TCG) - ARM target
+Tiny Code Generator (TCG) - Common code
+Tiny Code Generator (TCG) - i386 target
+Tiny Code Generator (TCG) - IA64 target
+Tiny Code Generator (TCG) - MIPS target
+Tiny Code Generator (TCG) - PPC
+Tiny Code Generator (TCG) - PPC64 target
+Tiny Code Generator (TCG) - S390 target
+Tiny Code Generator (TCG) - SPARC target
+Tiny Code Generator (TCG) - TCI target
+
+Usermode Emulation - BSD user
+
+Usermode Emulation - Linux user
+

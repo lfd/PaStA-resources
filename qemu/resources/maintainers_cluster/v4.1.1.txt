@@ -1,0 +1,364 @@
+Alpha Machines
+Guest CPU cores (TCG) - Alpha TCG CPUs
+
+Architecture support - S390 general architecture support
+Devices - VFIO
+Devices - vfio-ap
+Devices - vfio-ccw
+Devices - virtio
+Devices - virtio-ccw
+Devices - virtio-crypto
+Devices - virtio-gpu
+Devices - virtio-input
+Devices - virtio-rng
+Guest CPU Cores (KVM) - S390 KVM CPUs
+Guest CPU cores (TCG) - S390 TCG CPUs
+S390 Machines - S390 PCI
+S390 Machines - S390 Virtio-ccw
+S390 Machines - S390-ccw boot
+Subsystems - GDB stub
+
+ARM Machines - Allwinner-a10
+ARM Machines - ARM PrimeCell and CMSDK devices
+ARM Machines - ASPEED BMCs
+ARM Machines - Calxeda Highbank
+ARM Machines - Canon DIGIC
+ARM Machines - Exynos
+ARM Machines - i.MX31 (kzm)
+ARM Machines - SABRELITE / i.MX6
+ARM Machines - SmartFusion2
+ARM Machines - STM32F205
+ARM Machines - Xilinx Zynq
+Devices - Character devices
+Devices - e1000e
+Devices - e1000x
+Devices - eepro100
+Devices - IPack
+Devices - megasas
+Devices - Network devices
+Devices - Network packet abstractions
+Devices - Rocker
+Devices - SCSI
+Devices - SSI
+Devices - virtio-serial
+Devices - Vmware
+M68K Machines - mcf5208
+MIPS Machines - Mipssim
+PowerPC Machines - e500
+X86 Machines - PC Chipset
+
+ARM Machines - ARM ACPI Subsystem
+ARM Machines - ARM cores
+ARM Machines - Emcraft M2S-FG484
+ARM Machines - Gumstix
+ARM Machines - i.MX25 PDK
+ARM Machines - Integrator CP
+ARM Machines - MCIMX6UL EVK / i.MX6ul
+ARM Machines - MCIMX7D SABRE / i.MX7
+ARM Machines - MPS2
+ARM Machines - Musca
+ARM Machines - Musicpal
+ARM Machines - nSeries
+ARM Machines - Palm
+ARM Machines - PXA2XX
+ARM Machines - Raspberry Pi
+ARM Machines - Real View
+ARM Machines - SBSA-REF
+ARM Machines - Sharp SL-5500 (Collie) PDA
+ARM Machines - Stellaris
+ARM Machines - Versatile Express
+ARM Machines - Versatile PB
+ARM Machines - Virt
+ARM Machines - Xilinx ZynqMP
+Devices - OMAP
+Guest CPU Cores (KVM) - ARM KVM CPUs
+Guest CPU cores (TCG) - ARM SMMU
+Guest CPU cores (TCG) - ARM TCG CPUs
+Tiny Code Generator (TCG) - AArch64 TCG target
+Tiny Code Generator (TCG) - ARM TCG target
+
+ARM Machines - Netduino 2
+
+ARM Machines - NRF51
+Devices - CHRP NVRAM
+Devices - Firmware configuration (fw_cfg)
+Devices - IDE
+Devices - IPMI
+Devices - SD (Secure Card)
+Devices - virtio-9p
+Subsystems - qtest
+Subsystems - Record/replay
+Subsystems - Stubs
+Subsystems - TPM
+
+Block drivers - blkdebug
+Block drivers - blklogwrites
+Block drivers - blkverify
+Block drivers - bochs
+Block drivers - cloop
+Block drivers - CURL
+Block drivers - dmg
+Block drivers - GLUSTER
+Block drivers - iSCSI
+Block drivers - Network Block Device (NBD)
+Block drivers - NFS
+Block drivers - Null Block Driver
+Block drivers - NVMe Block Driver
+Block drivers - parallels
+Block drivers - qcow
+Block drivers - qcow2
+Block drivers - qed
+Block drivers - Quorum
+Block drivers - raw
+Block drivers - RBD
+Block drivers - Replication
+Block drivers - Sheepdog
+Block drivers - SSH
+Block drivers - VDI
+Block drivers - VHDX
+Block drivers - VMDK
+Block drivers - vpc
+Block drivers - vvfat
+Devices - Floppy
+Devices - nvme
+Devices - Parallel NOR Flash devices
+Devices - virtio-blk
+Hosts - W32, W64
+Subsystems - Block Jobs
+Subsystems - Block layer core
+Subsystems - Dirty Bitmaps
+Subsystems - QObject
+Subsystems - Throttling infrastructure
+
+Block drivers - Bootdevice
+
+Block drivers - Image format fuzzer
+
+Block drivers - PVRDMA
+
+Block drivers - Semihosting
+
+Build and test automation - Build and test automation
+
+Build and test automation - FreeBSD Hosted Continuous Integration
+
+Build and test automation - GitLab Continuous Integration
+
+Build and test automation - Guest Test Compilation Support
+
+Build System - GIT submodules
+
+CRIS Machines - Axis Dev88
+Guest CPU cores (TCG) - CRIS TCG CPUs
+
+Devices - ACPI/SMBIOS
+Devices - NVDIMM
+Devices - VM Generation ID
+Guest CPU Cores (KVM) - Overall KVM CPUs
+Guest CPU Cores (KVM) - X86 KVM CPUs
+Guest CPU cores (TCG) - X86 TCG CPUs
+Guest CPU Cores (Xen) - X86 Xen CPUs
+Tiny Code Generator (TCG) - Common TCG code
+Tiny Code Generator (TCG) - i386 TCG target
+Tiny Code Generator (TCG) - MIPS TCG target
+Tiny Code Generator (TCG) - RISC-V TCG target
+Tiny Code Generator (TCG) - S390 TCG target
+Tiny Code Generator (TCG) - TCI TCG target
+X86 Machines - PC
+
+Devices - Cirrus VGA
+
+Devices - EDID Generator
+
+Devices - EDU
+
+Devices - Generic Loader
+
+Devices - Intel Hexadecimal Object File Loader
+
+Devices - PCI
+PowerPC Machines - New World (mac99)
+PowerPC Machines - Old World (g3beige)
+
+Devices - ppc4xx
+Devices - XIVE
+Guest CPU Cores (KVM) - PPC KVM CPUs
+Guest CPU cores (TCG) - PowerPC TCG CPUs
+PowerPC Machines - 405
+PowerPC Machines - Bamboo
+PowerPC Machines - mpc8544ds
+PowerPC Machines - PowerNV (Non-Virtualized)
+PowerPC Machines - PReP
+PowerPC Machines - sam460ex
+PowerPC Machines - sPAPR
+PowerPC Machines - virtex_ml507
+Tiny Code Generator (TCG) - PPC TCG target
+
+Devices - ramfb
+
+Devices - Standard VGA
+
+Devices - Unimplemented device
+
+Devices - USB
+Devices - USB (serial adapter)
+
+Devices - vhost
+Devices - vhost-user-gpu
+
+Devices - Xilinx SPI
+
+Documentation - Build system architecture
+
+Documentation - GIT Data Mining Config
+
+Documentation - Incompatible changes
+
+Guest CPU Cores (KVM) - MIPS KVM CPUs
+Guest CPU cores (TCG) - MIPS TCG CPUs
+MIPS Machines - Boston
+MIPS Machines - Fulong 2E
+MIPS Machines - Jazz
+MIPS Machines - Malta
+MIPS Machines - R4000
+
+Guest CPU cores (TCG) - FPU emulation
+
+Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs
+HP-PARISC Machines - Dino
+
+Guest CPU cores (TCG) - LM32 TCG CPUs
+LM32 Machines - EVR32 and uclinux BSP
+LM32 Machines - milkymist
+Subsystems - Audio
+
+Guest CPU cores (TCG) - M68K TCG CPUs
+
+Guest CPU cores (TCG) - MicroBlaze TCG CPUs
+MicroBlaze Machines - petalogix_ml605
+MicroBlaze Machines - petalogix_s3adsp1800
+
+Guest CPU cores (TCG) - Moxie TCG CPUs
+
+Guest CPU cores (TCG) - Multiarch Linux User Tests
+
+Guest CPU cores (TCG) - NiosII TCG CPUs
+
+Guest CPU cores (TCG) - OpenRISC TCG CPUs
+OpenRISC Machines - or1k-sim
+
+Guest CPU cores (TCG) - Overall TCG CPUs
+Subsystems - Main loop
+Subsystems - Memory API
+Usermode Emulation - Overall usermode emulation
+
+Guest CPU cores (TCG) - RISC-V TCG CPUs
+Usermode Emulation - Linux user
+
+Guest CPU cores (TCG) - SH4 TCG CPUs
+SH4 Machines - R2D
+SH4 Machines - Shix
+
+Guest CPU cores (TCG) - SPARC TCG CPUs
+SPARC Machines - Leon3
+SPARC Machines - Sun4m
+SPARC Machines - Sun4u
+SPARC Machines - Sun4v
+Tiny Code Generator (TCG) - SPARC TCG target
+
+Guest CPU cores (TCG) - TriCore TCG CPUs
+
+Guest CPU cores (TCG) - UniCore32 TCG CPUs
+UniCore32 Machines - PKUnity-3 SoC initramfs-with-busybox
+
+Guest CPU cores (TCG) - Xtensa TCG CPUs
+Xtensa Machines - sim
+Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)
+
+Hosts - LINUX
+
+Hosts - NETBSD
+
+Hosts - OPENBSD
+
+Hosts - POSIX
+Subsystems - Block I/O path
+Subsystems - Block QAPI, monitor, command line
+Subsystems - COLO Framework
+Subsystems - Migration
+Subsystems - QAPI Schema
+Subsystems - QOM
+Subsystems - Sockets
+X86 Machines - Machine core
+
+M68K Machines - an5206
+
+Responsible Disclosure, Reporting Security Issues
+
+Subsystems - Block SCSI subsystem
+
+Subsystems - Buffers
+
+Subsystems - Character device backends
+Subsystems - Character Devices (Braille)
+
+Subsystems - Checkpatch
+
+Subsystems - Cocoa graphics
+Subsystems - Graphics
+Subsystems - SPICE
+
+Subsystems - COLO Proxy
+Subsystems - Netmap network backend
+Subsystems - Network device backends
+Subsystems - SLIRP
+
+Subsystems - Command line option argument parsing
+
+Subsystems - Coroutines
+
+Subsystems - Coverity model
+
+Subsystems - Cryptodev Backends
+
+Subsystems - Cryptography
+
+Subsystems - Device Tree
+
+Subsystems - Dump
+Subsystems - Human Monitor (HMP)
+Subsystems - Python scripts
+Subsystems - QMP
+Subsystems - Tracing
+
+Subsystems - EDK2 Firmware
+
+Subsystems - elf2dmp
+
+Subsystems - Error reporting
+Subsystems - QAPI
+
+Subsystems - File monitor
+
+Subsystems - Host Memory Backends
+
+Subsystems - I/O Channels
+
+Subsystems - I2C and SMBus
+
+Subsystems - IOVA Tree
+
+Subsystems - QEMU Guest Agent
+
+Subsystems - Register API
+
+Subsystems - Seccomp
+
+Subsystems - User authorization
+
+Subsystems - UUID
+
+Trivial patches - Trivial patches
+
+Usermode Emulation - BSD user
+
