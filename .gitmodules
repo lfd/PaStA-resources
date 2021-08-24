@@ -597,6 +597,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/rcu/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/rcu/0.git
 	url = https://lore.kernel.org/rcu/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/rust-for-linux/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/rust-for-linux/0.git
+	url = https://lore.kernel.org/rust-for-linux/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/selinux/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/selinux/0.git
 	url = https://lore.kernel.org/selinux/0

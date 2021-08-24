@@ -426,6 +426,7 @@ MAXDATE = 2030-01-01
 	"platform-driver-x86",
 	"rcu",
 	"reiserfs-devel",
+	"rust-for-linux",
 	"selinux",
 	"sparclinux",
 	"stable",
