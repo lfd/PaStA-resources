@@ -93,6 +93,10 @@ MAXDATE = 2030-01-01
 	"linux-nvdimm"
 ]
 
+"lists.ath9k.org" = [
+	"ath9k-devel",
+]
+
 "lists.bufferbloat.net" = [
 	"cake"
 ]

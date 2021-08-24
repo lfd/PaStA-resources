@@ -66,6 +66,11 @@
 	path = linux/resources/mbox/pubin/lists.01.org/linux-nvdimm/0.git
 	url = https://lore.kernel.org/linux-nvdimm/0
 
+## lists.ath9k.org
+[submodule "linux/resources/mbox/pubin/lists.ath9k.org/ath9k-devel/0.git"]
+	path = linux/resources/mbox/pubin/lists.ath9k.org/ath9k-devel/0.git
+	url = https://lore.kernel.org/ath9k-devel/0
+
 ## lists.cip-project.org
 [submodule "linux/resources/mbox/pubin/lists.cip-project.org/cip-dev/0.git"]
 	path = linux/resources/mbox/pubin/lists.cip-project.org/cip-dev/0.git
