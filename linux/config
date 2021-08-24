@@ -175,6 +175,7 @@ MAXDATE = 2030-01-01
 "lists.linux.dev" = [
 	"containers",
 	"ksummit",
+	"landlock",
 	"linux-coco",
 	"linux-staging",
 	"linux-sunxi",
