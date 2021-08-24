@@ -330,6 +330,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-bcache/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-bcache/0.git
 	url = https://lore.kernel.org/linux-bcache/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-bcachefs/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-bcachefs/0.git
+	url = https://lore.kernel.org/linux-bcachefs/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-block/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-block/0.git
 	url = https://lore.kernel.org/linux-block/0

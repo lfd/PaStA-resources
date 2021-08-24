@@ -338,6 +338,7 @@ MAXDATE = 2030-01-01
 	"linux-arch",
 	"linux-arm-msm",
 	"linux-bcache",
+	"linux-bcachefs",
 	"linux-block",
 	"linux-bluetooth",
 	"linux-btrfs",
