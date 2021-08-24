@@ -93,6 +93,9 @@
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/0.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/0.git
 	url = https://lore.kernel.org/dri-devel/0
+[submodule "linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/1.git"]
+	path = linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/1.git
+	url = https://lore.kernel.org/dri-devel/1
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/intel-gfx/0.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/intel-gfx/0.git
 	url = https://lore.kernel.org/intel-gfx/0
