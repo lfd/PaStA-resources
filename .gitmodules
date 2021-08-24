@@ -44,6 +44,9 @@
 [submodule "linux/resources/mbox/pubin/kvack.org/linux-mm/0.git"]
 	path = linux/resources/mbox/pubin/kvack.org/linux-mm/0.git
 	url = https://lore.kernel.org/linux-mm/0
+[submodule "linux/resources/mbox/pubin/kvack.org/linux-mm/1.git"]
+	path = linux/resources/mbox/pubin/kvack.org/linux-mm/1.git
+	url = https://lore.kernel.org/linux-mm/1
 
 ## linux.kernel.org
 [submodule "linux/resources/mbox/pubin/linux.kernel.org/tools/0.git"]
