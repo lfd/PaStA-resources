@@ -180,6 +180,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git
 	url = https://lore.kernel.org/mptcp/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/ntfs3/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/ntfs3/0.git
+	url = https://lore.kernel.org/ntfs3/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/nvdimm/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/nvdimm/0.git
 	url = https://lore.kernel.org/nvdimm/0

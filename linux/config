@@ -180,6 +180,7 @@ MAXDATE = 2030-01-01
 	"linux-staging",
 	"linux-sunxi",
 	"mptcp",
+	"ntfs3",
 	"nvdimm",
 	"regressions"
 ]
