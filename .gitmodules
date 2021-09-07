@@ -177,6 +177,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-sunxi/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/linux-sunxi/0.git
 	url = https://lore.kernel.org/linux-sunxi/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/llvm/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/llvm/0.git
+	url = https://lore.kernel.org/llvm/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git
 	url = https://lore.kernel.org/mptcp/0
@@ -453,9 +456,6 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-leds/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-leds/0.git
 	url = https://lore.kernel.org/linux-leds/0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-llvm/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-llvm/0.git
-	url = https://lore.kernel.org/linux-llvm/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-m68k/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-m68k/0.git
 	url = https://lore.kernel.org/linux-m68k/0
