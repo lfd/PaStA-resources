@@ -198,11 +198,6 @@
 [submodule "linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git"]
 	path = linux/resources/mbox/pubin/lists.linuxfoundation.org/containers/0.git
 	url = https://lore.kernel.org/containers/0
-[submodule "linux/resources/mbox/pubin/lists.linuxfoundation.org/ksummit-discuss/0.git"]
-	path = linux/resources/mbox/pubin/lists.linuxfoundation.org/ksummit-discuss/0.git
-	url = https://lore.kernel.org/ksummit-discuss/0
-
-## lists.openwall.com
 [submodule "linux/resources/mbox/pubin/lists.openwall.com/kernel-hardening/0.git"]
 	path = linux/resources/mbox/pubin/lists.openwall.com/kernel-hardening/0.git
 	url = https://lore.kernel.org/kernel-hardening/0

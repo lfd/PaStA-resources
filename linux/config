@@ -191,8 +191,7 @@ MAXDATE = 2030-01-01
 ]
 
 "lists.linuxfoundation.org" = [
-	"containers",
-	"ksummit-discuss"
+	"containers"
 ]
 
 "lists.one-eyed-alien.net" = [
