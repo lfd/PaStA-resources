@@ -25,11 +25,10 @@ from collections import defaultdict
 from lxml import html
 
 url_lore = 'https://lore.kernel.org/lists.html'
+url_lore_shards = 'https://lore.kernel.org/%s/_/text/mirror/'
 url_github = 'https://raw.githubusercontent.com/lfd/mail-archiver/linux-archives/.gitmodules'
 
 pubin_providers = ['lore.kernel.org', 'github.com']
-
-lore_map = dict()
 
 blacklist = {
     'coda.cs.cmu.edu': {'codalist'},
@@ -46,6 +45,7 @@ blacklist = {
     'lore.kernel.org': {'linux-firmware', 'signatures'},
     'vger.kernel.org': {'backports', 'fstests', 'linux-trace-users', 'selinux-refpolicy', 'git', 'linux-rt-users'},
 }
+
 
 def get_tree(url):
     code = 0
@@ -64,32 +64,30 @@ def get_tree(url):
 
 
 def get_lore():
-    lore_git_rgx = re.compile('\tgit clone --mirror (.+)(\d+) .*')
-
     ret = defaultdict(dict)
 
     tree = get_tree(url_lore)
-    lists = tree.xpath('/html/body/table/tr/td/text()')
-    lists = [list.split('.', 1) for list in lists]
-    links = tree.xpath('/html/body/table/tr/td/a/@href')
+    lists = tree.xpath('/html/body/pre/a/text()')
+    lists = [l for l in lists if 'all' not in l]
 
-    for list, link in zip(lists, links):
-        list.append(link)
+    for listname in lists:
+        url = url_lore_shards % listname
+        tree = get_tree(url)
 
-    for listname, hoster, link in lists:
+        hoster = tree.xpath('/html/body/form/pre/a/b')
+        hoster = hoster[-1].text
+        hoster = hoster.split()[0]
+        hoster = hoster.split('.', 1)[1]
         print('Working on %s - %s' % (hoster, listname))
-        tree = get_tree(link)
-        text = tree.xpath('/html/body//pre')[-1].text
-        text = text.split('\n')
-        max_shard = 0
-        for line in text:
-            match = lore_git_rgx.match(line)
-            if not match:
-                continue
 
-            git = match.group(1)
-            lore_map[listname] = git
-            max_shard = max(int(match.group(2)), max_shard)
+        shards = tree.xpath('/html/body/pre/a/@href')
+        max_shard = 0
+        for shard in shards:
+            shard = shard.split('/')[-1]
+            if shard.isdigit():
+                shard = int(shard)
+                if shard > max_shard:
+                    max_shard = shard
 
         ret[hoster][listname] = max_shard
 
@@ -126,6 +124,7 @@ def get_github():
 
     return ret
 
+
 def fill_missing(result, lists, uri_scheme):
     for hoster, lists in lists.items():
         if hoster not in result:
@@ -151,10 +150,8 @@ def generate_submodule(provider, hoster, listname, shard):
     ret = list()
     dst = 'linux/resources/mbox/pubin/%s/%s/%u.git' % (hoster, listname, shard)
 
-    if provider == 'git.kernel.org':
-        url = 'git://git.kernel.org/pub/scm/public-inbox/%s/%s/%u.git' % (hoster, listname, shard)
-    elif provider == 'lore.kernel.org':
-        url = '%s%u' % (lore_map[listname], shard)
+    if provider == 'lore.kernel.org':
+        url = 'https://lore.kernel.org/%s/%u' % (listname, shard)
     elif provider == 'github.com':
         url = 'https://github.com/linux-mailinglist-archives/%s.%s.%s' % (listname, hoster, shard)
 
