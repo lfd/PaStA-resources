@@ -195,6 +195,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-coco/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/linux-coco/0.git
 	url = https://lore.kernel.org/linux-coco/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-patches/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/linux-patches/0.git
+	url = https://lore.kernel.org/linux-patches/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-staging/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/linux-staging/0.git
 	url = https://lore.kernel.org/linux-staging/0
@@ -204,6 +207,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/llvm/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/llvm/0.git
 	url = https://lore.kernel.org/llvm/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/mhi/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/mhi/0.git
+	url = https://lore.kernel.org/mhi/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git
 	url = https://lore.kernel.org/mptcp/0
@@ -469,6 +475,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/10.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/10.git
 	url = https://lore.kernel.org/lkml/10
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/11.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/11.git
+	url = https://lore.kernel.org/lkml/11
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git
 	url = https://lore.kernel.org/linux-kselftest/0
@@ -514,6 +523,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-pm/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-pm/0.git
 	url = https://lore.kernel.org/linux-pm/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-ppp/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-ppp/0.git
+	url = https://lore.kernel.org/linux-ppp/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-pwm/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-pwm/0.git
 	url = https://lore.kernel.org/linux-pwm/0
@@ -604,6 +616,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/netdev/1.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/netdev/1.git
 	url = https://lore.kernel.org/netdev/1
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/netdev/2.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/netdev/2.git
+	url = https://lore.kernel.org/netdev/2
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/netfilter-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/netfilter-devel/0.git
 	url = https://lore.kernel.org/netfilter-devel/0
@@ -941,9 +956,6 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-nilfs/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-nilfs/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-nilfs.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-ppp/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-ppp/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-ppp.vger.kernel.org.0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-tip-commits/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-tip-commits/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-tip-commits.vger.kernel.org.0
