@@ -183,6 +183,7 @@ MAXDATE = 2030-01-01
 	"llvm",
 	"mhi",
 	"mptcp",
+	"ntb",
 	"ntfs3",
 	"nvdimm",
 	"regressions"
