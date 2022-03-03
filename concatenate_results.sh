@@ -18,7 +18,7 @@
 CHAR=characteristics.csv
 REL=releases.csv
 
-echo "project,id,from,time,type,version,list,list.matches_patch,ignored,committer,committer.correct,committer.xcorrect" > $CHAR
+echo "project,id,from,time,type,version,list,list.matches_patch,ignored,commithash,committer,committer.correct,committer.xcorrect,committer.distance" > $CHAR
 echo "project,release,date" > $REL
 
 projects="qemu xen u-boot linux"
