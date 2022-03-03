@@ -18,11 +18,29 @@
 CHAR=characteristics.csv
 REL=releases.csv
 
-echo "project,id,from,time,type,version,list,list.matches_patch,ignored,committer,committer.correct,committer.xcorrect" > $CHAR
+# Emit data rows (no header) from a potentially split file
+tail_split() {
+	local base=$1
+	if [ -f "$base" ]; then
+		tail -n +2 "$base"
+	else
+		local first=1
+		for chunk in $(ls "$base".[0-9][0-9][0-9] 2>/dev/null | sort); do
+			if [ $first -eq 1 ]; then
+				tail -n +2 "$chunk"
+				first=0
+			else
+				cat "$chunk"
+			fi
+		done
+	fi
+}
+
+echo "project,id,from,time,type,version,list,list.matches_patch,ignored,commithash,committer,committer.correct,committer.xcorrect,committer.distance" > $CHAR
 echo "project,release,date" > $REL
 
 projects="qemu xen u-boot linux"
 for p in $projects; do
 	tail -n +2 $p/resources/releases.csv | sed -e "s/\(.*\)/${p},\1/" >> $REL
-	tail -n +2 $p/resources/characteristics.csv | sed -e "s/\(.*\)/${p},\1/" >> $CHAR
+	tail_split $p/resources/characteristics.csv | sed -e "s/\(.*\)/${p},\1/" >> $CHAR
 done
