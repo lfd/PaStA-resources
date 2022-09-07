@@ -149,6 +149,9 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/1.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/1.git
 	url = https://lore.kernel.org/linux-arm-kernel/1
+[submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/2.git"]
+	path = linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/2.git
+	url = http://lore.kernel.org/linux-arm-kernel/2
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-i3c/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-i3c/0.git
 	url = https://lore.kernel.org/linux-i3c/0
@@ -481,6 +484,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/11.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/11.git
 	url = https://lore.kernel.org/lkml/11
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/12.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/12.git
+	url = https://lore.kernel.org/lkml/12
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git
 	url = https://lore.kernel.org/linux-kselftest/0
