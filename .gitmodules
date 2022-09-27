@@ -183,6 +183,11 @@
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-snps-arc/0.git
 	url = https://lore.kernel.org/linux-snps-arc/0
 
+## lists.librecores.org
+[submodule "linux/resources/mbox/pubin/lists.librecores.org/openrisc/0.git"]
+	path = linux/resources/mbox/pubin/lists.librecores.org/openrisc/0.git
+	url = https://lore.kernel.org/openrisc/0
+
 ## lists.linux-foundation.org
 [submodule "linux/resources/mbox/pubin/lists.linux-foundation.org/iommu/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux-foundation.org/iommu/0.git
@@ -764,11 +769,6 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/wcn36xx/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/wcn36xx/0.git
 	url = https://github.com/linux-mailinglist-archives/wcn36xx.lists.infradead.org.0
-
-## lists.librecores.org
-[submodule "linux/resources/mbox/pubin/lists.librecores.org/openrisc/0.git"]
-	path = linux/resources/mbox/pubin/lists.librecores.org/openrisc/0.git
-	url = https://github.com/linux-mailinglist-archives/openrisc.lists.librecores.org.0
 
 ## lists.linaro.org
 [submodule "linux/resources/mbox/pubin/lists.linaro.org/greybus-dev/0.git"]
