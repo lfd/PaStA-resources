@@ -131,6 +131,7 @@ MAXDATE = 2030-01-01
 "lists.infradead.org" = [
 	"ath10k",
 	"ath11k",
+	"ath12k",
 	"b43-dev",
 	"kexec",
 	"libertas-dev",
