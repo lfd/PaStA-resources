@@ -24,7 +24,7 @@ from time import sleep
 from collections import defaultdict
 from lxml import html
 
-url_lore = 'https://lore.kernel.org/lists.html'
+url_lore = 'https://lore.kernel.org/lists.html?o=%d'
 url_lore_shards = 'https://lore.kernel.org/%s/_/text/mirror/'
 url_github = 'https://raw.githubusercontent.com/lfd/mail-archiver/linux-archives/.gitmodules'
 
@@ -54,7 +54,7 @@ def get_tree(url):
         resp = requests.get(url)
         code = resp.status_code
         if code != 200:
-            print('Crap. sleeping.')
+            print('Crap. sleeping. %s' % url)
             sleep(5)
             retries -= 1
         if retries < 0:
@@ -65,10 +65,15 @@ def get_tree(url):
 
 def get_lore():
     ret = defaultdict(dict)
+    lists = set()
 
-    tree = get_tree(url_lore)
-    lists = tree.xpath('/html/body/pre/a/text()')
-    lists = [l for l in lists if 'all' not in l]
+    for i in range(0, 2):
+        tree = get_tree(url_lore % (i * 200))
+        this_lists = tree.xpath('/html/body/pre/a/text()')
+        lists |= set(this_lists)
+
+    # remove some parsing artefacts
+    lists -= {'next (older)', 'all', 'reverse', 'above'}
 
     for listname in lists:
         url = url_lore_shards % listname
