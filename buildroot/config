@@ -4,7 +4,7 @@ PROJECT_NAME = "buildroot"
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "2009.02_rc1..origin/master"
+UPSTREAM = "MANUAL"
 
 ### Project specific autothresholds for interactive rating ###
 INTERACTIVE_THRESHOLD = 1.1
