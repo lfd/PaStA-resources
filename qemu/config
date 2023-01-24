@@ -3,7 +3,7 @@
 MODE = "mbox"
 
 ### necessary for upstream comparison. Patches within this range will be considered ###
-UPSTREAM = "v0.14.0-rc0..origin/master"
+UPSTREAM = "MANUAL"
 
 ### Project specific autothresholds for interactive rating ###
 INTERACTIVE_THRESHOLD = 1.1
