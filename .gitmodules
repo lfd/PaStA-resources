@@ -43,6 +43,9 @@
 [submodule "git/resources/mbox/pubin/vger.kernel.org/git/0.git"]
 	path = git/resources/mbox/pubin/vger.kernel.org/git/0.git
 	url = https://lore.kernel.org/git/0
+[submodule "git/resources/mbox/pubin/vger.kernel.org/git/1.git"]
+	path = git/resources/mbox/pubin/vger.kernel.org/git/1.git
+	url = https://lore.kernel.org/git/1
 
 # Lists for u-boot
 [submodule "u-boot/resources/mbox/pubin/lists.denx.de/u-boot/0.git"]
