@@ -501,6 +501,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/12.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/12.git
 	url = https://lore.kernel.org/lkml/12
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/13.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/13.git
+	url = https://lore.kernel.org/lkml/13
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git
 	url = https://lore.kernel.org/linux-kselftest/0
