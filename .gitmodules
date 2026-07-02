@@ -62,10 +62,23 @@
 # Linux Public Inboxes hosted by lore.kernel.org
 ##################################################
 
+## acpica.org
+[submodule "linux/resources/mbox/pubin/acpica.org/devel/0.git"]
+	path = linux/resources/mbox/pubin/acpica.org/devel/0.git
+	url = https://lore.kernel.org/acpica-devel/0
 ## alsa-project.org
 [submodule "linux/resources/mbox/pubin/alsa-project.org/alsa-devel/0.git"]
 	path = linux/resources/mbox/pubin/alsa-project.org/alsa-devel/0.git
 	url = https://lore.kernel.org/alsa-devel/0
+
+## googlegroups.com
+[submodule "linux/resources/mbox/pubin/googlegroups.com/linux-ntb/0.git"]
+	path = linux/resources/mbox/pubin/googlegroups.com/linux-ntb/0.git
+	url = https://lore.kernel.org/ntb/0
+## groups.io
+[submodule "linux/resources/mbox/pubin/groups.io/linux-oxnas/0.git"]
+	path = linux/resources/mbox/pubin/groups.io/linux-oxnas/0.git
+	url = https://lore.kernel.org/linux-oxnas/0
 
 ## lore.kernel.org
 # THIS LIST MUST STAY HERE
@@ -80,16 +93,14 @@
 [submodule "linux/resources/mbox/pubin/kvack.org/linux-mm/1.git"]
 	path = linux/resources/mbox/pubin/kvack.org/linux-mm/1.git
 	url = https://lore.kernel.org/linux-mm/1
+[submodule "linux/resources/mbox/pubin/kvack.org/linux-mm/2.git"]
+	path = linux/resources/mbox/pubin/kvack.org/linux-mm/2.git
+	url = https://lore.kernel.org/linux-mm/2
 
 ## linux.kernel.org
 [submodule "linux/resources/mbox/pubin/linux.kernel.org/tools/0.git"]
 	path = linux/resources/mbox/pubin/linux.kernel.org/tools/0.git
 	url = https://lore.kernel.org/tools/0
-
-## linuxdriverproject.org
-[submodule "linux/resources/mbox/pubin/linuxdriverproject.org/driverdev-devel/0.git"]
-	path = linux/resources/mbox/pubin/linuxdriverproject.org/driverdev-devel/0.git
-	url = https://lore.kernel.org/driverdev-devel/0
 
 ## lists.01.org
 [submodule "linux/resources/mbox/pubin/lists.01.org/linux-nfc/0.git"]
@@ -129,12 +140,18 @@
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/1.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/1.git
 	url = https://lore.kernel.org/dri-devel/1
+[submodule "linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/2.git"]
+	path = linux/resources/mbox/pubin/lists.freedesktop.org/dri-devel/2.git
+	url = https://lore.kernel.org/dri-devel/2
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/intel-gfx/0.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/intel-gfx/0.git
 	url = https://lore.kernel.org/intel-gfx/0
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/intel-gfx/1.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/intel-gfx/1.git
 	url = https://lore.kernel.org/intel-gfx/1
+[submodule "linux/resources/mbox/pubin/lists.freedesktop.org/intel-xe/0.git"]
+	path = linux/resources/mbox/pubin/lists.freedesktop.org/intel-xe/0.git
+	url = https://lore.kernel.org/intel-xe/0
 [submodule "linux/resources/mbox/pubin/lists.freedesktop.org/nouveau/0.git"]
 	path = linux/resources/mbox/pubin/lists.freedesktop.org/nouveau/0.git
 	url = https://lore.kernel.org/nouveau/0
@@ -155,6 +172,9 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/kexec/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/kexec/0.git
 	url = https://lore.kernel.org/kexec/0
+[submodule "linux/resources/mbox/pubin/lists.infradead.org/kvm-riscv/0.git"]
+	path = linux/resources/mbox/pubin/lists.infradead.org/kvm-riscv/0.git
+	url = https://lore.kernel.org/kvm-riscv/0
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-amlogic/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-amlogic/0.git
 	url = https://lore.kernel.org/linux-amlogic/0
@@ -167,6 +187,9 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/2.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/2.git
 	url = https://lore.kernel.org/linux-arm-kernel/2
+[submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/3.git"]
+	path = linux/resources/mbox/pubin/lists.infradead.org/linux-arm-kernel/3.git
+	url = https://lore.kernel.org/linux-arm-kernel/3
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-i3c/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-i3c/0.git
 	url = https://lore.kernel.org/linux-i3c/0
@@ -191,13 +214,24 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-snps-arc/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-snps-arc/0.git
 	url = https://lore.kernel.org/linux-snps-arc/0
+[submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-um/0.git"]
+	path = linux/resources/mbox/pubin/lists.infradead.org/linux-um/0.git
+	url = https://lore.kernel.org/linux-um/0
 
 ## lists.librecores.org
 [submodule "linux/resources/mbox/pubin/lists.librecores.org/openrisc/0.git"]
 	path = linux/resources/mbox/pubin/lists.librecores.org/openrisc/0.git
 	url = https://lore.kernel.org/openrisc/0
 
+## lists.linbit.com
+[submodule "linux/resources/mbox/pubin/lists.linbit.com/drbd-dev/0.git"]
+	path = linux/resources/mbox/pubin/lists.linbit.com/drbd-dev/0.git
+	url = https://lore.kernel.org/drbd-dev/0
+
 ## lists.linux-foundation.org
+[submodule "linux/resources/mbox/pubin/lists.linux-foundation.org/bridge/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux-foundation.org/bridge/0.git
+	url = https://lore.kernel.org/bridge/0
 [submodule "linux/resources/mbox/pubin/lists.linux-foundation.org/iommu/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux-foundation.org/iommu/0.git
 	url = https://lore.kernel.org/linux-iommu/0
@@ -206,9 +240,27 @@
 	url = https://lore.kernel.org/virtualization/0
 
 ## lists.linux.dev
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/asahi/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/asahi/0.git
+	url = https://lore.kernel.org/asahi/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/chrome-platform/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/chrome-platform/0.git
+	url = https://lore.kernel.org/chrome-platform/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/containers/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/containers/0.git
 	url = https://lore.kernel.org/containers/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/damon/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/damon/0.git
+	url = https://lore.kernel.org/damon/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/driver-core/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/driver-core/0.git
+	url = https://lore.kernel.org/driver-core/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/gfs2/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/gfs2/0.git
+	url = https://lore.kernel.org/gfs2/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/imx/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/imx/0.git
+	url = https://lore.kernel.org/imx/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/ksummit/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/ksummit/0.git
 	url = https://lore.kernel.org/ksummit/0
@@ -221,6 +273,9 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-patches/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/linux-patches/0.git
 	url = https://lore.kernel.org/linux-patches/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-rt-devel/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/linux-rt-devel/0.git
+	url = https://lore.kernel.org/linux-rt-devel/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/linux-staging/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/linux-staging/0.git
 	url = https://lore.kernel.org/linux-staging/0
@@ -230,12 +285,18 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/llvm/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/llvm/0.git
 	url = https://lore.kernel.org/llvm/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/loongarch/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/loongarch/0.git
+	url = https://lore.kernel.org/loongarch/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/mhi/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/mhi/0.git
 	url = https://lore.kernel.org/mhi/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/mptcp/0.git
 	url = https://lore.kernel.org/mptcp/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/nova-gpu/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/nova-gpu/0.git
+	url = https://lore.kernel.org/nova-gpu/0
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/ntb/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/ntb/0.git
 	url = https://lore.kernel.org/ntb/0
@@ -248,6 +309,26 @@
 [submodule "linux/resources/mbox/pubin/lists.linux.dev/regressions/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux.dev/regressions/0.git
 	url = https://lore.kernel.org/regressions/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/sched-ext/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/sched-ext/0.git
+	url = https://lore.kernel.org/sched-ext/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/sophgo/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/sophgo/0.git
+	url = https://lore.kernel.org/sophgo/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/spacemit/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/spacemit/0.git
+	url = https://lore.kernel.org/spacemit/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/v9fs/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/v9fs/0.git
+	url = https://lore.kernel.org/v9fs/0
+[submodule "linux/resources/mbox/pubin/lists.linux.dev/xfs-stable/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.dev/xfs-stable/0.git
+	url = https://lore.kernel.org/xfs-stable/0
+
+## lists.linux.it
+[submodule "linux/resources/mbox/pubin/lists.linux.it/ltp/0.git"]
+	path = linux/resources/mbox/pubin/lists.linux.it/ltp/0.git
+	url = https://lore.kernel.org/ltp/0
 
 ## lists.linuxfoundation.org
 # THIS LIST MUST STAY HERE
@@ -258,10 +339,17 @@
 	path = linux/resources/mbox/pubin/lists.openwall.com/kernel-hardening/0.git
 	url = https://lore.kernel.org/kernel-hardening/0
 
+## lists.open-mesh.org
+[submodule "linux/resources/mbox/pubin/lists.open-mesh.org/b.a.t.m.a.n/0.git"]
+	path = linux/resources/mbox/pubin/lists.open-mesh.org/b.a.t.m.a.n/0.git
+	url = https://lore.kernel.org/batman/0
 ## lists.ozlabs.org
 [submodule "linux/resources/mbox/pubin/lists.ozlabs.org/ccan/0.git"]
 	path = linux/resources/mbox/pubin/lists.ozlabs.org/ccan/0.git
 	url = https://lore.kernel.org/ccan/0
+[submodule "linux/resources/mbox/pubin/lists.ozlabs.org/linux-aspeed/0.git"]
+	path = linux/resources/mbox/pubin/lists.ozlabs.org/linux-aspeed/0.git
+	url = https://lore.kernel.org/linux-aspeed/0
 [submodule "linux/resources/mbox/pubin/lists.ozlabs.org/linux-erofs/0.git"]
 	path = linux/resources/mbox/pubin/lists.ozlabs.org/linux-erofs/0.git
 	url = https://lore.kernel.org/linux-erofs/0
@@ -279,6 +367,9 @@
 [submodule "linux/resources/mbox/pubin/lists.sourceforge.net/tpmdd-devel/0.git"]
 	path = linux/resources/mbox/pubin/lists.sourceforge.net/tpmdd-devel/0.git
 	url = https://lore.kernel.org/tpmdd-devel/0
+[submodule "linux/resources/mbox/pubin/lists.sourceforge.net/v9fs-developer/0.git"]
+	path = linux/resources/mbox/pubin/lists.sourceforge.net/v9fs-developer/0.git
+	url = https://lore.kernel.org/v9fs/0
 
 ## lists.xenproject.org
 [submodule "linux/resources/mbox/pubin/lists.xenproject.org/xen-devel/0.git"]
@@ -308,13 +399,24 @@
 [submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git"]
 	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/2.git
 	url = https://lore.kernel.org/qemu-devel/2
+[submodule "linux/resources/mbox/pubin/nongnu.org/qemu-devel/3.git"]
+	path = linux/resources/mbox/pubin/nongnu.org/qemu-devel/3.git
+	url = https://lore.kernel.org/qemu-devel/3
 
 ## oss.oracle.com
 [submodule "linux/resources/mbox/pubin/oss.oracle.com/ocfs2-devel/0.git"]
 	path = linux/resources/mbox/pubin/oss.oracle.com/ocfs2-devel/0.git
 	url = https://lore.kernel.org/ocfs2-devel/0
 
+## osuosl.org
+[submodule "linux/resources/mbox/pubin/osuosl.org/intel-wired-lan/0.git"]
+	path = linux/resources/mbox/pubin/osuosl.org/intel-wired-lan/0.git
+	url = https://lore.kernel.org/intel-wired-lan/0
+
 ## redhat.com
+[submodule "linux/resources/mbox/pubin/redhat.com/cluster-devel/0.git"]
+	path = linux/resources/mbox/pubin/redhat.com/cluster-devel/0.git
+	url = https://lore.kernel.org/cluster-devel/0
 [submodule "linux/resources/mbox/pubin/redhat.com/dm-devel/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/dm-devel/0.git
 	url = https://lore.kernel.org/dm-devel/0
@@ -336,27 +438,48 @@
 	url = https://lore.kernel.org/cocci/0
 
 ## vger.kernel.org
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/audit/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/audit/0.git
+	url = https://lore.kernel.org/audit/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/autofs/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/autofs/0.git
+	url = https://lore.kernel.org/autofs/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/bpf/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/bpf/0.git
 	url = https://lore.kernel.org/bpf/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/ceph-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/ceph-devel/0.git
 	url = https://lore.kernel.org/ceph-devel/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/cgroups/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/cgroups/0.git
+	url = https://lore.kernel.org/cgroups/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/dash/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/dash/0.git
 	url = https://lore.kernel.org/dash/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/dccp/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/dccp/0.git
+	url = https://lore.kernel.org/dccp/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/devicetree/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/devicetree/0.git
 	url = https://lore.kernel.org/linux-devicetree/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/devicetree/1.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/devicetree/1.git
 	url = https://lore.kernel.org/linux-devicetree/1
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/devicetree/2.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/devicetree/2.git
+	url = https://lore.kernel.org/linux-devicetree/2
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/devicetree/3.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/devicetree/3.git
+	url = https://lore.kernel.org/linux-devicetree/3
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/dmaengine/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/dmaengine/0.git
 	url = https://lore.kernel.org/dmaengine/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/dwarves/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/dwarves/0.git
 	url = https://lore.kernel.org/dwarves/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/ecryptfs/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/ecryptfs/0.git
+	url = https://lore.kernel.org/ecryptfs/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/io-uring/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/io-uring/0.git
 	url = https://lore.kernel.org/io-uring/0
@@ -369,9 +492,18 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/kvm/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/kvm/0.git
 	url = https://lore.kernel.org/kvm/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/kvm/1.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/kvm/1.git
+	url = https://lore.kernel.org/kvm/1
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/kvm-ppc/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/kvm-ppc/0.git
+	url = https://lore.kernel.org/kvm-ppc/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-acpi/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-acpi/0.git
 	url = https://lore.kernel.org/linux-acpi/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-alpha/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-alpha/0.git
+	url = https://lore.kernel.org/linux-alpha/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-api/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-api/0.git
 	url = https://lore.kernel.org/linux-api/0
@@ -411,6 +543,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-csky/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-csky/0.git
 	url = https://lore.kernel.org/linux-csky/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-cve-announce/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-cve-announce/0.git
+	url = https://lore.kernel.org/linux-cve-announce/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-cxl/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-cxl/0.git
 	url = https://lore.kernel.org/linux-cxl/0
@@ -423,6 +558,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-efi/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-efi/0.git
 	url = https://lore.kernel.org/linux-efi/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-embedded/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-embedded/0.git
+	url = https://lore.kernel.org/linux-embedded/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-ext4/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-ext4/0.git
 	url = https://lore.kernel.org/linux-ext4/0
@@ -438,12 +576,21 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-fsdevel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-fsdevel/0.git
 	url = https://lore.kernel.org/linux-fsdevel/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-fsdevel/1.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-fsdevel/1.git
+	url = https://lore.kernel.org/linux-fsdevel/1
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-gpio/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-gpio/0.git
 	url = https://lore.kernel.org/linux-gpio/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hams/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hams/0.git
+	url = https://lore.kernel.org/linux-hams/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hardening/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hardening/0.git
 	url = https://lore.kernel.org/linux-hardening/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hexagon/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hexagon/0.git
+	url = https://lore.kernel.org/linux-hexagon/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hwmon/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hwmon/0.git
 	url = https://lore.kernel.org/linux-hwmon/0
@@ -453,6 +600,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-i2c/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-i2c/0.git
 	url = https://lore.kernel.org/linux-i2c/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-ia64/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-ia64/0.git
+	url = https://lore.kernel.org/linux-ia64/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-ide/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-ide/0.git
 	url = https://lore.kernel.org/linux-ide/0
@@ -510,6 +660,24 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/13.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/13.git
 	url = https://lore.kernel.org/lkml/13
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/14.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/14.git
+	url = https://lore.kernel.org/lkml/14
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/15.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/15.git
+	url = https://lore.kernel.org/lkml/15
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/16.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/16.git
+	url = https://lore.kernel.org/lkml/16
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/17.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/17.git
+	url = https://lore.kernel.org/lkml/17
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/18.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/18.git
+	url = https://lore.kernel.org/lkml/18
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/19.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kernel/19.git
+	url = https://lore.kernel.org/lkml/19
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-kselftest/0.git
 	url = https://lore.kernel.org/linux-kselftest/0
@@ -525,6 +693,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-media/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-media/0.git
 	url = https://lore.kernel.org/linux-media/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-media/1.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-media/1.git
+	url = https://lore.kernel.org/linux-media/1
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-mips/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-mips/0.git
 	url = https://lore.kernel.org/linux-mips/0
@@ -540,6 +711,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-nfs/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-nfs/0.git
 	url = https://lore.kernel.org/linux-nfs/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-nilfs/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-nilfs/0.git
+	url = https://lore.kernel.org/linux-nilfs/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-omap/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-omap/0.git
 	url = https://lore.kernel.org/linux-omap/0
@@ -600,6 +774,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sh/0.git
 	url = https://lore.kernel.org/linux-sh/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sound/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sound/0.git
+	url = https://lore.kernel.org/linux-sound/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-sparse/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-sparse/0.git
 	url = https://lore.kernel.org/linux-sparse/0
@@ -618,6 +795,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-trace-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-trace-devel/0.git
 	url = https://lore.kernel.org/linux-trace-devel/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-trace-kernel/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-trace-kernel/0.git
+	url = https://lore.kernel.org/linux-trace-kernel/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-unionfs/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-unionfs/0.git
 	url = https://lore.kernel.org/linux-unionfs/0
@@ -633,12 +813,18 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-wpan/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-wpan/0.git
 	url = https://lore.kernel.org/linux-wpan/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-x25/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/linux-x25/0.git
+	url = https://lore.kernel.org/linux-x25/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-xfs/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-xfs/0.git
 	url = https://lore.kernel.org/linux-xfs/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/live-patching/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/live-patching/0.git
 	url = https://lore.kernel.org/live-patching/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/lvs-devel/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/lvs-devel/0.git
+	url = https://lore.kernel.org/lvs-devel/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/mm-commits/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/mm-commits/0.git
 	url = https://lore.kernel.org/mm-commits/0
@@ -651,6 +837,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/netdev/2.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/netdev/2.git
 	url = https://lore.kernel.org/netdev/2
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/netdev/3.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/netdev/3.git
+	url = https://lore.kernel.org/netdev/3
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/netfilter-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/netfilter-devel/0.git
 	url = https://lore.kernel.org/netfilter-devel/0
@@ -663,6 +852,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/rcu/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/rcu/0.git
 	url = https://lore.kernel.org/rcu/0
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/reiserfs-devel/0.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/reiserfs-devel/0.git
+	url = https://lore.kernel.org/reiserfs-devel/0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/rust-for-linux/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/rust-for-linux/0.git
 	url = https://lore.kernel.org/rust-for-linux/0
@@ -678,6 +870,9 @@
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/stable/1.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/stable/1.git
 	url = https://lore.kernel.org/stable/1
+[submodule "linux/resources/mbox/pubin/vger.kernel.org/stable/2.git"]
+	path = linux/resources/mbox/pubin/vger.kernel.org/stable/2.git
+	url = https://lore.kernel.org/stable/2
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/target-devel/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/target-devel/0.git
 	url = https://lore.kernel.org/target-devel/0
@@ -695,11 +890,6 @@
 # Linux Public Inboxes hosted by github.com
 ##################################################
 
-## acpica.org
-[submodule "linux/resources/mbox/pubin/acpica.org/devel/0.git"]
-	path = linux/resources/mbox/pubin/acpica.org/devel/0.git
-	url = https://github.com/linux-mailinglist-archives/devel.acpica.org.0
-
 ## googlegroups.com
 [submodule "linux/resources/mbox/pubin/googlegroups.com/clang-built-linux/0.git"]
 	path = linux/resources/mbox/pubin/googlegroups.com/clang-built-linux/0.git
@@ -710,17 +900,9 @@
 [submodule "linux/resources/mbox/pubin/googlegroups.com/kasan-dev/0.git"]
 	path = linux/resources/mbox/pubin/googlegroups.com/kasan-dev/0.git
 	url = https://github.com/linux-mailinglist-archives/kasan-dev.googlegroups.com.0
-[submodule "linux/resources/mbox/pubin/googlegroups.com/linux-ntb/0.git"]
-	path = linux/resources/mbox/pubin/googlegroups.com/linux-ntb/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-ntb.googlegroups.com.0
 [submodule "linux/resources/mbox/pubin/googlegroups.com/open-iscsi/0.git"]
 	path = linux/resources/mbox/pubin/googlegroups.com/open-iscsi/0.git
 	url = https://github.com/linux-mailinglist-archives/open-iscsi.googlegroups.com.0
-
-## groups.io
-[submodule "linux/resources/mbox/pubin/groups.io/linux-oxnas/0.git"]
-	path = linux/resources/mbox/pubin/groups.io/linux-oxnas/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-oxnas.groups.io.0
 
 ## isely.net
 [submodule "linux/resources/mbox/pubin/isely.net/pvrusb2/0.git"]
@@ -736,7 +918,6 @@
 [submodule "linux/resources/mbox/pubin/linux-xtensa.org/linux-xtensa/0.git"]
 	path = linux/resources/mbox/pubin/linux-xtensa.org/linux-xtensa/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-xtensa.linux-xtensa.org.0
-
 
 ## lists.bufferbloat.net
 [submodule "linux/resources/mbox/pubin/lists.bufferbloat.net/cake/0.git"]
@@ -775,9 +956,6 @@
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-rpi-kernel/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-rpi-kernel/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-rpi-kernel.lists.infradead.org.0
-[submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-um/0.git"]
-	path = linux/resources/mbox/pubin/lists.infradead.org/linux-um/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-um.lists.infradead.org.0
 [submodule "linux/resources/mbox/pubin/lists.infradead.org/linux-unisoc/0.git"]
 	path = linux/resources/mbox/pubin/lists.infradead.org/linux-unisoc/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-unisoc.lists.infradead.org.0
@@ -793,33 +971,15 @@
 	path = linux/resources/mbox/pubin/lists.linaro.org/linaro-mm-sig/0.git
 	url = https://github.com/linux-mailinglist-archives/linaro-mm-sig.lists.linaro.org.0
 
-## lists.linbit.com
-[submodule "linux/resources/mbox/pubin/lists.linbit.com/drbd-dev/0.git"]
-	path = linux/resources/mbox/pubin/lists.linbit.com/drbd-dev/0.git
-	url = https://github.com/linux-mailinglist-archives/drbd-dev.lists.linbit.com.0
-
 ## lists.linux-foundation.org
-[submodule "linux/resources/mbox/pubin/lists.linux-foundation.org/bridge/0.git"]
-	path = linux/resources/mbox/pubin/lists.linux-foundation.org/bridge/0.git
-	url = https://github.com/linux-mailinglist-archives/bridge.lists.linux-foundation.org.0
 [submodule "linux/resources/mbox/pubin/lists.linux-foundation.org/netem/0.git"]
 	path = linux/resources/mbox/pubin/lists.linux-foundation.org/netem/0.git
 	url = https://github.com/linux-mailinglist-archives/netem.lists.linux-foundation.org.0
-
-## lists.linux.it
-[submodule "linux/resources/mbox/pubin/lists.linux.it/ltp/0.git"]
-	path = linux/resources/mbox/pubin/lists.linux.it/ltp/0.git
-	url = https://github.com/linux-mailinglist-archives/ltp.lists.linux.it.0
 
 ## lists.one-eyed-alien.net
 [submodule "linux/resources/mbox/pubin/lists.one-eyed-alien.net/usb-storage/0.git"]
 	path = linux/resources/mbox/pubin/lists.one-eyed-alien.net/usb-storage/0.git
 	url = https://github.com/linux-mailinglist-archives/usb-storage.lists.one-eyed-alien.net.0
-
-## lists.open-mesh.org
-[submodule "linux/resources/mbox/pubin/lists.open-mesh.org/b.a.t.m.a.n/0.git"]
-	path = linux/resources/mbox/pubin/lists.open-mesh.org/b.a.t.m.a.n/0.git
-	url = https://github.com/linux-mailinglist-archives/b.a.t.m.a.n.lists.open-mesh.org.0
 
 ## lists.openwrt.org
 [submodule "linux/resources/mbox/pubin/lists.openwrt.org/openwrt-devel/0.git"]
@@ -845,9 +1005,6 @@
 	url = https://github.com/linux-mailinglist-archives/osmocom-net-gprs.lists.osmocom.org.0
 
 ## lists.ozlabs.org
-[submodule "linux/resources/mbox/pubin/lists.ozlabs.org/linux-aspeed/0.git"]
-	path = linux/resources/mbox/pubin/lists.ozlabs.org/linux-aspeed/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-aspeed.lists.ozlabs.org.0
 [submodule "linux/resources/mbox/pubin/lists.ozlabs.org/linuxppc-users/0.git"]
 	path = linux/resources/mbox/pubin/lists.ozlabs.org/linuxppc-users/0.git
 	url = https://github.com/linux-mailinglist-archives/linuxppc-users.lists.ozlabs.org.0
@@ -906,11 +1063,6 @@
 [submodule "linux/resources/mbox/pubin/lists.sourceforge.net/tipc-discussion/0.git"]
 	path = linux/resources/mbox/pubin/lists.sourceforge.net/tipc-discussion/0.git
 	url = https://github.com/linux-mailinglist-archives/tipc-discussion.lists.sourceforge.net.0
-[submodule "linux/resources/mbox/pubin/lists.sourceforge.net/v9fs-developer/0.git"]
-	path = linux/resources/mbox/pubin/lists.sourceforge.net/v9fs-developer/0.git
-	url = https://github.com/linux-mailinglist-archives/v9fs-developer.lists.sourceforge.net.0
-
-## lists.ubuntu.com
 [submodule "linux/resources/mbox/pubin/lists.ubuntu.com/apparmor/0.git"]
 	path = linux/resources/mbox/pubin/lists.ubuntu.com/apparmor/0.git
 	url = https://github.com/linux-mailinglist-archives/apparmor.lists.ubuntu.com.0
@@ -919,11 +1071,6 @@
 [submodule "linux/resources/mbox/pubin/listserv.isdn4linux.de/isdn4linux/0.git"]
 	path = linux/resources/mbox/pubin/listserv.isdn4linux.de/isdn4linux/0.git
 	url = https://github.com/linux-mailinglist-archives/isdn4linux.listserv.isdn4linux.de.0
-
-## osuosl.org
-[submodule "linux/resources/mbox/pubin/osuosl.org/intel-wired-lan/0.git"]
-	path = linux/resources/mbox/pubin/osuosl.org/intel-wired-lan/0.git
-	url = https://github.com/linux-mailinglist-archives/intel-wired-lan.osuosl.org.0
 
 ## other.debian.org
 [submodule "linux/resources/mbox/pubin/other.debian.org/nbd/0.git"]
@@ -934,9 +1081,6 @@
 [submodule "linux/resources/mbox/pubin/redhat.com/blinux-list/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/blinux-list/0.git
 	url = https://github.com/linux-mailinglist-archives/blinux-list.redhat.com.0
-[submodule "linux/resources/mbox/pubin/redhat.com/cluster-devel/0.git"]
-	path = linux/resources/mbox/pubin/redhat.com/cluster-devel/0.git
-	url = https://github.com/linux-mailinglist-archives/cluster-devel.redhat.com.0
 [submodule "linux/resources/mbox/pubin/redhat.com/linux-cachefs/0.git"]
 	path = linux/resources/mbox/pubin/redhat.com/linux-cachefs/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-cachefs.redhat.com.0
@@ -950,48 +1094,6 @@
 	url = https://github.com/linux-mailinglist-archives/uboot-stm32.st-md-mailman.stormreply.com.0
 
 ## vger.kernel.org
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/autofs/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/autofs/0.git
-	url = https://github.com/linux-mailinglist-archives/autofs.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/cgroups/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/cgroups/0.git
-	url = https://github.com/linux-mailinglist-archives/cgroups.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/dccp/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/dccp/0.git
-	url = https://github.com/linux-mailinglist-archives/dccp.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/ecryptfs/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/ecryptfs/0.git
-	url = https://github.com/linux-mailinglist-archives/ecryptfs.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/kvm-ppc/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/kvm-ppc/0.git
-	url = https://github.com/linux-mailinglist-archives/kvm-ppc.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-alpha/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-alpha/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-alpha.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-embedded/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-embedded/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-embedded.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hams/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hams/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-hams.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-hexagon/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-hexagon/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-hexagon.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-ia64/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-ia64/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-ia64.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-nilfs/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-nilfs/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-nilfs.vger.kernel.org.0
 [submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-tip-commits/0.git"]
 	path = linux/resources/mbox/pubin/vger.kernel.org/linux-tip-commits/0.git
 	url = https://github.com/linux-mailinglist-archives/linux-tip-commits.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/linux-x25/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/linux-x25/0.git
-	url = https://github.com/linux-mailinglist-archives/linux-x25.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/lvs-devel/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/lvs-devel/0.git
-	url = https://github.com/linux-mailinglist-archives/lvs-devel.vger.kernel.org.0
-[submodule "linux/resources/mbox/pubin/vger.kernel.org/reiserfs-devel/0.git"]
-	path = linux/resources/mbox/pubin/vger.kernel.org/reiserfs-devel/0.git
-	url = https://github.com/linux-mailinglist-archives/reiserfs-devel.vger.kernel.org.0

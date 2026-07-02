@@ -84,10 +84,6 @@ MAXDATE = 2030-01-01
 	"tools",
 ]
 
-"linuxdriverproject.org" = [
-	"driverdev-devel"
-]
-
 "lists.01.org" = [
 	"linux-nfc",
 	"linux-nvdimm"
@@ -124,6 +120,7 @@ MAXDATE = 2030-01-01
 	"freedreno",
 	"intel-gfx",
 	"intel-gvt-dev",
+	"intel-xe",
 	"nouveau",
 	"spice-devel"
 ]
@@ -134,6 +131,7 @@ MAXDATE = 2030-01-01
 	"ath12k",
 	"b43-dev",
 	"kexec",
+	"kvm-riscv",
 	"libertas-dev",
 	"linux-afs",
 	"linux-amlogic",
@@ -174,20 +172,34 @@ MAXDATE = 2030-01-01
 ]
 
 "lists.linux.dev" = [
+	"asahi",
+	"chrome-platform",
 	"containers",
+	"damon",
+	"driver-core",
+	"gfs2",
+	"imx",
 	"ksummit",
 	"landlock",
 	"linux-coco",
 	"linux-patches",
+	"linux-rt-devel",
 	"linux-staging",
 	"linux-sunxi",
 	"llvm",
+	"loongarch",
 	"mhi",
 	"mptcp",
+	"nova-gpu",
 	"ntb",
 	"ntfs3",
 	"nvdimm",
-	"regressions"
+	"regressions",
+	"sched-ext",
+	"sophgo",
+	"spacemit",
+	"v9fs",
+	"xfs-stable"
 ]
 
 "lists.linux.it" = [
@@ -321,6 +333,7 @@ MAXDATE = 2030-01-01
 ]
 
 "vger.kernel.org" = [
+	"audit",
 	"autofs",
 	"bpf",
 	"ceph-devel",
@@ -372,6 +385,7 @@ MAXDATE = 2030-01-01
 	"linux-ide",
 	"linux-iio",
 	"linux-input",
+	"linux-cve-announce",
 	"linux-integrity",
 	"linux-kbuild",
 	"linux-kernel",
@@ -406,6 +420,7 @@ MAXDATE = 2030-01-01
 	"linux-serial",
 	"linux-sgx",
 	"linux-sh",
+	"linux-sound",
 	"linux-sparse",
 	"linux-spdx",
 	"linux-spi",
@@ -413,6 +428,7 @@ MAXDATE = 2030-01-01
 	"linux-tip-commits",
 	"linux-toolchains",
 	"linux-trace-devel",
+	"linux-trace-kernel",
 	"linux-unionfs",
 	"linux-usb",
 	"linux-watchdog",
