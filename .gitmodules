@@ -38,6 +38,9 @@
 [submodule "dpdk/resources/mbox/pubin/dpdk.org/dev/0.git"]
 	path = dpdk/resources/mbox/pubin/dpdk.org/dev/0.git
 	url = https://lore.kernel.org/dpdk-dev/0
+[submodule "dpdk/resources/mbox/pubin/dpdk.org/dev/1.git"]
+	path = dpdk/resources/mbox/pubin/dpdk.org/dev/1.git
+	url = https://lore.kernel.org/dpdk-dev/1
 
 # Lists for git
 [submodule "git/resources/mbox/pubin/vger.kernel.org/git/0.git"]
