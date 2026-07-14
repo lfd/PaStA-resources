@@ -51,6 +51,9 @@
 [submodule "u-boot/resources/mbox/pubin/lists.denx.de/u-boot/0.git"]
 	path = u-boot/resources/mbox/pubin/lists.denx.de/u-boot/0.git
 	url = https://lore.kernel.org/u-boot/0
+[submodule "u-boot/resources/mbox/pubin/lists.denx.de/u-boot/1.git"]
+	path = u-boot/resources/mbox/pubin/lists.denx.de/u-boot/1.git
+	url = https://lore.kernel.org/u-boot/1
 
 ##################################################
 # Linux Public Inboxes hosted by lore.kernel.org
