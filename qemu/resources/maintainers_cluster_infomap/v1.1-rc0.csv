@@ -1,0 +1,101 @@
+"c_representative","c_section","c_size"
+"ARM Machines - Calxeda Highbank","ARM Machines - Calxeda Highbank",768
+"ARM Machines - Exynos","ARM Machines - Exynos",6550
+"ARM Machines - Gumstix","ARM Machines - Gumstix",144
+"ARM Machines - Integrator CP","ARM Machines - Integrator CP",561
+"ARM Machines - Mainstone","ARM Machines - Mainstone",194
+"ARM Machines - Musicpal","ARM Machines - Musicpal",1696
+"ARM Machines - nSeries","ARM Machines - nSeries",1425
+"ARM Machines - Palm","ARM Machines - Palm",289
+"ARM Machines - Real View","ARM Machines - Real View",490
+"ARM Machines - Spitz","ARM Machines - Spitz",1149
+"ARM Machines - Stellaris","ARM Machines - Stellaris",1462
+"ARM Machines - Versatile PB","ARM Machines - Versatile PB",410
+"ARM Machines - Xilinx Zynq","ARM Machines - Xilinx Zynq",2927
+"CRIS Machines - Axis Dev88","CRIS Machines - Axis Dev88",362
+"CRIS Machines - etraxfs","CRIS Machines - etraxfs",0
+"Devices - IDE","Devices - IDE",8692
+"Devices - LSI53C895A","Devices - LSI53C895A",2149
+"Devices - OMAP","Devices - OMAP",18210
+"Devices - PCI","Devices - PCI",7805
+"Devices - USB","Devices - USB",498
+"Devices - vhost","Devices - vhost",1289
+"Devices - virtio","Devices - SCSI",5363
+"Devices - virtio","Devices - virtio",6668
+"Devices - virtio","Devices - virtio-blk",738
+"Devices - virtio","Devices - virtio-serial",1388
+"Devices - virtio-9p","Devices - virtio-9p",11237
+"Guest CPU cores (TCG): - Alpha","Guest CPU cores (TCG): - Alpha",6361
+"Guest CPU cores (TCG): - ARM","Guest CPU cores (TCG): - ARM",18380
+"Guest CPU cores (TCG): - CRIS","Guest CPU cores (TCG): - CRIS",7352
+"Guest CPU cores (TCG): - LM32","Guest CPU cores (TCG): - LM32",2084
+"Guest CPU cores (TCG): - M68K","Guest CPU cores (TCG): - M68K",4808
+"Guest CPU cores (TCG): - MicroBlaze","Guest CPU cores (TCG): - MicroBlaze",3827
+"Guest CPU cores (TCG): - MIPS","Guest CPU cores (TCG): - MIPS",19157
+"Guest CPU cores (TCG): - PowerPC","Guest CPU Cores (KVM): - Overall",7990
+"Guest CPU cores (TCG): - PowerPC","Guest CPU Cores (KVM): - PPC",968
+"Guest CPU cores (TCG): - PowerPC","Guest CPU Cores (KVM): - S390",493
+"Guest CPU cores (TCG): - PowerPC","Guest CPU Cores (KVM): - X86",2031
+"Guest CPU cores (TCG): - PowerPC","Guest CPU cores (TCG): - PowerPC",32573
+"Guest CPU cores (TCG): - PowerPC","Guest CPU cores (TCG): - S390",10733
+"Guest CPU cores (TCG): - PowerPC","Guest CPU cores (TCG): - X86",23870
+"Guest CPU cores (TCG): - SH4","Guest CPU cores (TCG): - SH4",4382
+"Guest CPU cores (TCG): - SPARC","Guest CPU cores (TCG): - SPARC",13362
+"Guest CPU cores (TCG): - UniCore32","Guest CPU cores (TCG): - UniCore32",3213
+"Guest CPU cores (TCG): - Xtensa","Guest CPU cores (TCG): - Xtensa",7225
+"Guest CPU Cores (Xen): - X86","Guest CPU Cores (Xen): - X86",6603
+"Hosts: - LINUX","Hosts: - LINUX",2982
+"Hosts: - POSIX","Hosts: - POSIX",1531
+"Hosts: - W32, W64","Hosts: - W32, W64",823
+"LM32 Machines - EVR32 and uclinux BSP","LM32 Machines - EVR32 and uclinux BSP",305
+"LM32 Machines - milkymist","LM32 Machines - milkymist",216
+"M68K Machines - an5206","M68K Machines - an5206",96
+"M68K Machines - dummy_m68k","M68K Machines - dummy_m68k",83
+"M68K Machines - mcf5208","M68K Machines - mcf5208",302
+"MicroBlaze Machines - petalogix_s3adsp1800","MicroBlaze Machines - petalogix_s3adsp1800",0
+"MIPS Machines - Jazz","MIPS Machines - Jazz",341
+"MIPS Machines - Malta","MIPS Machines - Malta",1031
+"MIPS Machines - Mipssim","MIPS Machines - Mipssim",233
+"MIPS Machines - R4000","MIPS Machines - R4000",306
+"PowerPC Machines - 405","PowerPC Machines - 405",663
+"PowerPC Machines - New World","PowerPC Machines - New World",1074
+"PowerPC Machines - Old World","PowerPC Machines - Old World",514
+"PowerPC Machines - PReP","PowerPC Machines - PReP",900
+"S390 Machines - S390 Virtio","S390 Machines - S390 Virtio",878
+"SH4 Machines - R2D","SH4 Machines - R2D",350
+"SH4 Machines - Shix","SH4 Machines - Shix",104
+"SPARC Machines - Sun4m","SPARC Machines - Sun4m",1865
+"SPARC Machines - Sun4u","SPARC Machines - Sun4u",983
+"Stable branches - Stable 0.14","Stable branches - Stable 0.14",0
+"Stable branches - Stable 0.15","Stable branches - Stable 0.15",0
+"Stable branches - Stable 1.0","Stable branches - Stable 1.0",0
+"Subsystems - Block","Subsystems - Block",31274
+"Subsystems - Block","Subsystems - Network Block Device (NBD)",2141
+"Subsystems - Character Devices","Subsystems - Character Devices",2888
+"Subsystems - Checkpatch","Subsystems - Checkpatch",2907
+"Subsystems - GDB stub","Subsystems - GDB stub",3468
+"Subsystems - Graphics","Subsystems - Audio",12543
+"Subsystems - Graphics","Subsystems - Cocoa graphics",1027
+"Subsystems - Graphics","Subsystems - Graphics",16440
+"Subsystems - Graphics","Subsystems - SPICE",4689
+"Subsystems - Main loop","Subsystems - Main loop",3650
+"Subsystems - Monitor (QMP/HMP)","Subsystems - Monitor (QMP/HMP)",4677
+"Subsystems - Network device layer","Subsystems - Network device layer",4745
+"Subsystems - SLIRP","Subsystems - SLIRP",11036
+"Subsystems - Tracing","Subsystems - Tracing",1928
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - ARM target",1992
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - Common code",26945
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - HPPA target",1950
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - i386 target",2318
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - IA64 target",2578
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - MIPS target",1693
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - PPC",2081
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - PPC64 target",1867
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - S390 target",2474
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - SPARC target",1836
+"Tiny Code Generator (TCG) - Common code","Tiny Code Generator (TCG) - TCI target",1203
+"Usermode Emulation - BSD user","Usermode Emulation - BSD user",6999
+"Usermode Emulation - Linux user","Usermode Emulation - Linux user",44136
+"X86 Machines - PC","X86 Machines - PC",2036
+"Xtensa Machines - Avnet LX60","Xtensa Machines - Avnet LX60",317
+"Xtensa Machines - sim","Xtensa Machines - sim",118
