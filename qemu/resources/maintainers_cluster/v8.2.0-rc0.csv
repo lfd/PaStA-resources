@@ -1,0 +1,413 @@
+"c_representative","c_section","c_size"
+"Architecture support - MIPS general architecture support","Architecture support - MIPS general architecture support",160
+"Architecture support - S390 general architecture support","Architecture support - S390 general architecture support",64348
+"Architecture support - S390 general architecture support","Devices - S390 3270 device",550
+"Architecture support - S390 general architecture support","Devices - S390 diag 288 watchdog",174
+"Architecture support - S390 general architecture support","Devices - S390 floating interrupt controller",1324
+"Architecture support - S390 general architecture support","Devices - S390 storage attribute device",592
+"Architecture support - S390 general architecture support","Devices - S390 storage key device",562
+"Architecture support - S390 general architecture support","Devices - VFIO",14028
+"Architecture support - S390 general architecture support","Devices - vfio-ap",1343
+"Architecture support - S390 general architecture support","Devices - vfio-ccw",987
+"Architecture support - S390 general architecture support","Devices - virtio-ccw",2484
+"Architecture support - S390 general architecture support","Guest CPU Cores (KVM) - S390 KVM CPUs",4547
+"Architecture support - S390 general architecture support","Guest CPU cores (TCG) - S390 TCG CPUs",53774
+"Architecture support - S390 general architecture support","S390 Machines - S390 channel subsystem",4474
+"Architecture support - S390 general architecture support","S390 Machines - S390 CPU models",1927
+"Architecture support - S390 general architecture support","S390 Machines - S390 CPU topology",1741
+"Architecture support - S390 general architecture support","S390 Machines - S390 PCI",4193
+"Architecture support - S390 general architecture support","S390 Machines - S390 SCLP-backed devices",2377
+"Architecture support - S390 general architecture support","S390 Machines - S390 Virtio-ccw",18225
+"Architecture support - S390 general architecture support","S390 Machines - S390-ccw boot",8234
+"Architecture support - X86 general architecture support","Architecture support - X86 general architecture support",21341
+"Architecture support - X86 general architecture support","Guest CPU Cores (KVM) - X86 KVM CPUs",10913
+"ARM Machines - Goldfish RTC","ARM Machines - Goldfish RTC",366
+"ARM Machines - Netduino 2","ARM Machines - Netduino 2",62
+"ARM Machines - Netduino Plus 2","ARM Machines - Netduino Plus 2",62
+"ARM Machines - Olimex STM32 H405","ARM Machines - Olimex STM32 H405",69
+"ARM Machines - STM32VLDISCOVERY","ARM Machines - STM32VLDISCOVERY",132
+"AVR Machines - AVR MCUs","AVR Machines - Arduino",159
+"AVR Machines - AVR MCUs","AVR Machines - AVR MCUs",2121
+"Block drivers - Bootdevice","Block drivers - Bootdevice",430
+"Block drivers - EBPF:","Block drivers - EBPF:",1963
+"Block drivers - Image format fuzzer","Block drivers - Image format fuzzer",1412
+"Block drivers - Multi-process QEMU","Block drivers - Multi-process QEMU",4195
+"Build and test automation - Guest Test Compilation Support","Build and test automation - Guest Test Compilation Support",218
+"Build System - GIT submodules","Build System - GIT submodules",120
+"Build System - UI translations","Build System - UI translations",677
+"Devices - Cirrus VGA","Devices - Cirrus VGA",3763
+"Devices - EDID Generator","Devices - EDID Generator",761
+"Devices - EDU","Devices - EDU",582
+"Devices - Empty slot","Devices - Empty slot",128
+"Devices - Generic Loader","Devices - Generic Loader",619
+"Devices - Hyper-V Dynamic Memory Protocol","Devices - Hyper-V Dynamic Memory Protocol",2919
+"Devices - Hyper-V VMBus","Devices - Hyper-V VMBus",3168
+"Devices - Intel Hexadecimal Object File Loader","Devices - Intel Hexadecimal Object File Loader",59
+"Devices - LED","Devices - LED",259
+"Devices - MIPS CPS","Devices - MIPS CPS",1267
+"Devices - MIPS GIC","Devices - MIPS GIC",878
+"Devices - Network devices","ARM Machines - Calxeda Highbank",849
+"Devices - Network devices","ARM Machines - Xilinx Zynq",7255
+"Devices - Network devices","Devices - CAN bus subsystem and hardware",8530
+"Devices - Network devices","Devices - e1000e",5056
+"Devices - Network devices","Devices - e1000x",1458
+"Devices - Network devices","Devices - eepro100",2105
+"Devices - Network devices","Devices - igb",7226
+"Devices - Network devices","Devices - Network devices",74899
+"Devices - Network devices","Devices - Network packet abstractions",3117
+"Devices - Network devices","Devices - Rocker",7826
+"Devices - Network devices","Devices - tulip",1317
+"Devices - Network devices","Devices - Vmware",5491
+"Devices - Network devices","Devices - Xilinx CAN",4205
+"Devices - Network devices","HP-PARISC Machines - HP B160L, HP C3700",10111
+"Devices - Network devices","M68K Machines - mcf5208",1688
+"Devices - Network devices","MIPS Machines - Mipssim",534
+"Devices - Network devices","PowerPC Machines - e500",7169
+"Devices - OpenPIC interrupt controller","Devices - OpenPIC interrupt controller",1817
+"Devices - pca954x","Devices - pca954x",280
+"Devices - PCI","Devices - PCI",16717
+"Devices - PCI","Devices - PCIE DOE",489
+"Devices - ramfb","Devices - ramfb",263
+"Devices - Renesas RX peripherals","Devices - Renesas RX peripherals",1086
+"Devices - Renesas RX peripherals","RX Machines - rx-gdbsim",318
+"Devices - Standard VGA","Devices - Standard VGA",4442
+"Devices - Unimplemented device","Devices - Unimplemented device",153
+"Devices - USB","Devices - CanoKey",561
+"Devices - USB","Devices - USB",45874
+"Devices - USB","Devices - USB (serial adapter)",709
+"Devices - vhost","Devices - vhost",26629
+"Devices - vhost","Devices - vhost-shadow-virtqueue",898
+"Devices - vhost","Devices - vhost-user-blk",2551
+"Devices - vhost","Devices - vhost-user-gpio",757
+"Devices - vhost","Devices - vhost-user-gpu",3686
+"Devices - vhost","Devices - vhost-user-rng",451
+"Devices - vhost","Devices - vhost-user-scmi",620
+"Devices - vhost","Devices - virtiofs",588
+"Devices - VIA South Bridges (VT82C686B, VT8231)","Devices - VIA South Bridges (VT82C686B, VT8231)",952
+"Devices - virtio","Devices - Overall Audio frontends",17563
+"Devices - virtio","Devices - virtio",43118
+"Devices - virtio","Devices - virtio based memory device",219
+"Devices - virtio","Devices - virtio-balloon",1464
+"Devices - virtio","Devices - virtio-crypto",1494
+"Devices - virtio","Devices - virtio-dmabuf",383
+"Devices - virtio","Devices - virtio-gpu",5283
+"Devices - virtio","Devices - virtio-input",1911
+"Devices - virtio","Devices - virtio-iommu",1765
+"Devices - virtio","Devices - virtio-mem",2290
+"Devices - virtio","Devices - virtio-rng",1027
+"Devices - virtio","Devices - virtio-snd",1786
+"Devices - virtio","M68K Machines - q800",6362
+"Devices - virtio-9p-proxy","Devices - virtio-9p-proxy",2648
+"Devices - Xilinx SPI","Devices - Xilinx SPI",1892
+"Documentation - Build system architecture","Documentation - Build system architecture",535
+"Documentation - GIT Data Mining Config","Documentation - GIT Data Mining Config",493
+"Documentation - Incompatible changes","Documentation - Incompatible changes",518
+"Guest CPU Cores (NVMM) - NetBSD Virtual Machine Monitor (NVMM) CPU support","Guest CPU Cores (NVMM) - NetBSD Virtual Machine Monitor (NVMM) CPU support",1396
+"Guest CPU Cores (other accelerators) - HVF","Guest CPU Cores (other accelerators) - HVF",839
+"Guest CPU Cores (other accelerators) - Overall","Guest CPU Cores (other accelerators) - Overall",726
+"Guest CPU Cores (other accelerators) - WHPX CPUs","Guest CPU Cores (other accelerators) - WHPX CPUs",3370
+"Guest CPU Cores (other accelerators) - X86 HVF CPUs","Guest CPU Cores (other accelerators) - X86 HVF CPUs",7797
+"Guest CPU cores (TCG) - Alpha TCG CPUs","Alpha Machines",1969
+"Guest CPU cores (TCG) - Alpha TCG CPUs","Guest CPU cores (TCG) - Alpha TCG CPUs",8713
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Allwinner-a10",10127
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Allwinner-h3",2033
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Emcraft M2S-FG484",129
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Gumstix",163
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - i.MX25 PDK",1603
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Integrator CP",987
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - MCIMX6UL EVK / i.MX6ul",2421
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - MCIMX7D SABRE / i.MX7",3240
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - MPS2",9088
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Musca",709
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Musicpal",1822
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - nSeries",5289
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Palm",1629
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - PXA2XX",11237
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Raspberry Pi",8540
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Real View",779
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - SBSA-REF",1675
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Sharp SL-5500 (Collie) PDA",1828
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Stellaris",3197
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - STM32F100",209
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - STM32F405",676
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Versatile Express",1131
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Versatile PB",1898
+"Guest CPU cores (TCG) - ARM TCG CPUs","ARM Machines - Virt",5132
+"Guest CPU cores (TCG) - ARM TCG CPUs","Devices - ARM ACPI Subsystem",1163
+"Guest CPU cores (TCG) - ARM TCG CPUs","Devices - OMAP",18336
+"Guest CPU cores (TCG) - ARM TCG CPUs","Guest CPU Cores (other accelerators) - Apple Silicon HVF CPUs",2263
+"Guest CPU cores (TCG) - ARM TCG CPUs","Guest CPU cores (TCG) - ARM SMMU",3891
+"Guest CPU cores (TCG) - ARM TCG CPUs","Guest CPU cores (TCG) - ARM TCG CPUs",195351
+"Guest CPU cores (TCG) - CRIS TCG CPUs","CRIS Machines - Axis Dev88",2667
+"Guest CPU cores (TCG) - CRIS TCG CPUs","Guest CPU cores (TCG) - CRIS TCG CPUs",17920
+"Guest CPU cores (TCG) - FPU emulation","Guest CPU cores (TCG) - FPU emulation",12942
+"Guest CPU cores (TCG) - Hexagon idef-parser","Guest CPU cores (TCG) - Hexagon idef-parser",5181
+"Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs","Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs",11805
+"Guest CPU cores (TCG) - LoongArch TCG CPUs","Build and test automation - Integration Testing with the Avocado framework",13245
+"Guest CPU cores (TCG) - LoongArch TCG CPUs","Devices - ACPI/AVOCADO/BIOSBITS",550
+"Guest CPU cores (TCG) - LoongArch TCG CPUs","Devices - Guest Loader",314
+"Guest CPU cores (TCG) - LoongArch TCG CPUs","Guest CPU cores (TCG) - LoongArch TCG CPUs",24651
+"Guest CPU cores (TCG) - LoongArch TCG CPUs","PowerPC Machines - PReP",2535
+"Guest CPU cores (TCG) - LoongArch TCG CPUs","Subsystems - Record/replay",4526
+"Guest CPU cores (TCG) - M68K TCG CPUs","Guest CPU cores (TCG) - M68K TCG CPUs",20146
+"Guest CPU cores (TCG) - MicroBlaze TCG CPUs","Guest CPU cores (TCG) - MicroBlaze TCG CPUs",6429
+"Guest CPU cores (TCG) - MicroBlaze TCG CPUs","MicroBlaze Machines - petalogix_ml605",221
+"Guest CPU cores (TCG) - MicroBlaze TCG CPUs","MicroBlaze Machines - petalogix_s3adsp1800",199
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Guest CPU Cores (KVM) - ARM KVM CPUs",1119
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Guest CPU Cores (KVM) - MIPS KVM CPUs",2257
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Guest CPU Cores (KVM) - Overall KVM CPUs",19796
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Guest CPU Cores (KVM) - PPC KVM CPUs",2981
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Guest CPU cores (TCG) - MIPS TCG CPUs",150861
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Guest CPU cores (TCG) - PowerPC TCG CPUs",63741
+"Guest CPU cores (TCG) - MIPS TCG CPUs","Hosts - LINUX",29938
+"Guest CPU cores (TCG) - OpenRISC TCG CPUs","Guest CPU cores (TCG) - OpenRISC TCG CPUs",8120
+"Guest CPU cores (TCG) - OpenRISC TCG CPUs","OpenRISC Machines - or1k-sim",595
+"Guest CPU cores (TCG) - Overall TCG CPUs","Build System - Meson",5719
+"Guest CPU cores (TCG) - Overall TCG CPUs","Build System - Top Level Makefile and configure",2530
+"Guest CPU cores (TCG) - Overall TCG CPUs","Guest CPU cores (TCG) - Overall TCG CPUs",28470
+"Guest CPU cores (TCG) - Overall TCG CPUs","Subsystems - Dump",4160
+"Guest CPU cores (TCG) - Overall TCG CPUs","Subsystems - Main loop",8665
+"Guest CPU cores (TCG) - Overall TCG CPUs","Subsystems - Python scripts",7920
+"Guest CPU cores (TCG) - Overall TCG CPUs","Subsystems - Simpletrace",359
+"Guest CPU cores (TCG) - Overall TCG CPUs","Subsystems - Tracing",4419
+"Guest CPU cores (TCG) - Overall TCG CPUs","Tiny Code Generator (TCG) - TCG Plugins",5832
+"Guest CPU cores (TCG) - Overall TCG CPUs","Usermode Emulation - Overall usermode emulation",2695
+"Guest CPU cores (TCG) - RENESAS RX CPUs","Guest CPU cores (TCG) - RENESAS RX CPUs",5660
+"Guest CPU cores (TCG) - RISC-V TCG CPUs","Devices - RISC-V ACPI Subsystem",417
+"Guest CPU cores (TCG) - RISC-V TCG CPUs","Guest CPU cores (TCG) - RISC-V TCG CPUs",51854
+"Guest CPU cores (TCG) - RISC-V TCG CPUs","Guest CPU cores (TCG) - RISC-V XThead* extensions",1976
+"Guest CPU cores (TCG) - RISC-V TCG CPUs","RISC-V Machines - Microchip PolarFire SoC Icicle Kit",2025
+"Guest CPU cores (TCG) - RISC-V TCG CPUs","RISC-V Machines - Shakti C class SoC",607
+"Guest CPU cores (TCG) - RISC-V TCG CPUs","RISC-V Machines - SiFive Machines",6260
+"Guest CPU cores (TCG) - RISC-V XVentanaCondOps extension","Guest CPU cores (TCG) - RISC-V XVentanaCondOps extension",111
+"Guest CPU cores (TCG) - SH4 TCG CPUs","Devices - Renesas peripherals",2186
+"Guest CPU cores (TCG) - SH4 TCG CPUs","Guest CPU cores (TCG) - SH4 TCG CPUs",9769
+"Guest CPU cores (TCG) - SH4 TCG CPUs","SH4 Machines - R2D",1969
+"Guest CPU cores (TCG) - SH4 TCG CPUs","SH4 Machines - Shix",1661
+"Guest CPU cores (TCG) - SPARC TCG CPUs","Guest CPU cores (TCG) - SPARC TCG CPUs",21211
+"Guest CPU cores (TCG) - SPARC TCG CPUs","SPARC Machines - Leon3",1929
+"Guest CPU cores (TCG) - SPARC TCG CPUs","SPARC Machines - Sun4m",6083
+"Guest CPU cores (TCG) - SPARC TCG CPUs","SPARC Machines - Sun4u",3465
+"Guest CPU cores (TCG) - SPARC TCG CPUs","SPARC Machines - Sun4v",299
+"Guest CPU cores (TCG) - SPARC TCG CPUs","Tiny Code Generator (TCG) - SPARC TCG target",5131
+"Guest CPU cores (TCG) - TriCore TCG CPUs","Guest CPU cores (TCG) - TriCore TCG CPUs",16568
+"Guest CPU cores (TCG) - X86 TCG CPUs","Devices - PIIX4 South Bridge (i82371AB)",606
+"Guest CPU cores (TCG) - X86 TCG CPUs","Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs",9623
+"Guest CPU cores (TCG) - X86 TCG CPUs","Guest CPU cores (TCG) - X86 TCG CPUs",75269
+"Guest CPU cores (TCG) - X86 TCG CPUs","MIPS Machines - Malta",4247
+"Guest CPU cores (TCG) - X86 TCG CPUs","Subsystems - AMD-Vi Emulation",2042
+"Guest CPU cores (TCG) - X86 TCG CPUs","Subsystems - EDK2 Firmware",57145
+"Guest CPU cores (TCG) - X86 TCG CPUs","Subsystems - VT-d Emulation",5146
+"Guest CPU cores (TCG) - X86 TCG CPUs","X86 Machines - microvm",1544
+"Guest CPU cores (TCG) - X86 TCG CPUs","X86 Machines - PC",38103
+"Guest CPU cores (TCG) - Xtensa TCG CPUs","Guest CPU cores (TCG) - Xtensa TCG CPUs",380522
+"Guest CPU cores (TCG) - Xtensa TCG CPUs","Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",1558
+"Hosts - NETBSD","Hosts - NETBSD",0
+"Hosts - OPENBSD","Hosts - OPENBSD",0
+"M68K Machines - an5206","M68K Machines - an5206",740
+"M68K Machines - NeXTcube","M68K Machines - NeXTcube",1646
+"MIPS Machines - Overall MIPS Machines","MIPS Machines - Boston",1575
+"MIPS Machines - Overall MIPS Machines","MIPS Machines - Fuloong 2E",1222
+"MIPS Machines - Overall MIPS Machines","MIPS Machines - Jazz",2250
+"MIPS Machines - Overall MIPS Machines","MIPS Machines - Loongson-3 virtual platforms",1323
+"MIPS Machines - Overall MIPS Machines","MIPS Machines - Overall MIPS Machines",5092
+"Miscellaneous - Performance Tools and Tests","Miscellaneous - Performance Tools and Tests",455
+"PowerPC Machines - 405 (ref405ep)","PowerPC Machines - 405 (ref405ep)",1958
+"PowerPC Machines - amigaone","PowerPC Machines - amigaone",476
+"PowerPC Machines - Bamboo","PowerPC Machines - Bamboo",338
+"PowerPC Machines - mpc8544ds","PowerPC Machines - mpc8544ds",259
+"PowerPC Machines - New World (mac99)","PowerPC Machines - New World (mac99)",7862
+"PowerPC Machines - New World (mac99)","PowerPC Machines - Old World (g3beige)",5547
+"PowerPC Machines - pegasos2","PowerPC Machines - pegasos2",2911
+"PowerPC Machines - sam460ex","Devices - ppc4xx",3790
+"PowerPC Machines - sam460ex","PowerPC Machines - sam460ex",5357
+"PowerPC Machines - sPAPR (pseries)","Devices - XIVE",12796
+"PowerPC Machines - sPAPR (pseries)","PowerPC Machines - PowerNV (Non-Virtualized)",36436
+"PowerPC Machines - sPAPR (pseries)","PowerPC Machines - sPAPR (pseries)",51153
+"PowerPC Machines - sPAPR (pseries)","PowerPC Machines - Virtual Open Firmware (VOF)",1658
+"PowerPC Machines - virtex_ml507","PowerPC Machines - virtex_ml507",350
+"Responsible Disclosure, Reporting Security Issues","Responsible Disclosure, Reporting Security Issues",0
+"Subsystems - ALSA Audio backend","Subsystems - ALSA Audio backend",973
+"Subsystems - Benchmark util","Subsystems - Benchmark util",1193
+"Subsystems - Block layer core","Block drivers - blkdebug",1107
+"Subsystems - Block layer core","Block drivers - blkio",1149
+"Subsystems - Block layer core","Block drivers - blklogwrites",529
+"Subsystems - Block layer core","Block drivers - blkverify",344
+"Subsystems - Block layer core","Block drivers - bochs",319
+"Subsystems - Block layer core","Block drivers - cloop",315
+"Subsystems - Block layer core","Block drivers - CURL",1115
+"Subsystems - Block layer core","Block drivers - dmg",801
+"Subsystems - Block layer core","Block drivers - FUSE block device exports",891
+"Subsystems - Block layer core","Block drivers - GLUSTER",1684
+"Subsystems - Block layer core","Block drivers - iSCSI",2583
+"Subsystems - Block layer core","Block drivers - Linux io_uring",482
+"Subsystems - Block layer core","Block drivers - Network Block Device (NBD)",10469
+"Subsystems - Block layer core","Block drivers - NFS",920
+"Subsystems - Block layer core","Block drivers - Null Block Driver",329
+"Subsystems - Block layer core","Block drivers - NVMe Block Driver",3531
+"Subsystems - Block layer core","Block drivers - parallels",2019
+"Subsystems - Block layer core","Block drivers - qcow",1218
+"Subsystems - Block layer core","Block drivers - qcow2",18363
+"Subsystems - Block layer core","Block drivers - qed",1680
+"Subsystems - Block layer core","Block drivers - Quorum",1318
+"Subsystems - Block layer core","Block drivers - raw",6995
+"Subsystems - Block layer core","Block drivers - RBD",1855
+"Subsystems - Block layer core","Block drivers - Replication",1780
+"Subsystems - Block layer core","Block drivers - SSH",1393
+"Subsystems - Block layer core","Block drivers - VDI",1065
+"Subsystems - Block layer core","Block drivers - VDUSE library and block device exports",2086
+"Subsystems - Block layer core","Block drivers - VHDX",4033
+"Subsystems - Block layer core","Block drivers - VMDK",3169
+"Subsystems - Block layer core","Block drivers - vpc",1257
+"Subsystems - Block layer core","Block drivers - vvfat",3290
+"Subsystems - Block layer core","Devices - Floppy",3801
+"Subsystems - Block layer core","Devices - nvme",13898
+"Subsystems - Block layer core","Devices - Parallel NOR Flash devices",2156
+"Subsystems - Block layer core","Devices - ufs",3672
+"Subsystems - Block layer core","Hosts - POSIX",2819
+"Subsystems - Block layer core","Hosts - W32, W64",4798
+"Subsystems - Block layer core","Subsystems - Block I/O path",10039
+"Subsystems - Block layer core","Subsystems - Block Jobs",9414
+"Subsystems - Block layer core","Subsystems - Block layer core",396145
+"Subsystems - Block layer core","Subsystems - Dirty Bitmaps",8486
+"Subsystems - Block layer core","Subsystems - QObject",12131
+"Subsystems - Block layer core","Subsystems - Throttling infrastructure",3202
+"Subsystems - Block SCSI subsystem","Subsystems - Block SCSI subsystem",2799
+"Subsystems - Buffers","Subsystems - Buffers",333
+"Subsystems - Character device backends","Subsystems - Character device backends",10743
+"Subsystems - Character device backends","Subsystems - Character Devices (Braille)",694
+"Subsystems - Checkpatch","Subsystems - Checkpatch",3072
+"Subsystems - Clock framework","Subsystems - Clock framework",1542
+"Subsystems - Command line option argument parsing","Subsystems - Command line option argument parsing",3799
+"Subsystems - Compute Express Link","Subsystems - Compute Express Link",6358
+"Subsystems - Core Audio framework backend","Subsystems - Core Audio framework backend",0
+"Subsystems - Coroutines","Subsystems - Coroutines",3004
+"Subsystems - Coverity model","Subsystems - Coverity model",0
+"Subsystems - Coverity Scan integration","Subsystems - Coverity Scan integration",1132
+"Subsystems - Device Tree","Subsystems - Device Tree",919
+"Subsystems - DSound Audio backend","Subsystems - DSound Audio backend",1014
+"Subsystems - elf2dmp","Subsystems - elf2dmp",2218
+"Subsystems - File monitor","Subsystems - File monitor",1254
+"Subsystems - Firmware schema specifications","Subsystems - Firmware schema specifications",642
+"Subsystems - GDB stub","Block drivers - Semihosting",2983
+"Subsystems - GDB stub","Guest CPU cores (TCG) - AVR TCG CPUs",4743
+"Subsystems - GDB stub","Guest CPU cores (TCG) - Multiarch Linux User Tests",5515
+"Subsystems - GDB stub","LoongArch Machines - Virt",4100
+"Subsystems - GDB stub","Subsystems - GDB stub",8017
+"Subsystems - Graphics","Hosts - Darwin (macOS, iOS)",10786
+"Subsystems - Graphics","Subsystems - Cocoa graphics",2104
+"Subsystems - Graphics","Subsystems - D-Bus",7810
+"Subsystems - Graphics","Subsystems - Graphics",47505
+"Subsystems - Graphics","Subsystems - Overall Audio backends",7901
+"Subsystems - Graphics","Subsystems - SPICE",8477
+"Subsystems - Host Memory Backends","Subsystems - Host Memory Backends",1425
+"Subsystems - Human Monitor (HMP)","Subsystems - Human Monitor (HMP)",6682
+"Subsystems - Human Monitor (HMP)","Subsystems - QMP",3822
+"Subsystems - I/O Channels","Subsystems - I/O Channels",10285
+"Subsystems - I2C and SMBus","Subsystems - I2C and SMBus",1547
+"Subsystems - IOVA Tree","Subsystems - IOVA Tree",449
+"Subsystems - JACK Audio Connection Kit backend","Subsystems - JACK Audio Connection Kit backend",705
+"Subsystems - Memory API","Subsystems - Memory API",12866
+"Subsystems - Memory devices","Subsystems - Memory devices",1855
+"Subsystems - Migration","Block drivers - PVRDMA",6434
+"Subsystems - Migration","Subsystems - COLO Framework",1451
+"Subsystems - Migration","Subsystems - Cryptodev Backends",3496
+"Subsystems - Migration","Subsystems - Cryptography",29879
+"Subsystems - Migration","Subsystems - Migration",45013
+"Subsystems - Migration","Subsystems - Migration dirty limit and dirty page rate",1762
+"Subsystems - Migration","Subsystems - QAPI Schema",24883
+"Subsystems - Migration","Subsystems - QOM",16356
+"Subsystems - Migration","Subsystems - Sockets",1840
+"Subsystems - Migration","Subsystems - Stubs",1137
+"Subsystems - Migration","Subsystems - User authorization",2060
+"Subsystems - Migration","Subsystems - Yank feature",735
+"Subsystems - Migration","X86 Machines - Machine core",8305
+"Subsystems - Network device backends","Subsystems - AF_XDP network backend",526
+"Subsystems - Network device backends","Subsystems - COLO Proxy",3321
+"Subsystems - Network device backends","Subsystems - Netmap network backend",431
+"Subsystems - Network device backends","Subsystems - Network device backends",22353
+"Subsystems - Network device backends","Subsystems - SLIRP",1236
+"Subsystems - Open Sound System (OSS) Audio backend","Subsystems - Open Sound System (OSS) Audio backend",796
+"Subsystems - PMBus","Subsystems - Overall sensors",4545
+"Subsystems - PMBus","Subsystems - PMBus",5465
+"Subsystems - PulseAudio backend","Subsystems - PulseAudio backend",944
+"Subsystems - Python library","Subsystems - Python library",13176
+"Subsystems - QAPI","Build System - Sphinx documentation configuration and build machinery",2361
+"Subsystems - QAPI","Subsystems - Error reporting",1451
+"Subsystems - QAPI","Subsystems - QAPI",23081
+"Subsystems - QEMU Guest Agent","Subsystems - QEMU Guest Agent",16336
+"Subsystems - QEMU Guest Agent","Subsystems - QEMU Guest Agent Win32",5603
+"Subsystems - QOM boilerplate conversion script","Subsystems - QOM boilerplate conversion script",2993
+"Subsystems - qtest","ARM Machines - ARM cores",21556
+"Subsystems - qtest","ARM Machines - ARM PrimeCell and CMSDK devices",10116
+"Subsystems - qtest","ARM Machines - ASPEED BMCs",20212
+"Subsystems - qtest","ARM Machines - Canon DIGIC",823
+"Subsystems - qtest","ARM Machines - Exynos",8412
+"Subsystems - qtest","ARM Machines - i.MX31 (kzm)",6902
+"Subsystems - qtest","ARM Machines - NRF51",3327
+"Subsystems - qtest","ARM Machines - Nuvoton NPCM7xx",15219
+"Subsystems - qtest","ARM Machines - SABRELITE / i.MX6",3442
+"Subsystems - qtest","ARM Machines - SmartFusion2",2082
+"Subsystems - qtest","ARM Machines - STM32F205",3563
+"Subsystems - qtest","ARM Machines - Xilinx Versal CFI",2075
+"Subsystems - qtest","ARM Machines - Xilinx Versal OSPI",1963
+"Subsystems - qtest","ARM Machines - Xilinx ZynqMP and Versal",22167
+"Subsystems - qtest","Block drivers - Vhost-user block device backend server",2431
+"Subsystems - qtest","Build System - Kconfig",4822
+"Subsystems - qtest","Devices - ACPI/HEST/GHES",654
+"Subsystems - qtest","Devices - ACPI/SMBIOS",42277
+"Subsystems - qtest","Devices - ACPI/VIOT",156
+"Subsystems - qtest","Devices - Character devices",17345
+"Subsystems - qtest","Devices - CHRP NVRAM",266
+"Subsystems - qtest","Devices - Firmware configuration (fw_cfg)",2348
+"Subsystems - qtest","Devices - IDE",17717
+"Subsystems - qtest","Devices - IPack",1400
+"Subsystems - qtest","Devices - IPMI",6161
+"Subsystems - qtest","Devices - megasas",4031
+"Subsystems - qtest","Devices - SCSI",26175
+"Subsystems - qtest","Devices - SD (Secure Card)",6156
+"Subsystems - qtest","Devices - SSI",9985
+"Subsystems - qtest","Devices - virtio-9p",13985
+"Subsystems - qtest","Devices - virtio-blk",3901
+"Subsystems - qtest","Devices - virtio-serial",1782
+"Subsystems - qtest","Devices - VM Generation ID",718
+"Subsystems - qtest","Guest CPU Cores (Xen) - X86 Xen CPUs",29963
+"Subsystems - qtest","M68K Machines - virt",1350
+"Subsystems - qtest","RISC-V Machines - OpenTitan",2212
+"Subsystems - qtest","Subsystems - Device Fuzzing",4693
+"Subsystems - qtest","Subsystems - qtest",71198
+"Subsystems - qtest","Subsystems - TPM",9641
+"Subsystems - qtest","X86 Machines - PC Chipset",12169
+"Subsystems - RDMA Migration","Subsystems - RDMA Migration",4253
+"Subsystems - Read, Copy, Update (RCU)","Subsystems - Read, Copy, Update (RCU)",2530
+"Subsystems - Register API","Subsystems - Register API",798
+"Subsystems - SDL Audio backend","Subsystems - SDL Audio backend",507
+"Subsystems - Seccomp","Subsystems - Seccomp",780
+"Subsystems - Sndio Audio backend","Subsystems - Sndio Audio backend",564
+"Subsystems - Stats","Subsystems - Stats",462
+"Subsystems - Storage daemon","Subsystems - Storage daemon",771
+"Subsystems - Streams","Subsystems - Streams",87
+"Subsystems - Transactions helper","Subsystems - Transactions helper",166
+"Subsystems - UUID","Subsystems - UUID",445
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - AArch64 TCG target",3472
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - ARM TCG target",3261
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - Common TCG code",62584
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - i386 TCG target",4718
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - LoongArch64 TCG target",9712
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - MIPS TCG target",2940
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - PPC TCG target",4550
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - RISC-V TCG target",7994
+"Tiny Code Generator (TCG) - Common TCG code","Tiny Code Generator (TCG) - TCI TCG target",2624
+"Tiny Code Generator (TCG) - S390 TCG target","Tiny Code Generator (TCG) - S390 TCG target",0
+"Trivial patches - Trivial patches","Trivial patches - Trivial patches",52
+"Usermode Emulation - BSD user","Build and test automation - Build and test automation, general continuous integration",14087
+"Usermode Emulation - BSD user","Build and test automation - FreeBSD Hosted Continuous Integration",146
+"Usermode Emulation - BSD user","Build and test automation - GitLab custom runner (Works On Arm Sponsored)",176
+"Usermode Emulation - BSD user","Build and test automation - Windows Hosted Continuous Integration",141
+"Usermode Emulation - BSD user","Guest CPU cores (TCG) - NiosII TCG CPUs",7913
+"Usermode Emulation - BSD user","Subsystems - OpenSBI Firmware",1237
+"Usermode Emulation - BSD user","Usermode Emulation - BSD user",17998
+"Usermode Emulation - Linux user","Guest CPU cores (TCG) - Hexagon TCG CPUs",44732
+"Usermode Emulation - Linux user","Usermode Emulation - Linux user",76889
+"Xtensa Machines - sim","Xtensa Machines - sim",129
+"Xtensa Machines - virt","Xtensa Machines - virt",129

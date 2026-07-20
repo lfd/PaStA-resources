@@ -1,0 +1,1464 @@
+from,to,lines,size
+ARM Machines - ARM PL011 Rust device,ARM Machines - ARM PL011 Rust device,1518,54285
+ARM Machines - ARM PL011 Rust device,General Project Administration - All patches CC here,1518,54285
+ARM Machines - ARM PL011 Rust device,Subsystems - Rust-related patches CC here,1518,54285
+ARM Machines - ARM PrimeCell and CMSDK devices,ARM Machines - ARM PrimeCell and CMSDK devices,10555,306170
+ARM Machines - ARM PrimeCell and CMSDK devices,Devices - Character devices,1209,33344
+ARM Machines - ARM PrimeCell and CMSDK devices,Devices - SSI,316,9030
+ARM Machines - ARM PrimeCell and CMSDK devices,General Project Administration - All patches CC here,10555,306170
+ARM Machines - ARM PrimeCell and CMSDK devices,Subsystems - qtest,604,20453
+ARM Machines - ARM cores,ARM Machines - ARM cores,22011,705940
+ARM Machines - ARM cores,ARM Machines - MPS2 / MPS3,241,8472
+ARM Machines - ARM cores,General Project Administration - All patches CC here,22011,705940
+ARM Machines - ARM cores,Subsystems - qtest,1090,29231
+ARM Machines - ASPEED BMCs,ARM Machines - ASPEED BMCs,23884,800375
+ARM Machines - ASPEED BMCs,ARM Machines - STM32F205,459,15369
+ARM Machines - ASPEED BMCs,Devices - Network devices,1542,48186
+ARM Machines - ASPEED BMCs,Devices - SSI,2206,74173
+ARM Machines - ASPEED BMCs,General Project Administration - All patches CC here,23884,800375
+ARM Machines - ASPEED BMCs,Guest CPU cores (TCG) - ARM TCG CPUs,4872,184943
+ARM Machines - ASPEED BMCs,Subsystems - FSI,618,19561
+ARM Machines - ASPEED BMCs,Subsystems - qtest,1812,58055
+ARM Machines - Allwinner-a10,ARM Machines - Allwinner-a10,10922,351851
+ARM Machines - Allwinner-a10,ARM Machines - Allwinner-h3,1639,56755
+ARM Machines - Allwinner-a10,Devices - IDE,126,4606
+ARM Machines - Allwinner-a10,Devices - Network devices,1724,55150
+ARM Machines - Allwinner-a10,Devices - SSI,561,18168
+ARM Machines - Allwinner-a10,General Project Administration - All patches CC here,10922,351851
+ARM Machines - Allwinner-a10,Guest CPU cores (TCG) - ARM TCG CPUs,1415,55505
+ARM Machines - Allwinner-h3,ARM Machines - Allwinner-h3,2273,82280
+ARM Machines - Allwinner-h3,General Project Administration - All patches CC here,2273,82280
+ARM Machines - Allwinner-h3,Guest CPU cores (TCG) - ARM TCG CPUs,617,24654
+ARM Machines - B-L475E-IOT01A IoT Node,ARM Machines - B-L475E-IOT01A IoT Node,682,21748
+ARM Machines - B-L475E-IOT01A IoT Node,General Project Administration - All patches CC here,682,21748
+ARM Machines - B-L475E-IOT01A IoT Node,Guest CPU cores (TCG) - ARM TCG CPUs,137,4869
+ARM Machines - B-L475E-IOT01A IoT Node,Subsystems - qtest,196,5706
+ARM Machines - Calxeda Highbank,ARM Machines - Calxeda Highbank,860,28111
+ARM Machines - Calxeda Highbank,Devices - Network devices,443,15302
+ARM Machines - Calxeda Highbank,General Project Administration - All patches CC here,860,28111
+ARM Machines - Calxeda Highbank,Guest CPU cores (TCG) - ARM TCG CPUs,398,12321
+ARM Machines - Canon DIGIC,ARM Machines - Canon DIGIC,827,23068
+ARM Machines - Canon DIGIC,Devices - Character devices,250,6375
+ARM Machines - Canon DIGIC,General Project Administration - All patches CC here,827,23068
+ARM Machines - Canon DIGIC,Guest CPU cores (TCG) - ARM TCG CPUs,252,7410
+ARM Machines - Emcraft M2S-FG484,ARM Machines - Emcraft M2S-FG484,126,4650
+ARM Machines - Emcraft M2S-FG484,General Project Administration - All patches CC here,126,4650
+ARM Machines - Emcraft M2S-FG484,Guest CPU cores (TCG) - ARM TCG CPUs,111,4232
+ARM Machines - Exynos,ARM Machines - Exynos,8449,281294
+ARM Machines - Exynos,Devices - Character devices,738,22280
+ARM Machines - Exynos,General Project Administration - All patches CC here,8449,281294
+ARM Machines - Exynos,Guest CPU cores (TCG) - ARM TCG CPUs,1061,37274
+ARM Machines - Goldfish RTC,ARM Machines - Goldfish RTC,366,10647
+ARM Machines - Goldfish RTC,General Project Administration - All patches CC here,366,10647
+ARM Machines - Integrator CP,ARM Machines - Integrator CP,996,30011
+ARM Machines - Integrator CP,General Project Administration - All patches CC here,996,30011
+ARM Machines - Integrator CP,Guest CPU cores (TCG) - ARM TCG CPUs,756,22584
+ARM Machines - MCIMX6UL EVK / i.MX6ul,ARM Machines - MCIMX6UL EVK / i.MX6ul,2459,74822
+ARM Machines - MCIMX6UL EVK / i.MX6ul,General Project Administration - All patches CC here,2459,74822
+ARM Machines - MCIMX6UL EVK / i.MX6ul,Guest CPU cores (TCG) - ARM TCG CPUs,832,26250
+ARM Machines - MCIMX7D SABRE / i.MX7,ARM Machines - MCIMX7D SABRE / i.MX7,3326,100390
+ARM Machines - MCIMX7D SABRE / i.MX7,General Project Administration - All patches CC here,3326,100390
+ARM Machines - MCIMX7D SABRE / i.MX7,Guest CPU cores (TCG) - ARM TCG CPUs,851,26445
+ARM Machines - MPS2 / MPS3,ARM Machines - MPS2 / MPS3,9888,324404
+ARM Machines - MPS2 / MPS3,General Project Administration - All patches CC here,9888,324404
+ARM Machines - MPS2 / MPS3,Guest CPU cores (TCG) - ARM TCG CPUs,4468,164861
+ARM Machines - MPS2 / MPS3,Subsystems - qtest,240,8483
+ARM Machines - Musca,ARM Machines - Musca,706,25482
+ARM Machines - Musca,General Project Administration - All patches CC here,706,25482
+ARM Machines - Musca,Guest CPU cores (TCG) - ARM TCG CPUs,675,24772
+ARM Machines - Musicpal,ARM Machines - Musicpal,1813,50874
+ARM Machines - Musicpal,Devices - Network devices,417,11947
+ARM Machines - Musicpal,General Project Administration - All patches CC here,1813,50874
+ARM Machines - Musicpal,Guest CPU cores (TCG) - ARM TCG CPUs,1377,38499
+ARM Machines - NRF51,ARM Machines - NRF51,3320,97133
+ARM Machines - NRF51,Devices - Character devices,413,10509
+ARM Machines - NRF51,General Project Administration - All patches CC here,3320,97133
+ARM Machines - NRF51,Guest CPU cores (TCG) - ARM TCG CPUs,324,10579
+ARM Machines - NRF51,Subsystems - qtest,553,20114
+ARM Machines - Netduino 2,ARM Machines - Netduino 2,68,2465
+ARM Machines - Netduino 2,General Project Administration - All patches CC here,68,2465
+ARM Machines - Netduino 2,Guest CPU cores (TCG) - ARM TCG CPUs,68,2465
+ARM Machines - Netduino Plus 2,ARM Machines - Netduino Plus 2,68,2467
+ARM Machines - Netduino Plus 2,General Project Administration - All patches CC here,68,2467
+ARM Machines - Netduino Plus 2,Guest CPU cores (TCG) - ARM TCG CPUs,68,2467
+ARM Machines - Nuvoton NPCM7xx,ARM Machines - Nuvoton NPCM7xx,16796,527891
+ARM Machines - Nuvoton NPCM7xx,ARM Machines - STM32F205,301,8525
+ARM Machines - Nuvoton NPCM7xx,Devices - Network devices,2445,81582
+ARM Machines - Nuvoton NPCM7xx,Devices - SSI,793,24102
+ARM Machines - Nuvoton NPCM7xx,General Project Administration - All patches CC here,16796,527891
+ARM Machines - Nuvoton NPCM7xx,Guest CPU cores (TCG) - ARM TCG CPUs,1432,50641
+ARM Machines - Nuvoton NPCM7xx,Subsystems - Overall sensors,254,7627
+ARM Machines - Nuvoton NPCM7xx,Subsystems - qtest,4628,144314
+ARM Machines - Olimex STM32 H405,ARM Machines - Olimex STM32 H405,74,2661
+ARM Machines - Olimex STM32 H405,General Project Administration - All patches CC here,74,2661
+ARM Machines - Olimex STM32 H405,Guest CPU cores (TCG) - ARM TCG CPUs,74,2661
+ARM Machines - Raspberry Pi,ARM Machines - Raspberry Pi,11150,346170
+ARM Machines - Raspberry Pi,Devices - Character devices,356,9839
+ARM Machines - Raspberry Pi,Devices - SSI,288,8610
+ARM Machines - Raspberry Pi,General Project Administration - All patches CC here,11150,346170
+ARM Machines - Raspberry Pi,Guest CPU cores (TCG) - ARM TCG CPUs,1705,63916
+ARM Machines - Real View,ARM Machines - Real View,778,24470
+ARM Machines - Real View,General Project Administration - All patches CC here,778,24470
+ARM Machines - Real View,Guest CPU cores (TCG) - ARM TCG CPUs,493,16342
+ARM Machines - SABRELITE / i.MX6,ARM Machines - SABRELITE / i.MX6,3466,104858
+ARM Machines - SABRELITE / i.MX6,ARM Machines - i.MX31 (kzm),607,16070
+ARM Machines - SABRELITE / i.MX6,Devices - SSI,500,13454
+ARM Machines - SABRELITE / i.MX6,Devices - USB,293,7970
+ARM Machines - SABRELITE / i.MX6,General Project Administration - All patches CC here,3466,104858
+ARM Machines - SABRELITE / i.MX6,Guest CPU cores (TCG) - ARM TCG CPUs,628,22116
+ARM Machines - SBSA-REF,ARM Machines - SBSA-REF,1733,56522
+ARM Machines - SBSA-REF,General Project Administration - All patches CC here,1733,56522
+ARM Machines - SBSA-REF,Guest CPU cores (TCG) - ARM TCG CPUs,928,32653
+ARM Machines - STM32F100,ARM Machines - STM32F100,205,8299
+ARM Machines - STM32F100,General Project Administration - All patches CC here,205,8299
+ARM Machines - STM32F100,Guest CPU cores (TCG) - ARM TCG CPUs,205,8299
+ARM Machines - STM32F205,ARM Machines - STM32F205,5016,150597
+ARM Machines - STM32F205,ARM Machines - STM32F405,91,2791
+ARM Machines - STM32F205,ARM Machines - STM32L4x5 SoC Family,1600,44186
+ARM Machines - STM32F205,ARM Machines - Xilinx Zynq,305,8422
+ARM Machines - STM32F205,Build System - Kconfig,2,30
+ARM Machines - STM32F205,Devices - Character devices,395,11687
+ARM Machines - STM32F205,Devices - SSI,226,7540
+ARM Machines - STM32F205,General Project Administration - All patches CC here,5016,150597
+ARM Machines - STM32F205,Guest CPU cores (TCG) - ARM TCG CPUs,226,8243
+ARM Machines - STM32F405,ARM Machines - STM32F405,934,32242
+ARM Machines - STM32F405,General Project Administration - All patches CC here,934,32242
+ARM Machines - STM32F405,Guest CPU cores (TCG) - ARM TCG CPUs,322,13079
+ARM Machines - STM32L4x5 SoC Family,ARM Machines - STM32L4x5 SoC Family,7393,231458
+ARM Machines - STM32L4x5 SoC Family,Devices - Character devices,721,23638
+ARM Machines - STM32L4x5 SoC Family,General Project Administration - All patches CC here,7393,231458
+ARM Machines - STM32L4x5 SoC Family,Guest CPU cores (TCG) - ARM TCG CPUs,494,19198
+ARM Machines - STM32L4x5 SoC Family,Subsystems - qtest,2117,68092
+ARM Machines - STM32VLDISCOVERY,ARM Machines - STM32VLDISCOVERY,141,5075
+ARM Machines - STM32VLDISCOVERY,General Project Administration - All patches CC here,141,5075
+ARM Machines - STM32VLDISCOVERY,Guest CPU cores (TCG) - ARM TCG CPUs,71,2601
+ARM Machines - Sharp SL-5500 (Collie) PDA,ARM Machines - Sharp SL-5500 (Collie) PDA,2205,59138
+ARM Machines - Sharp SL-5500 (Collie) PDA,General Project Administration - All patches CC here,2205,59138
+ARM Machines - Sharp SL-5500 (Collie) PDA,Guest CPU cores (TCG) - ARM TCG CPUs,1833,49529
+ARM Machines - SmartFusion2,ARM Machines - SmartFusion2,2075,63139
+ARM Machines - SmartFusion2,Devices - Network devices,645,19698
+ARM Machines - SmartFusion2,Devices - SSI,422,12223
+ARM Machines - SmartFusion2,General Project Administration - All patches CC here,2075,63139
+ARM Machines - SmartFusion2,Guest CPU cores (TCG) - ARM TCG CPUs,261,9748
+ARM Machines - Stellaris,ARM Machines - Stellaris,3255,96682
+ARM Machines - Stellaris,Devices - Network devices,527,15479
+ARM Machines - Stellaris,General Project Administration - All patches CC here,3255,96682
+ARM Machines - Stellaris,Guest CPU cores (TCG) - ARM TCG CPUs,1486,47176
+ARM Machines - Versatile Express,ARM Machines - Versatile Express,1176,38740
+ARM Machines - Versatile Express,General Project Administration - All patches CC here,1176,38740
+ARM Machines - Versatile Express,Guest CPU cores (TCG) - ARM TCG CPUs,864,29734
+ARM Machines - Versatile PB,ARM Machines - Versatile PB,1897,58578
+ARM Machines - Versatile PB,General Project Administration - All patches CC here,1897,58578
+ARM Machines - Versatile PB,Guest CPU cores (TCG) - ARM TCG CPUs,480,14890
+ARM Machines - Virt,ARM Machines - Virt,5441,200614
+ARM Machines - Virt,"Build and test automation - Build and test automation, general continuous integration",120,4605
+ARM Machines - Virt,Devices - ACPI/SMBIOS,1130,42439
+ARM Machines - Virt,Devices - ARM ACPI Subsystem,1130,42439
+ARM Machines - Virt,General Project Administration - All patches CC here,5441,200614
+ARM Machines - Virt,Guest CPU cores (TCG) - ARM TCG CPUs,4742,176274
+ARM Machines - Xilinx Versal CFI,ARM Machines - Xilinx Versal CFI,2082,69464
+ARM Machines - Xilinx Versal CFI,ARM Machines - Xilinx ZynqMP and Versal,2082,69464
+ARM Machines - Xilinx Versal CFI,General Project Administration - All patches CC here,2082,69464
+ARM Machines - Xilinx Versal OSPI,ARM Machines - Xilinx Versal OSPI,1969,66308
+ARM Machines - Xilinx Versal OSPI,ARM Machines - Xilinx ZynqMP and Versal,1969,66308
+ARM Machines - Xilinx Versal OSPI,Devices - SSI,1858,62936
+ARM Machines - Xilinx Versal OSPI,General Project Administration - All patches CC here,1969,66308
+ARM Machines - Xilinx Zynq,ARM Machines - Xilinx Zynq,7461,222297
+ARM Machines - Xilinx Zynq,Devices - Character devices,905,25628
+ARM Machines - Xilinx Zynq,Devices - Network devices,3183,97636
+ARM Machines - Xilinx Zynq,General Project Administration - All patches CC here,7461,222297
+ARM Machines - Xilinx Zynq,Guest CPU cores (TCG) - ARM TCG CPUs,490,17911
+ARM Machines - Xilinx ZynqMP and Versal,ARM Machines - Xilinx ZynqMP and Versal,22365,750999
+ARM Machines - Xilinx ZynqMP and Versal,Devices - Network devices,166,5637
+ARM Machines - Xilinx ZynqMP and Versal,Devices - SSI,1858,62936
+ARM Machines - Xilinx ZynqMP and Versal,Devices - USB,415,14401
+ARM Machines - Xilinx ZynqMP and Versal,Devices - Xilinx CAN,166,5637
+ARM Machines - Xilinx ZynqMP and Versal,General Project Administration - All patches CC here,22365,750999
+ARM Machines - Xilinx ZynqMP and Versal,Guest CPU cores (TCG) - ARM TCG CPUs,3054,110385
+ARM Machines - Xilinx ZynqMP and Versal,Guest CPU cores (TCG) - MicroBlaze TCG CPUs,193,6936
+ARM Machines - i.MX25 PDK,ARM Machines - i.MX25 PDK,1597,52483
+ARM Machines - i.MX25 PDK,General Project Administration - All patches CC here,1597,52483
+ARM Machines - i.MX25 PDK,Guest CPU cores (TCG) - ARM TCG CPUs,496,17832
+ARM Machines - i.MX31 (kzm),ARM Machines - i.MX31 (kzm),6981,200269
+ARM Machines - i.MX31 (kzm),Devices - Character devices,599,17626
+ARM Machines - i.MX31 (kzm),Devices - Network devices,1678,48266
+ARM Machines - i.MX31 (kzm),Devices - SSI,500,13454
+ARM Machines - i.MX31 (kzm),General Project Administration - All patches CC here,6981,200269
+ARM Machines - i.MX31 (kzm),Guest CPU cores (TCG) - ARM TCG CPUs,389,13213
+AVR Machines - AVR MCUs,AVR Machines - AVR MCUs,2127,64136
+AVR Machines - AVR MCUs,AVR Machines - Arduino,159,4998
+AVR Machines - AVR MCUs,Build System - Kconfig,12,197
+AVR Machines - AVR MCUs,Devices - Character devices,413,11559
+AVR Machines - AVR MCUs,General Project Administration - All patches CC here,2127,64136
+AVR Machines - Arduino,AVR Machines - Arduino,159,4998
+AVR Machines - Arduino,General Project Administration - All patches CC here,159,4998
+Alpha Machines,Alpha Machines,1950,49669
+Alpha Machines,Build System - Kconfig,13,238
+Alpha Machines,General Project Administration - All patches CC here,1950,49669
+Alpha Machines,Guest CPU cores (TCG) - Alpha TCG CPUs,541,8972
+Architecture support - MIPS general architecture support,Architecture support - MIPS general architecture support,159,3742
+Architecture support - MIPS general architecture support,General Project Administration - All patches CC here,159,3742
+Architecture support - MIPS general architecture support,Usermode Emulation - Linux user,33,726
+Architecture support - S390 general architecture support,Architecture support - S390 general architecture support,64916,2094597
+Architecture support - S390 general architecture support,Build System - Kconfig,27,506
+Architecture support - S390 general architecture support,Devices - Character devices,983,27780
+Architecture support - S390 general architecture support,Devices - S390 3270 device,550,14957
+Architecture support - S390 general architecture support,Devices - S390 diag 288 watchdog,174,4442
+Architecture support - S390 general architecture support,Devices - S390 floating interrupt controller,1425,41697
+Architecture support - S390 general architecture support,Devices - S390 storage attribute device,604,17734
+Architecture support - S390 general architecture support,Devices - S390 storage key device,589,17498
+Architecture support - S390 general architecture support,Devices - VFIO,1012,29772
+Architecture support - S390 general architecture support,Devices - vfio-ap,1365,46609
+Architecture support - S390 general architecture support,Devices - vfio-ccw,1004,29365
+Architecture support - S390 general architecture support,Devices - vhost,230,6727
+Architecture support - S390 general architecture support,Devices - virtio,2259,70037
+Architecture support - S390 general architecture support,Devices - virtio-ccw,2489,76764
+Architecture support - S390 general architecture support,General Project Administration - All patches CC here,64916,2094597
+Architecture support - S390 general architecture support,Guest CPU Cores (KVM) - S390 KVM CPUs,4565,139299
+Architecture support - S390 general architecture support,Guest CPU cores (TCG) - S390 TCG CPUs,49310,1543660
+Architecture support - S390 general architecture support,S390 Machines - S390 CPU models,1945,81013
+Architecture support - S390 general architecture support,S390 Machines - S390 CPU topology,1134,34792
+Architecture support - S390 general architecture support,S390 Machines - S390 PCI,4233,126357
+Architecture support - S390 general architecture support,S390 Machines - S390 SCLP-backed devices,2352,68933
+Architecture support - S390 general architecture support,S390 Machines - S390 Virtio-ccw,18134,543200
+Architecture support - S390 general architecture support,S390 Machines - S390 channel subsystem,4538,132658
+Architecture support - S390 general architecture support,S390 Machines - S390-ccw boot,8031,300707
+Architecture support - S390 general architecture support,Subsystems - GDB stub,208,9945
+Architecture support - S390 general architecture support,Subsystems - Migration,347,22257
+Architecture support - X86 general architecture support,Architecture support - X86 general architecture support,24113,823705
+Architecture support - X86 general architecture support,Build System - Kconfig,9,158
+Architecture support - X86 general architecture support,General Project Administration - All patches CC here,24113,823705
+Architecture support - X86 general architecture support,Guest CPU Cores (KVM) - X86 KVM CPUs,2606,79381
+Block drivers - Bootdevice,Block drivers - Bootdevice,433,11506
+Block drivers - Bootdevice,General Project Administration - All patches CC here,433,11506
+Block drivers - CURL,Block drivers - CURL,1107,32846
+Block drivers - CURL,General Project Administration - All patches CC here,1107,32846
+Block drivers - CURL,Subsystems - Block layer core,1107,32846
+Block drivers - EBPF:,Block drivers - EBPF:,2229,105326
+Block drivers - EBPF:,General Project Administration - All patches CC here,2229,105326
+Block drivers - FUSE block device exports,Block drivers - FUSE block device exports,891,25069
+Block drivers - FUSE block device exports,General Project Administration - All patches CC here,891,25069
+Block drivers - FUSE block device exports,Subsystems - Block layer core,891,25069
+Block drivers - GLUSTER,Block drivers - GLUSTER,1643,51044
+Block drivers - GLUSTER,General Project Administration - All patches CC here,1643,51044
+Block drivers - GLUSTER,Subsystems - Block layer core,1643,51044
+Block drivers - Image format fuzzer,Block drivers - Image format fuzzer,1412,54603
+Block drivers - Image format fuzzer,General Project Administration - All patches CC here,1412,54603
+Block drivers - Linux io_uring,Block drivers - Linux io_uring,482,13587
+Block drivers - Linux io_uring,General Project Administration - All patches CC here,482,13587
+Block drivers - Linux io_uring,Subsystems - Block layer core,450,12984
+Block drivers - Linux io_uring,Subsystems - Stubs,32,603
+Block drivers - Multi-process QEMU,Block drivers - Multi-process QEMU,4179,132651
+Block drivers - Multi-process QEMU,General Project Administration - All patches CC here,4179,132651
+Block drivers - NFS,Block drivers - NFS,918,26734
+Block drivers - NFS,General Project Administration - All patches CC here,918,26734
+Block drivers - NFS,Subsystems - Block layer core,918,26734
+Block drivers - NVMe Block Driver,Block drivers - NVMe Block Driver,3587,108164
+Block drivers - NVMe Block Driver,Devices - nvme,1922,58323
+Block drivers - NVMe Block Driver,General Project Administration - All patches CC here,3587,108164
+Block drivers - NVMe Block Driver,Subsystems - Block layer core,3587,108164
+Block drivers - Network Block Device (NBD),Block drivers - Network Block Device (NBD),11054,358749
+Block drivers - Network Block Device (NBD),General Project Administration - All patches CC here,11054,358749
+Block drivers - Network Block Device (NBD),Subsystems - Block layer core,3723,120096
+Block drivers - Null Block Driver,Block drivers - Null Block Driver,329,9475
+Block drivers - Null Block Driver,General Project Administration - All patches CC here,329,9475
+Block drivers - Null Block Driver,Subsystems - Block layer core,329,9475
+Block drivers - Quorum,Block drivers - Quorum,1318,40499
+Block drivers - Quorum,General Project Administration - All patches CC here,1318,40499
+Block drivers - Quorum,Subsystems - Block layer core,1318,40499
+Block drivers - RBD,Block drivers - RBD,1856,55904
+Block drivers - RBD,General Project Administration - All patches CC here,1856,55904
+Block drivers - RBD,Subsystems - Block layer core,1856,55904
+Block drivers - Replication,Block drivers - Replication,1717,51965
+Block drivers - Replication,General Project Administration - All patches CC here,1717,51965
+Block drivers - Replication,Subsystems - Block layer core,751,22222
+Block drivers - SSH,Block drivers - SSH,1396,39778
+Block drivers - SSH,General Project Administration - All patches CC here,1396,39778
+Block drivers - SSH,Subsystems - Block layer core,1396,39778
+Block drivers - Semihosting,Block drivers - Semihosting,3071,86755
+Block drivers - Semihosting,Build System - Kconfig,8,127
+Block drivers - Semihosting,General Project Administration - All patches CC here,3071,86755
+Block drivers - Semihosting,Guest CPU cores (TCG) - ARM TCG CPUs,93,2558
+Block drivers - Semihosting,Guest CPU cores (TCG) - Multiarch Linux User Tests,111,2880
+Block drivers - VDI,Block drivers - VDI,1068,35304
+Block drivers - VDI,General Project Administration - All patches CC here,1068,35304
+Block drivers - VDI,Subsystems - Block layer core,1068,35304
+Block drivers - VDUSE library and block device exports,Block drivers - VDUSE library and block device exports,2083,55765
+Block drivers - VDUSE library and block device exports,General Project Administration - All patches CC here,2083,55765
+Block drivers - VDUSE library and block device exports,Subsystems - Block layer core,439,13039
+Block drivers - VHDX,Block drivers - VHDX,4033,132586
+Block drivers - VHDX,General Project Administration - All patches CC here,4033,132586
+Block drivers - VHDX,Subsystems - Block layer core,4033,132586
+Block drivers - VMDK,Block drivers - VMDK,3182,100922
+Block drivers - VMDK,General Project Administration - All patches CC here,3182,100922
+Block drivers - VMDK,Subsystems - Block layer core,3182,100922
+Block drivers - Vhost-user block device backend server,Block drivers - Vhost-user block device backend server,2461,75628
+Block drivers - Vhost-user block device backend server,General Project Administration - All patches CC here,2461,75628
+Block drivers - Vhost-user block device backend server,Subsystems - Block layer core,679,20190
+Block drivers - Vhost-user block device backend server,Subsystems - qtest,1192,37549
+Block drivers - blkdebug,Block drivers - blkdebug,1107,31802
+Block drivers - blkdebug,General Project Administration - All patches CC here,1107,31802
+Block drivers - blkdebug,Subsystems - Block layer core,1107,31802
+Block drivers - blkio,Block drivers - blkio,1154,33972
+Block drivers - blkio,General Project Administration - All patches CC here,1154,33972
+Block drivers - blkio,Subsystems - Block layer core,1154,33972
+Block drivers - blklogwrites,Block drivers - blklogwrites,615,19712
+Block drivers - blklogwrites,General Project Administration - All patches CC here,615,19712
+Block drivers - blklogwrites,Subsystems - Block layer core,615,19712
+Block drivers - blkverify,Block drivers - blkverify,344,10329
+Block drivers - blkverify,General Project Administration - All patches CC here,344,10329
+Block drivers - blkverify,Subsystems - Block layer core,344,10329
+Block drivers - bochs,Block drivers - bochs,319,9653
+Block drivers - bochs,General Project Administration - All patches CC here,319,9653
+Block drivers - bochs,Subsystems - Block layer core,319,9653
+Block drivers - cloop,Block drivers - cloop,315,9624
+Block drivers - cloop,General Project Administration - All patches CC here,315,9624
+Block drivers - cloop,Subsystems - Block layer core,315,9624
+Block drivers - dmg,Block drivers - dmg,801,24750
+Block drivers - dmg,General Project Administration - All patches CC here,801,24750
+Block drivers - dmg,Subsystems - Block layer core,801,24750
+Block drivers - iSCSI,Block drivers - iSCSI,2583,83664
+Block drivers - iSCSI,General Project Administration - All patches CC here,2583,83664
+Block drivers - iSCSI,Subsystems - Block layer core,2583,83664
+Block drivers - parallels,Block drivers - parallels,2219,69054
+Block drivers - parallels,General Project Administration - All patches CC here,2219,69054
+Block drivers - parallels,Subsystems - Block layer core,1787,54368
+Block drivers - qcow,Block drivers - qcow,1218,38895
+Block drivers - qcow,General Project Administration - All patches CC here,1218,38895
+Block drivers - qcow,Subsystems - Block layer core,1218,38895
+Block drivers - qcow2,Block drivers - qcow2,18380,625141
+Block drivers - qcow2,General Project Administration - All patches CC here,18380,625141
+Block drivers - qcow2,Subsystems - Block layer core,17474,585590
+Block drivers - qcow2,Subsystems - Dirty Bitmaps,1809,52438
+Block drivers - qed,Block drivers - qed,1681,49509
+Block drivers - qed,General Project Administration - All patches CC here,1681,49509
+Block drivers - qed,Subsystems - Block layer core,1681,49509
+Block drivers - raw,Block drivers - raw,7010,204861
+Block drivers - raw,General Project Administration - All patches CC here,7010,204861
+Block drivers - raw,"Hosts - W32, W64",1162,33024
+Block drivers - raw,Subsystems - Block layer core,7010,204861
+Block drivers - vpc,Block drivers - vpc,1257,37908
+Block drivers - vpc,General Project Administration - All patches CC here,1257,37908
+Block drivers - vpc,Subsystems - Block layer core,1257,37908
+Block drivers - vvfat,Block drivers - vvfat,3289,104424
+Block drivers - vvfat,General Project Administration - All patches CC here,3289,104424
+Block drivers - vvfat,Subsystems - Block layer core,3289,104424
+Build System - GIT submodules,Build System - GIT submodules,120,3176
+Build System - GIT submodules,General Project Administration - All patches CC here,120,3176
+Build System - Kconfig,Build System - Kconfig,5071,99779
+Build System - Kconfig,Build System - Rust build system integration,1,18
+Build System - Kconfig,Devices - ACPI/SMBIOS,84,1184
+Build System - Kconfig,Devices - Character devices,80,920
+Build System - Kconfig,Devices - IDE,63,799
+Build System - Kconfig,Devices - IPMI,37,474
+Build System - Kconfig,Devices - IPack,4,71
+Build System - Kconfig,Devices - Network devices,160,2234
+Build System - Kconfig,Devices - Overall Audio frontends,57,682
+Build System - Kconfig,Devices - PCI,62,1079
+Build System - Kconfig,Devices - Renesas RX peripherals,13,223
+Build System - Kconfig,Devices - SCSI,66,1070
+Build System - Kconfig,Devices - SSI,34,369
+Build System - Kconfig,Devices - USB,145,1952
+Build System - Kconfig,Devices - VFIO,43,650
+Build System - Kconfig,Devices - nvme,4,89
+Build System - Kconfig,Devices - ufs,4,72
+Build System - Kconfig,Devices - virtio-9p,9,140
+Build System - Kconfig,General Project Administration - All patches CC here,5071,99779
+Build System - Kconfig,Guest CPU Cores (Xen) - X86 Xen CPUs,3,58
+Build System - Kconfig,Guest CPU cores (TCG) - ARM TCG CPUs,658,13043
+Build System - Kconfig,Guest CPU cores (TCG) - AVR TCG CPUs,2,20
+Build System - Kconfig,Guest CPU cores (TCG) - Alpha TCG CPUs,2,22
+Build System - Kconfig,Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs,2,21
+Build System - Kconfig,Guest CPU cores (TCG) - LoongArch TCG CPUs,2,28
+Build System - Kconfig,Guest CPU cores (TCG) - M68K TCG CPUs,3,50
+Build System - Kconfig,Guest CPU cores (TCG) - MIPS TCG CPUs,7,90
+Build System - Kconfig,Guest CPU cores (TCG) - MicroBlaze TCG CPUs,30,577
+Build System - Kconfig,Guest CPU cores (TCG) - OpenRISC TCG CPUs,27,535
+Build System - Kconfig,Guest CPU cores (TCG) - PowerPC TCG CPUs,6,58
+Build System - Kconfig,Guest CPU cores (TCG) - RENESAS RX CPUs,2,19
+Build System - Kconfig,Guest CPU cores (TCG) - RISC-V TCG CPUs,122,2365
+Build System - Kconfig,Guest CPU cores (TCG) - S390 TCG CPUs,27,506
+Build System - Kconfig,Guest CPU cores (TCG) - SH4 TCG CPUs,24,430
+Build System - Kconfig,Guest CPU cores (TCG) - SPARC TCG CPUs,64,1017
+Build System - Kconfig,Guest CPU cores (TCG) - TriCore TCG CPUs,15,206
+Build System - Kconfig,Guest CPU cores (TCG) - X86 TCG CPUs,164,2915
+Build System - Kconfig,Guest CPU cores (TCG) - Xtensa TCG CPUs,24,430
+Build System - Kconfig,"HP-PARISC Machines - HP B160L, HP C3700",22,423
+Build System - Kconfig,LoongArch Machines - Virt,25,565
+Build System - Kconfig,M68K Machines - q800,2,22
+Build System - Kconfig,MIPS Machines - Overall MIPS Machines,95,1766
+Build System - Kconfig,S390 Machines - S390 Virtio-ccw,18,378
+Build System - Kconfig,Subsystems - Block layer core,37,471
+Build System - Kconfig,Subsystems - Compute Express Link,3,49
+Build System - Kconfig,Subsystems - FSI,7,97
+Build System - Kconfig,Subsystems - Overall sensors,45,624
+Build System - Kconfig,Subsystems - Python scripts,711,23673
+Build System - Kconfig,Subsystems - Rust-related patches CC here,1,18
+Build System - Kconfig,Subsystems - TPM,32,486
+Build System - Kconfig,X86 Machines - PC,164,2915
+Build System - Meson,Build System - Meson,6191,243055
+Build System - Meson,General Project Administration - All patches CC here,6191,243055
+Build System - Meson,Subsystems - Python scripts,343,10503
+Build System - Rust build system integration,Build System - Rust build system integration,169,5090
+Build System - Rust build system integration,General Project Administration - All patches CC here,169,5090
+Build System - Rust build system integration,Subsystems - Rust-related patches CC here,72,2476
+Build System - Sphinx documentation configuration and build machinery,Build System - Sphinx documentation configuration and build machinery,2476,89301
+Build System - Sphinx documentation configuration and build machinery,General Project Administration - All patches CC here,2476,89301
+Build System - Sphinx documentation configuration and build machinery,Subsystems - D-Bus,979,33750
+Build System - Sphinx documentation configuration and build machinery,Subsystems - QAPI,649,24337
+Build System - Top Level Makefile and configure,Build System - Top Level Makefile and configure,2692,83475
+Build System - Top Level Makefile and configure,General Project Administration - All patches CC here,2692,83475
+Build System - Top Level Makefile and configure,Subsystems - Python scripts,115,4205
+Build System - UI translations,Build System - UI translations,677,13711
+Build System - UI translations,General Project Administration - All patches CC here,677,13711
+"Build and test automation - Build and test automation, general continuous integration","Build and test automation - Build and test automation, general continuous integration",11951,393250
+"Build and test automation - Build and test automation, general continuous integration",Build and test automation - FreeBSD Hosted Continuous Integration,147,5635
+"Build and test automation - Build and test automation, general continuous integration",Build and test automation - GitLab custom runner (Works On Arm Sponsored),176,4868
+"Build and test automation - Build and test automation, general continuous integration",Build and test automation - Windows Hosted Continuous Integration,106,4408
+"Build and test automation - Build and test automation, general continuous integration",General Project Administration - All patches CC here,11951,393250
+"Build and test automation - Build and test automation, general continuous integration",Guest CPU cores (TCG) - MicroBlaze TCG CPUs,96,2149
+"Build and test automation - Build and test automation, general continuous integration",Guest CPU cores (TCG) - RISC-V TCG CPUs,89,3208
+"Build and test automation - Build and test automation, general continuous integration","Hosts - Darwin (macOS, iOS)",16,841
+"Build and test automation - Build and test automation, general continuous integration",MIPS Machines - Malta,142,4928
+"Build and test automation - Build and test automation, general continuous integration",PowerPC Machines - e500,35,1190
+"Build and test automation - Build and test automation, general continuous integration",PowerPC Machines - sPAPR (pseries),110,5487
+"Build and test automation - Build and test automation, general continuous integration",S390 Machines - S390 Virtio-ccw,34,1187
+"Build and test automation - Build and test automation, general continuous integration",SH4 Machines - R2D,57,2034
+"Build and test automation - Build and test automation, general continuous integration",SPARC Machines - Sun4u,34,1185
+"Build and test automation - Build and test automation, general continuous integration",Subsystems - Device Fuzzing,28,809
+"Build and test automation - Build and test automation, general continuous integration",Subsystems - OpenSBI Firmware,122,4470
+"Build and test automation - Build and test automation, general continuous integration",Usermode Emulation - BSD user,562,19975
+"Build and test automation - Build and test automation, general continuous integration",X86 Machines - PC,71,2413
+Build and test automation - FreeBSD Hosted Continuous Integration,Build and test automation - FreeBSD Hosted Continuous Integration,147,5635
+Build and test automation - FreeBSD Hosted Continuous Integration,General Project Administration - All patches CC here,147,5635
+Build and test automation - FreeBSD Hosted Continuous Integration,Usermode Emulation - BSD user,131,4733
+Build and test automation - Functional testing framework,Build and test automation - Functional testing framework,1037,35293
+Build and test automation - Functional testing framework,General Project Administration - All patches CC here,1037,35293
+Build and test automation - GitLab custom runner (Works On Arm Sponsored),Build and test automation - GitLab custom runner (Works On Arm Sponsored),176,4868
+Build and test automation - GitLab custom runner (Works On Arm Sponsored),General Project Administration - All patches CC here,176,4868
+Build and test automation - Guest Test Compilation Support,Build and test automation - Guest Test Compilation Support,230,7755
+Build and test automation - Guest Test Compilation Support,General Project Administration - All patches CC here,230,7755
+Build and test automation - Integration Testing with the Avocado framework,Build and test automation - Integration Testing with the Avocado framework,3460,130439
+Build and test automation - Integration Testing with the Avocado framework,Devices - Guest Loader,95,3577
+Build and test automation - Integration Testing with the Avocado framework,General Project Administration - All patches CC here,3460,130439
+Build and test automation - Integration Testing with the Avocado framework,Guest CPU Cores (KVM) - Overall KVM CPUs,171,6013
+Build and test automation - Integration Testing with the Avocado framework,Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,171,6013
+Build and test automation - Integration Testing with the Avocado framework,Guest CPU cores (TCG) - ARM SMMU,139,4571
+Build and test automation - Integration Testing with the Avocado framework,MIPS Machines - Malta,205,7387
+Build and test automation - Integration Testing with the Avocado framework,Subsystems - Record/replay,1055,41343
+Build and test automation - Windows Hosted Continuous Integration,Build and test automation - Windows Hosted Continuous Integration,106,4408
+Build and test automation - Windows Hosted Continuous Integration,General Project Administration - All patches CC here,106,4408
+Devices - ACPI/AVOCADO/BIOSBITS,Devices - ACPI/AVOCADO/BIOSBITS,391,15587
+Devices - ACPI/AVOCADO/BIOSBITS,General Project Administration - All patches CC here,391,15587
+Devices - ACPI/HEST/GHES,Devices - ACPI/HEST/GHES,654,25548
+Devices - ACPI/HEST/GHES,Devices - ACPI/SMBIOS,544,18684
+Devices - ACPI/HEST/GHES,General Project Administration - All patches CC here,654,25548
+Devices - ACPI/SMBIOS,Devices - ACPI/SMBIOS,44550,1439236
+Devices - ACPI/SMBIOS,Devices - ACPI/VIOT,156,4932
+Devices - ACPI/SMBIOS,Devices - ARM ACPI Subsystem,1130,42439
+Devices - ACPI/SMBIOS,Devices - IPMI,119,3153
+Devices - ACPI/SMBIOS,Devices - PCI,48,1842
+Devices - ACPI/SMBIOS,Devices - VM Generation ID,282,10032
+Devices - ACPI/SMBIOS,General Project Administration - All patches CC here,44550,1439236
+Devices - ACPI/SMBIOS,Guest CPU cores (TCG) - ARM TCG CPUs,1130,42439
+Devices - ACPI/SMBIOS,Guest CPU cores (TCG) - X86 TCG CPUs,2757,97012
+Devices - ACPI/SMBIOS,MIPS Machines - Malta,674,22761
+Devices - ACPI/SMBIOS,Subsystems - QAPI Schema,142,4190
+Devices - ACPI/SMBIOS,Subsystems - TPM,257,9376
+Devices - ACPI/SMBIOS,Subsystems - qtest,215,6436
+Devices - ACPI/SMBIOS,X86 Machines - PC,4588,155767
+Devices - ACPI/VIOT,Devices - ACPI/VIOT,156,4932
+Devices - ACPI/VIOT,General Project Administration - All patches CC here,156,4932
+Devices - ARM ACPI Subsystem,Devices - ARM ACPI Subsystem,1130,42439
+Devices - ARM ACPI Subsystem,General Project Administration - All patches CC here,1130,42439
+Devices - ARM ACPI Subsystem,Guest CPU cores (TCG) - ARM TCG CPUs,1130,42439
+Devices - CAN bus subsystem and hardware,Devices - CAN bus subsystem and hardware,8545,295898
+Devices - CAN bus subsystem and hardware,Devices - Network devices,7552,263438
+Devices - CAN bus subsystem and hardware,Devices - Xilinx CAN,3286,128410
+Devices - CAN bus subsystem and hardware,General Project Administration - All patches CC here,8545,295898
+Devices - CAN bus subsystem and hardware,Subsystems - Network device backends,804,24822
+Devices - CHRP NVRAM,Devices - CHRP NVRAM,266,7600
+Devices - CHRP NVRAM,General Project Administration - All patches CC here,266,7600
+Devices - CHRP NVRAM,Subsystems - qtest,107,3152
+Devices - CanoKey,Devices - CanoKey,561,16543
+Devices - CanoKey,Devices - USB,403,11891
+Devices - CanoKey,General Project Administration - All patches CC here,561,16543
+Devices - Character devices,Devices - Character devices,18250,538485
+Devices - Character devices,Devices - IPack,608,16763
+Devices - Character devices,Devices - OMAP,65,1930
+Devices - Character devices,Devices - Renesas peripherals,870,23262
+Devices - Character devices,Devices - S390 3270 device,321,8928
+Devices - Character devices,Devices - virtio,1515,44582
+Devices - Character devices,Devices - virtio-serial,1515,44582
+Devices - Character devices,General Project Administration - All patches CC here,18250,538485
+Devices - Character devices,Guest CPU Cores (Xen) - X86 Xen CPUs,645,19494
+Devices - Character devices,M68K Machines - mcf5208,367,8802
+Devices - Character devices,M68K Machines - virt,321,7884
+Devices - Character devices,MicroBlaze Machines - petalogix_s3adsp1800,23,805
+Devices - Character devices,PowerPC Machines - sPAPR (pseries),272,7626
+Devices - Character devices,RISC-V Machines - Microchip PolarFire SoC Icicle Kit,231,7537
+Devices - Character devices,RISC-V Machines - OpenTitan,643,19453
+Devices - Character devices,RISC-V Machines - Shakti C class SoC,260,8283
+Devices - Character devices,RISC-V Machines - SiFive Machines,463,12587
+Devices - Character devices,S390 Machines - S390 SCLP-backed devices,662,18852
+Devices - Character devices,SH4 Machines - R2D,465,12441
+Devices - Character devices,SPARC Machines - Leon3,338,9682
+Devices - Character devices,X86 Machines - PC Chipset,2618,81493
+Devices - Cirrus VGA,Devices - Cirrus VGA,3763,124743
+Devices - Cirrus VGA,General Project Administration - All patches CC here,3763,124743
+Devices - EDID Generator,Devices - EDID Generator,761,21059
+Devices - EDID Generator,General Project Administration - All patches CC here,761,21059
+Devices - EDU,Devices - EDU,584,15840
+Devices - EDU,General Project Administration - All patches CC here,584,15840
+Devices - Empty slot,Devices - Empty slot,128,3181
+Devices - Empty slot,General Project Administration - All patches CC here,128,3181
+Devices - Firmware configuration (fw_cfg),Devices - Firmware configuration (fw_cfg),2370,71021
+Devices - Firmware configuration (fw_cfg),General Project Administration - All patches CC here,2370,71021
+Devices - Firmware configuration (fw_cfg),Hosts - LINUX,97,2507
+Devices - Firmware configuration (fw_cfg),Subsystems - Stubs,21,428
+Devices - Firmware configuration (fw_cfg),Subsystems - qtest,424,10687
+Devices - Floppy,Devices - Floppy,3820,114903
+Devices - Floppy,General Project Administration - All patches CC here,3820,114903
+Devices - Floppy,Subsystems - Block layer core,3152,98858
+Devices - Floppy,Subsystems - qtest,645,15408
+Devices - Generic Loader,Devices - Generic Loader,619,20781
+Devices - Generic Loader,General Project Administration - All patches CC here,619,20781
+Devices - Guest Loader,Devices - Guest Loader,293,10461
+Devices - Guest Loader,General Project Administration - All patches CC here,293,10461
+Devices - Hyper-V Dynamic Memory Protocol,Devices - Hyper-V Dynamic Memory Protocol,2929,89634
+Devices - Hyper-V Dynamic Memory Protocol,General Project Administration - All patches CC here,2929,89634
+Devices - Hyper-V VMBus,Devices - Hyper-V VMBus,3172,90688
+Devices - Hyper-V VMBus,General Project Administration - All patches CC here,3172,90688
+Devices - IDE,Devices - IDE,17406,547685
+Devices - IDE,General Project Administration - All patches CC here,17406,547685
+Devices - IDE,PowerPC Machines - sam460ex,320,8989
+Devices - IDE,Subsystems - Block layer core,601,18771
+Devices - IDE,Subsystems - qtest,5478,171595
+Devices - IPMI,Devices - IPMI,6161,184780
+Devices - IPMI,General Project Administration - All patches CC here,6161,184780
+Devices - IPMI,Subsystems - qtest,713,19661
+Devices - IPack,Devices - IPack,1400,39149
+Devices - IPack,General Project Administration - All patches CC here,1400,39149
+Devices - Intel Hexadecimal Object File Loader,Devices - Intel Hexadecimal Object File Loader,59,1796
+Devices - Intel Hexadecimal Object File Loader,General Project Administration - All patches CC here,59,1796
+Devices - Intel Hexadecimal Object File Loader,Subsystems - qtest,41,1064
+Devices - LED,Devices - LED,259,7152
+Devices - LED,General Project Administration - All patches CC here,259,7152
+Devices - MIPS CPS,Devices - MIPS CPS,1235,33559
+Devices - MIPS CPS,General Project Administration - All patches CC here,1235,33559
+Devices - MIPS GIC,Devices - MIPS GIC,878,29830
+Devices - MIPS GIC,General Project Administration - All patches CC here,878,29830
+Devices - Network devices,Devices - Network devices,75840,2407440
+Devices - Network devices,Devices - Network packet abstractions,2113,58694
+Devices - Network devices,Devices - Rocker,6196,185416
+Devices - Network devices,Devices - Vmware,3632,113628
+Devices - Network devices,Devices - Xilinx CAN,3452,134047
+Devices - Network devices,Devices - e1000e,4423,131776
+Devices - Network devices,Devices - e1000x,1458,66080
+Devices - Network devices,Devices - eepro100,2109,70876
+Devices - Network devices,Devices - igb,6561,204475
+Devices - Network devices,Devices - tulip,1318,35712
+Devices - Network devices,Devices - vhost,915,24884
+Devices - Network devices,Devices - virtio,4106,131276
+Devices - Network devices,General Project Administration - All patches CC here,75840,2407440
+Devices - Network devices,Guest CPU Cores (Xen) - X86 Xen CPUs,669,21267
+Devices - Network devices,"HP-PARISC Machines - HP B160L, HP C3700",1015,29347
+Devices - Network devices,M68K Machines - mcf5208,692,18903
+Devices - Network devices,MIPS Machines - Mipssim,298,8079
+Devices - Network devices,PowerPC Machines - e500,2022,73024
+Devices - Network devices,PowerPC Machines - sPAPR (pseries),892,27612
+Devices - Network devices,Subsystems - qtest,341,9766
+Devices - Network devices,"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",774,20576
+Devices - Network packet abstractions,Devices - Network packet abstractions,3091,88542
+Devices - Network packet abstractions,General Project Administration - All patches CC here,3091,88542
+Devices - Network packet abstractions,Subsystems - Network device backends,978,29848
+Devices - OMAP,Devices - OMAP,9851,276997
+Devices - OMAP,General Project Administration - All patches CC here,9851,276997
+Devices - OMAP,Guest CPU cores (TCG) - ARM TCG CPUs,4320,125167
+Devices - OpenPIC interrupt controller,Devices - OpenPIC interrupt controller,1815,52636
+Devices - OpenPIC interrupt controller,General Project Administration - All patches CC here,1815,52636
+Devices - Overall Audio frontends,Devices - Overall Audio frontends,17576,523973
+Devices - Overall Audio frontends,Devices - virtio,1488,47031
+Devices - Overall Audio frontends,Devices - virtio-snd,1738,55581
+Devices - Overall Audio frontends,General Project Administration - All patches CC here,17576,523973
+Devices - Overall Audio frontends,M68K Machines - q800,812,22073
+Devices - Overall Audio frontends,Subsystems - Device Fuzzing,69,1879
+Devices - Overall Audio frontends,Subsystems - qtest,304,8437
+Devices - PCI,Devices - PCI,17048,551932
+Devices - PCI,Devices - PCIE DOE,494,13713
+Devices - PCI,General Project Administration - All patches CC here,17048,551932
+Devices - PCI,SPARC Machines - Sun4u,101,3593
+Devices - PCI,Subsystems - QAPI Schema,316,9045
+Devices - PCIE DOE,Devices - PCIE DOE,494,13713
+Devices - PCIE DOE,General Project Administration - All patches CC here,494,13713
+Devices - PIIX4 South Bridge (i82371AB),Devices - PIIX4 South Bridge (i82371AB),606,17250
+Devices - PIIX4 South Bridge (i82371AB),General Project Administration - All patches CC here,606,17250
+Devices - PIIX4 South Bridge (i82371AB),MIPS Machines - Malta,606,17250
+Devices - PIIX4 South Bridge (i82371AB),X86 Machines - PC,606,17250
+Devices - Parallel NOR Flash devices,Devices - Parallel NOR Flash devices,2149,70434
+Devices - Parallel NOR Flash devices,General Project Administration - All patches CC here,2149,70434
+Devices - Parallel NOR Flash devices,Subsystems - Block layer core,2078,68028
+Devices - RISC-V ACPI Subsystem,Devices - RISC-V ACPI Subsystem,819,30454
+Devices - RISC-V ACPI Subsystem,General Project Administration - All patches CC here,819,30454
+Devices - RISC-V ACPI Subsystem,Guest CPU cores (TCG) - RISC-V TCG CPUs,819,30454
+Devices - Renesas RX peripherals,Devices - Renesas RX peripherals,1089,32707
+Devices - Renesas RX peripherals,General Project Administration - All patches CC here,1089,32707
+Devices - Renesas RX peripherals,RX Machines - rx-gdbsim,210,7145
+Devices - Renesas peripherals,Devices - Renesas peripherals,2167,59157
+Devices - Renesas peripherals,General Project Administration - All patches CC here,2167,59157
+Devices - Renesas peripherals,Guest CPU cores (TCG) - SH4 TCG CPUs,47,1656
+Devices - Renesas peripherals,SH4 Machines - R2D,838,22682
+Devices - Rocker,Devices - Rocker,7818,239410
+Devices - Rocker,General Project Administration - All patches CC here,7818,239410
+Devices - Rocker,Subsystems - QAPI Schema,342,7970
+Devices - S390 3270 device,Devices - S390 3270 device,550,14957
+Devices - S390 3270 device,General Project Administration - All patches CC here,550,14957
+Devices - S390 3270 device,Guest CPU cores (TCG) - S390 TCG CPUs,181,4638
+Devices - S390 3270 device,S390 Machines - S390 Virtio-ccw,229,6029
+Devices - S390 diag 288 watchdog,Devices - S390 diag 288 watchdog,174,4442
+Devices - S390 diag 288 watchdog,General Project Administration - All patches CC here,174,4442
+Devices - S390 floating interrupt controller,Devices - S390 floating interrupt controller,1425,41697
+Devices - S390 floating interrupt controller,General Project Administration - All patches CC here,1425,41697
+Devices - S390 floating interrupt controller,S390 Machines - S390 Virtio-ccw,141,5011
+Devices - S390 storage attribute device,Devices - S390 storage attribute device,604,17734
+Devices - S390 storage attribute device,General Project Administration - All patches CC here,604,17734
+Devices - S390 storage attribute device,Guest CPU cores (TCG) - S390 TCG CPUs,604,17734
+Devices - S390 storage attribute device,S390 Machines - S390 Virtio-ccw,604,17734
+Devices - S390 storage key device,Devices - S390 storage key device,589,17498
+Devices - S390 storage key device,General Project Administration - All patches CC here,589,17498
+Devices - S390 storage key device,Guest CPU cores (TCG) - S390 TCG CPUs,589,17498
+Devices - S390 storage key device,S390 Machines - S390 Virtio-ccw,589,17498
+Devices - SCSI,Devices - SCSI,26562,836994
+Devices - SCSI,Devices - Vmware,1798,53438
+Devices - SCSI,Devices - megasas,3865,120808
+Devices - SCSI,Devices - vhost,1023,30416
+Devices - SCSI,Devices - vhost-user-blk,437,12767
+Devices - SCSI,Devices - virtio,1612,49773
+Devices - SCSI,General Project Administration - All patches CC here,26562,836994
+Devices - SCSI,PowerPC Machines - sPAPR (pseries),1301,38542
+Devices - SCSI,Subsystems - Device Fuzzing,232,7396
+Devices - SCSI,Subsystems - qtest,904,29220
+Devices - SD (Secure Card),Devices - SD (Secure Card),6789,217008
+Devices - SD (Secure Card),General Project Administration - All patches CC here,6789,217008
+Devices - SD (Secure Card),Subsystems - Device Fuzzing,174,6200
+Devices - SD (Secure Card),Subsystems - qtest,285,9191
+Devices - SSI,Devices - SSI,12285,409016
+Devices - SSI,General Project Administration - All patches CC here,12285,409016
+Devices - SSI,PowerPC Machines - PowerNV (Non-Virtualized),1270,50483
+Devices - SSI,RISC-V Machines - OpenTitan,649,22542
+Devices - SSI,RISC-V Machines - SiFive Machines,357,8833
+Devices - SSI,Subsystems - Block layer core,2420,82060
+Devices - Standard VGA,Devices - Standard VGA,4527,141061
+Devices - Standard VGA,General Project Administration - All patches CC here,4527,141061
+Devices - Standard VGA,X86 Machines - PC Chipset,27,566
+Devices - USB,Devices - USB,43340,1379019
+Devices - USB,Devices - USB (serial adapter),709,19544
+Devices - USB,"Devices - VIA South Bridges (VT82C686B, VT8231)",55,1509
+Devices - USB,General Project Administration - All patches CC here,43340,1379019
+Devices - USB,Guest CPU Cores (Xen) - X86 Xen CPUs,1103,32591
+Devices - USB,Subsystems - qtest,408,10663
+Devices - USB (serial adapter),Devices - USB (serial adapter),709,19544
+Devices - USB (serial adapter),General Project Administration - All patches CC here,709,19544
+Devices - Unimplemented device,Devices - Unimplemented device,153,4467
+Devices - Unimplemented device,General Project Administration - All patches CC here,153,4467
+Devices - VFIO,Devices - VFIO,16087,533042
+Devices - VFIO,Devices - vfio-ap,276,7564
+Devices - VFIO,Devices - vfio-ccw,736,22208
+Devices - VFIO,General Project Administration - All patches CC here,16087,533042
+Devices - VFIO,PowerPC Machines - sPAPR (pseries),558,20055
+Devices - VFIO,Subsystems - Migration,208,9943
+Devices - VFIO,Subsystems - QAPI Schema,66,1634
+"Devices - VIA South Bridges (VT82C686B, VT8231)","Devices - VIA South Bridges (VT82C686B, VT8231)",1035,30181
+"Devices - VIA South Bridges (VT82C686B, VT8231)",General Project Administration - All patches CC here,1035,30181
+Devices - VM Generation ID,Devices - VM Generation ID,718,24610
+Devices - VM Generation ID,General Project Administration - All patches CC here,718,24610
+Devices - VM Generation ID,Subsystems - qtest,190,5546
+Devices - Vmware,Devices - Vmware,7536,404582
+Devices - Vmware,General Project Administration - All patches CC here,7536,404582
+Devices - Vmware,"Hosts - Darwin (macOS, iOS)",586,156672
+Devices - Vmware,Subsystems - qtest,58,1408
+Devices - XIVE,Devices - XIVE,14600,471132
+Devices - XIVE,General Project Administration - All patches CC here,14600,471132
+Devices - XIVE,PowerPC Machines - PowerNV (Non-Virtualized),6523,208688
+Devices - XIVE,PowerPC Machines - sPAPR (pseries),3121,95157
+Devices - XIVE,Subsystems - qtest,850,27543
+Devices - Xilinx CAN,Devices - Xilinx CAN,4224,162367
+Devices - Xilinx CAN,General Project Administration - All patches CC here,4224,162367
+Devices - Xilinx CAN,Subsystems - qtest,772,28320
+Devices - Xilinx SPI,Devices - Xilinx SPI,1899,59473
+Devices - Xilinx SPI,General Project Administration - All patches CC here,1899,59473
+Devices - e1000e,Devices - e1000e,5005,149606
+Devices - e1000e,General Project Administration - All patches CC here,5005,149606
+Devices - e1000e,Subsystems - Device Fuzzing,53,1364
+Devices - e1000e,Subsystems - qtest,582,17830
+Devices - e1000x,Devices - e1000x,1458,66080
+Devices - e1000x,General Project Administration - All patches CC here,1458,66080
+Devices - eepro100,Devices - eepro100,2109,70876
+Devices - eepro100,General Project Administration - All patches CC here,2109,70876
+Devices - igb,Devices - igb,7169,223445
+Devices - igb,General Project Administration - All patches CC here,7169,223445
+Devices - igb,Subsystems - qtest,447,13743
+Devices - iommufd,Devices - iommufd,832,25815
+Devices - iommufd,General Project Administration - All patches CC here,832,25815
+Devices - megasas,Devices - megasas,4031,125713
+Devices - megasas,General Project Administration - All patches CC here,4031,125713
+Devices - megasas,Subsystems - Device Fuzzing,75,2363
+Devices - megasas,Subsystems - qtest,166,4905
+Devices - nvme,Devices - nvme,14724,452951
+Devices - nvme,General Project Administration - All patches CC here,14724,452951
+Devices - nvme,Subsystems - Block layer core,1922,58323
+Devices - nvme,Subsystems - qtest,173,5408
+Devices - pca954x,Devices - pca954x,280,7250
+Devices - pca954x,General Project Administration - All patches CC here,280,7250
+Devices - pcf8574,Devices - pcf8574,162,4539
+Devices - pcf8574,General Project Administration - All patches CC here,162,4539
+Devices - ppc4xx,Devices - ppc4xx,3402,97822
+Devices - ppc4xx,General Project Administration - All patches CC here,3402,97822
+Devices - ppc4xx,PowerPC Machines - sam460ex,1053,28989
+Devices - ramfb,Devices - ramfb,278,7126
+Devices - ramfb,General Project Administration - All patches CC here,278,7126
+Devices - tulip,Devices - tulip,1318,35712
+Devices - tulip,General Project Administration - All patches CC here,1318,35712
+Devices - ufs,Devices - ufs,4775,158481
+Devices - ufs,General Project Administration - All patches CC here,4775,158481
+Devices - ufs,Subsystems - Block layer core,1221,38602
+Devices - ufs,Subsystems - qtest,984,41118
+Devices - vfio-ap,Devices - vfio-ap,1365,46609
+Devices - vfio-ap,General Project Administration - All patches CC here,1365,46609
+Devices - vfio-ap,Guest CPU cores (TCG) - S390 TCG CPUs,127,3024
+Devices - vfio-ap,S390 Machines - S390 Virtio-ccw,173,4009
+Devices - vfio-ccw,Devices - vfio-ccw,1004,29365
+Devices - vfio-ccw,General Project Administration - All patches CC here,1004,29365
+Devices - vfio-ccw,Guest CPU cores (TCG) - S390 TCG CPUs,201,5297
+Devices - vfio-ccw,S390 Machines - S390 Virtio-ccw,268,7157
+Devices - vhost,Devices - vhost,26366,778412
+Devices - vhost,Devices - vhost-shadow-virtqueue,900,27567
+Devices - vhost,Devices - vhost-user-blk,2423,66013
+Devices - vhost,Devices - vhost-user-gpio,133,3861
+Devices - vhost,Devices - vhost-user-gpu,3402,95207
+Devices - vhost,Devices - vhost-user-rng,145,4127
+Devices - vhost,Devices - vhost-user-scmi,381,10561
+Devices - vhost,Devices - vhost-user-snd,142,4078
+Devices - vhost,Devices - vhost-user-stubs,510,14546
+Devices - vhost,Devices - virtio-ccw,230,6727
+Devices - vhost,Devices - virtio-input,474,12885
+Devices - vhost,Devices - virtiofs,542,15740
+Devices - vhost,General Project Administration - All patches CC here,26366,778412
+Devices - vhost,Guest CPU cores (TCG) - S390 TCG CPUs,230,6727
+Devices - vhost,S390 Machines - S390 Virtio-ccw,230,6727
+Devices - vhost,Subsystems - Block layer core,619,17325
+Devices - vhost-shadow-virtqueue,Devices - vhost-shadow-virtqueue,900,27567
+Devices - vhost-shadow-virtqueue,General Project Administration - All patches CC here,900,27567
+Devices - vhost-user-blk,Devices - vhost-user-blk,2579,70185
+Devices - vhost-user-blk,Devices - virtio,156,4172
+Devices - vhost-user-blk,Devices - virtio-blk,61,1737
+Devices - vhost-user-blk,General Project Administration - All patches CC here,2579,70185
+Devices - vhost-user-blk,Subsystems - Block layer core,660,18641
+Devices - vhost-user-gpio,Devices - vhost-user-gpio,364,10184
+Devices - vhost-user-gpio,Devices - virtio,24,560
+Devices - vhost-user-gpio,General Project Administration - All patches CC here,364,10184
+Devices - vhost-user-gpio,Subsystems - qtest,207,5763
+Devices - vhost-user-gpu,Devices - vhost-user-gpu,3691,102828
+Devices - vhost-user-gpu,General Project Administration - All patches CC here,3691,102828
+Devices - vhost-user-rng,Devices - vhost-user-rng,210,5759
+Devices - vhost-user-rng,Devices - virtio,24,546
+Devices - vhost-user-rng,General Project Administration - All patches CC here,210,5759
+Devices - vhost-user-scmi,Devices - vhost-user-scmi,620,17132
+Devices - vhost-user-scmi,Devices - virtio,31,700
+Devices - vhost-user-scmi,General Project Administration - All patches CC here,620,17132
+Devices - vhost-user-scmi,Subsystems - qtest,208,5871
+Devices - vhost-user-snd,Devices - vhost-user-snd,166,4630
+Devices - vhost-user-snd,Devices - virtio,24,552
+Devices - vhost-user-snd,General Project Administration - All patches CC here,166,4630
+Devices - vhost-user-stubs,Devices - vhost-user-stubs,510,14546
+Devices - vhost-user-stubs,General Project Administration - All patches CC here,510,14546
+Devices - virtio,Devices - virtio,47049,1481805
+Devices - virtio,Devices - virtio based memory device,195,5705
+Devices - virtio,Devices - virtio-9p,299,8415
+Devices - virtio,Devices - virtio-balloon,1219,38970
+Devices - virtio,Devices - virtio-blk,2115,69459
+Devices - virtio,Devices - virtio-ccw,2259,70037
+Devices - virtio,Devices - virtio-crypto,1506,48832
+Devices - virtio,Devices - virtio-dmabuf,246,6468
+Devices - virtio,Devices - virtio-gpu,5853,181764
+Devices - virtio,Devices - virtio-input,1359,42922
+Devices - virtio,Devices - virtio-iommu,1912,61011
+Devices - virtio,Devices - virtio-mem,2319,78011
+Devices - virtio,Devices - virtio-nsm,1899,47976
+Devices - virtio,Devices - virtio-rng,341,9403
+Devices - virtio,Devices - virtio-serial,1742,50947
+Devices - virtio,Devices - virtio-snd,1488,47031
+Devices - virtio,Devices - virtiofs,47,1082
+Devices - virtio,General Project Administration - All patches CC here,47049,1481805
+Devices - virtio,Guest CPU cores (TCG) - S390 TCG CPUs,2259,70037
+Devices - virtio,S390 Machines - S390 Virtio-ccw,2259,70037
+Devices - virtio,Subsystems - Block layer core,2095,69038
+Devices - virtio,Subsystems - Migration,115,4216
+Devices - virtio,Subsystems - Network device backends,442,12203
+Devices - virtio,Subsystems - QAPI Schema,994,32561
+Devices - virtio based memory device,Devices - virtio based memory device,195,5705
+Devices - virtio based memory device,General Project Administration - All patches CC here,195,5705
+Devices - virtio-9p,Devices - virtio-9p,13963,398570
+Devices - virtio-9p,General Project Administration - All patches CC here,13963,398570
+Devices - virtio-9p,Subsystems - qtest,2659,78697
+Devices - virtio-balloon,Devices - virtio-balloon,1463,46711
+Devices - virtio-balloon,General Project Administration - All patches CC here,1463,46711
+Devices - virtio-blk,Devices - virtio-blk,3795,120370
+Devices - virtio-blk,General Project Administration - All patches CC here,3795,120370
+Devices - virtio-blk,Guest CPU Cores (Xen) - X86 Xen CPUs,872,26388
+Devices - virtio-blk,Subsystems - Block layer core,2968,95497
+Devices - virtio-blk,Subsystems - qtest,807,24452
+Devices - virtio-ccw,Devices - virtio-ccw,2489,76764
+Devices - virtio-ccw,General Project Administration - All patches CC here,2489,76764
+Devices - virtio-ccw,Guest CPU cores (TCG) - S390 TCG CPUs,2489,76764
+Devices - virtio-ccw,S390 Machines - S390 Virtio-ccw,2489,76764
+Devices - virtio-crypto,Devices - virtio-crypto,1506,48832
+Devices - virtio-crypto,General Project Administration - All patches CC here,1506,48832
+Devices - virtio-dmabuf,Devices - virtio-dmabuf,383,11042
+Devices - virtio-dmabuf,General Project Administration - All patches CC here,383,11042
+Devices - virtio-gpu,Devices - virtio-gpu,5976,186691
+Devices - virtio-gpu,General Project Administration - All patches CC here,5976,186691
+Devices - virtio-input,Devices - virtio-input,1878,57069
+Devices - virtio-input,General Project Administration - All patches CC here,1878,57069
+Devices - virtio-iommu,Devices - virtio-iommu,1912,61011
+Devices - virtio-iommu,General Project Administration - All patches CC here,1912,61011
+Devices - virtio-mem,Devices - virtio-mem,2319,78011
+Devices - virtio-mem,General Project Administration - All patches CC here,2319,78011
+Devices - virtio-nsm,Devices - virtio-nsm,2220,54889
+Devices - virtio-nsm,General Project Administration - All patches CC here,2220,54889
+Devices - virtio-rng,Devices - virtio-rng,1025,26117
+Devices - virtio-rng,General Project Administration - All patches CC here,1025,26117
+Devices - virtio-rng,Subsystems - qtest,43,1123
+Devices - virtio-serial,Devices - virtio-serial,1781,52163
+Devices - virtio-serial,General Project Administration - All patches CC here,1781,52163
+Devices - virtio-serial,Subsystems - qtest,39,1216
+Devices - virtio-snd,Devices - virtio-snd,1787,57186
+Devices - virtio-snd,General Project Administration - All patches CC here,1787,57186
+Devices - virtiofs,Devices - virtiofs,589,16822
+Devices - virtiofs,General Project Administration - All patches CC here,589,16822
+Documentation - Build system architecture,Documentation - Build system architecture,597,24043
+Documentation - Build system architecture,General Project Administration - All patches CC here,597,24043
+Documentation - GIT Data Mining Config,Documentation - GIT Data Mining Config,493,13397
+Documentation - GIT Data Mining Config,General Project Administration - All patches CC here,493,13397
+Documentation - Incompatible changes,Documentation - Incompatible changes,501,20562
+Documentation - Incompatible changes,General Project Administration - All patches CC here,501,20562
+General Project Administration - All patches CC here,General Project Administration - All patches CC here,3480191,137510536
+General Project Administration - All patches CC here,General Project Administration - Project policy and developer guides,1648,66099
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - ARM KVM CPUs,2470,73136
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - MIPS KVM CPUs,2245,73396
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - Overall KVM CPUs,19532,568572
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - PPC KVM CPUs,3014,82334
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - S390 KVM CPUs,4565,139299
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - X86 KVM CPUs,13251,416682
+General Project Administration - All patches CC here,Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,9618,262490
+General Project Administration - All patches CC here,Guest CPU Cores (NVMM) - NetBSD Virtual Machine Monitor (NVMM) CPU support,1392,38855
+General Project Administration - All patches CC here,Guest CPU Cores (Xen) - X86 Xen CPUs,31008,1011449
+General Project Administration - All patches CC here,Guest CPU Cores (other accelerators) - Apple Silicon HVF CPUs,2340,79611
+General Project Administration - All patches CC here,Guest CPU Cores (other accelerators) - HVF,837,22309
+General Project Administration - All patches CC here,Guest CPU Cores (other accelerators) - Overall,741,22289
+General Project Administration - All patches CC here,Guest CPU Cores (other accelerators) - WHPX CPUs,3363,104655
+General Project Administration - All patches CC here,Guest CPU Cores (other accelerators) - X86 HVF CPUs,7875,259849
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - ARM SMMU,4312,136424
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - ARM TCG CPUs,192393,6889059
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - AVR TCG CPUs,4705,143128
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - Alpha TCG CPUs,8706,268845
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - FPU emulation,13020,419469
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs,12271,382192
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - Hexagon TCG CPUs,44218,1620696
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - Hexagon idef-parser,5149,185595
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - LoongArch TCG CPUs,26175,983913
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - M68K TCG CPUs,20232,682434
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - MIPS TCG CPUs,150818,5773780
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - MicroBlaze TCG CPUs,6386,231289
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - Multiarch Linux User Tests,6306,172527
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - OpenRISC TCG CPUs,8072,206707
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - Overall TCG CPUs,28035,890509
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - PowerPC TCG CPUs,65041,2300331
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - RENESAS RX CPUs,5638,144431
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - RISC-V TCG CPUs,60489,2060241
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - RISC-V XThead* extensions,2046,66442
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - RISC-V XVentanaCondOps extension,112,3146
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - S390 TCG CPUs,54575,1697333
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - SH4 TCG CPUs,9798,359949
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - SPARC TCG CPUs,22479,780078
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - TriCore TCG CPUs,16521,555342
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - X86 TCG CPUs,76984,3354318
+General Project Administration - All patches CC here,Guest CPU cores (TCG) - Xtensa TCG CPUs,380566,8809971
+General Project Administration - All patches CC here,"HP-PARISC Machines - HP B160L, HP C3700",9745,847913
+General Project Administration - All patches CC here,"Hosts - Darwin (macOS, iOS)",10863,1824161
+General Project Administration - All patches CC here,Hosts - LINUX,32029,1102161
+General Project Administration - All patches CC here,Hosts - POSIX,3044,82116
+General Project Administration - All patches CC here,"Hosts - W32, W64",4756,129437
+General Project Administration - All patches CC here,LoongArch Machines - Virt,5351,176371
+General Project Administration - All patches CC here,M68K Machines - NeXTcube,1695,48587
+General Project Administration - All patches CC here,M68K Machines - an5206,736,19822
+General Project Administration - All patches CC here,M68K Machines - mcf5208,1729,46085
+General Project Administration - All patches CC here,M68K Machines - q800,6556,199644
+General Project Administration - All patches CC here,M68K Machines - virt,1390,37993
+General Project Administration - All patches CC here,MIPS Machines - Boston,1579,50902
+General Project Administration - All patches CC here,MIPS Machines - Fuloong 2E,1234,39774
+General Project Administration - All patches CC here,MIPS Machines - Jazz,2258,66184
+General Project Administration - All patches CC here,MIPS Machines - Loongson-3 virtual platforms,1927,62082
+General Project Administration - All patches CC here,MIPS Machines - Malta,4646,151884
+General Project Administration - All patches CC here,MIPS Machines - Mipssim,549,16419
+General Project Administration - All patches CC here,MIPS Machines - Overall MIPS Machines,5166,169662
+General Project Administration - All patches CC here,MicroBlaze Machines - petalogix_ml605,225,8841
+General Project Administration - All patches CC here,MicroBlaze Machines - petalogix_s3adsp1800,260,9786
+General Project Administration - All patches CC here,Miscellaneous - Code Coverage Tools,119,3541
+General Project Administration - All patches CC here,Miscellaneous - Performance Tools and Tests,455,18367
+General Project Administration - All patches CC here,OpenRISC Machines - or1k-sim,595,18887
+General Project Administration - All patches CC here,PowerPC Machines - 405 (ref405ep),1960,58227
+General Project Administration - All patches CC here,PowerPC Machines - Bamboo,715,21786
+General Project Administration - All patches CC here,PowerPC Machines - New World (mac99),7947,264336
+General Project Administration - All patches CC here,PowerPC Machines - Old World (g3beige),5627,185967
+General Project Administration - All patches CC here,PowerPC Machines - PReP,2528,78127
+General Project Administration - All patches CC here,PowerPC Machines - PowerNV (Non-Virtualized),42120,3367220
+General Project Administration - All patches CC here,PowerPC Machines - Virtual Open Firmware (VOF),1658,63418
+General Project Administration - All patches CC here,PowerPC Machines - amigaone,531,16293
+General Project Administration - All patches CC here,PowerPC Machines - e500,7188,598802
+General Project Administration - All patches CC here,PowerPC Machines - mpc8544ds,269,8408
+General Project Administration - All patches CC here,PowerPC Machines - pca955x,934,25093
+General Project Administration - All patches CC here,PowerPC Machines - pegasos2,2953,126596
+General Project Administration - All patches CC here,PowerPC Machines - sPAPR (pseries),52893,2129717
+General Project Administration - All patches CC here,PowerPC Machines - sam460ex,5510,178755
+General Project Administration - All patches CC here,PowerPC Machines - virtex_ml507,332,10954
+General Project Administration - All patches CC here,RISC-V Machines - Microchip PolarFire SoC Icicle Kit,2015,74074
+General Project Administration - All patches CC here,RISC-V Machines - OpenTitan,2213,74783
+General Project Administration - All patches CC here,RISC-V Machines - Shakti C class SoC,605,19289
+General Project Administration - All patches CC here,RISC-V Machines - SiFive Machines,6347,203432
+General Project Administration - All patches CC here,RX Machines - rx-gdbsim,324,10969
+General Project Administration - All patches CC here,S390 Machines - S390 CPU models,1945,81013
+General Project Administration - All patches CC here,S390 Machines - S390 CPU topology,1725,55275
+General Project Administration - All patches CC here,S390 Machines - S390 PCI,4233,126357
+General Project Administration - All patches CC here,S390 Machines - S390 SCLP-backed devices,2352,68933
+General Project Administration - All patches CC here,S390 Machines - S390 Virtio-ccw,18865,574544
+General Project Administration - All patches CC here,S390 Machines - S390 channel subsystem,4538,132658
+General Project Administration - All patches CC here,S390 Machines - S390-ccw boot,8169,307931
+General Project Administration - All patches CC here,SH4 Machines - R2D,2058,59633
+General Project Administration - All patches CC here,SPARC Machines - Leon3,2055,63894
+General Project Administration - All patches CC here,SPARC Machines - Sun4m,6075,555467
+General Project Administration - All patches CC here,SPARC Machines - Sun4u,3480,1659197
+General Project Administration - All patches CC here,SPARC Machines - Sun4v,299,9142
+General Project Administration - All patches CC here,Subsystems - AF_XDP network backend,524,14240
+General Project Administration - All patches CC here,Subsystems - ALSA Audio backend,973,25825
+General Project Administration - All patches CC here,Subsystems - AMD-Vi Emulation,2134,70895
+General Project Administration - All patches CC here,Subsystems - Benchmark util,1193,39335
+General Project Administration - All patches CC here,Subsystems - Block I/O path,7648,232325
+General Project Administration - All patches CC here,Subsystems - Block Jobs,9401,284697
+General Project Administration - All patches CC here,Subsystems - Block SCSI subsystem,2801,85487
+General Project Administration - All patches CC here,Subsystems - Block layer core,397367,15436072
+General Project Administration - All patches CC here,Subsystems - Buffers,333,8942
+General Project Administration - All patches CC here,Subsystems - COLO Framework,1487,50028
+General Project Administration - All patches CC here,Subsystems - COLO Proxy,3327,103391
+General Project Administration - All patches CC here,Subsystems - Character Devices (Braille),694,23260
+General Project Administration - All patches CC here,Subsystems - Character device backends,11067,319997
+General Project Administration - All patches CC here,Subsystems - Checkpatch,3188,89850
+General Project Administration - All patches CC here,Subsystems - Clock framework,1575,51409
+General Project Administration - All patches CC here,Subsystems - Cocoa graphics,2200,71511
+General Project Administration - All patches CC here,Subsystems - Command line option argument parsing,3829,121520
+General Project Administration - All patches CC here,Subsystems - Compute Express Link,9398,313830
+General Project Administration - All patches CC here,Subsystems - Coroutines,3190,93230
+General Project Administration - All patches CC here,Subsystems - Coverity Scan integration,1066,30610
+General Project Administration - All patches CC here,Subsystems - Cryptodev Backends,3516,104187
+General Project Administration - All patches CC here,Subsystems - Cryptography,30699,1013369
+General Project Administration - All patches CC here,Subsystems - D-Bus,8093,245519
+General Project Administration - All patches CC here,Subsystems - DSound Audio backend,1014,26523
+General Project Administration - All patches CC here,Subsystems - Detached LUKS header,498,16691
+General Project Administration - All patches CC here,Subsystems - Device Fuzzing,4430,137515
+General Project Administration - All patches CC here,Subsystems - Device Tree,904,27255
+General Project Administration - All patches CC here,Subsystems - Dirty Bitmaps,8473,257799
+General Project Administration - All patches CC here,Subsystems - Dump,4163,130139
+General Project Administration - All patches CC here,Subsystems - EDK2 Firmware,59935,15041668
+General Project Administration - All patches CC here,Subsystems - Error reporting,1845,50145
+General Project Administration - All patches CC here,Subsystems - FSI,1466,44348
+General Project Administration - All patches CC here,Subsystems - File monitor,1262,38786
+General Project Administration - All patches CC here,Subsystems - Firmware schema specifications,679,24644
+General Project Administration - All patches CC here,Subsystems - GDB stub,8896,291110
+General Project Administration - All patches CC here,Subsystems - Graphics,48192,1525474
+General Project Administration - All patches CC here,Subsystems - Host Memory Backends,1578,48036
+General Project Administration - All patches CC here,Subsystems - Human Monitor (HMP),6646,183099
+General Project Administration - All patches CC here,Subsystems - I/O Channels,10583,325540
+General Project Administration - All patches CC here,Subsystems - I2C and SMBus,1548,44185
+General Project Administration - All patches CC here,Subsystems - IOVA Tree,401,10910
+General Project Administration - All patches CC here,Subsystems - JACK Audio Connection Kit backend,705,17613
+General Project Administration - All patches CC here,Subsystems - Main loop,8698,252451
+General Project Administration - All patches CC here,Subsystems - Memory API,13285,434541
+General Project Administration - All patches CC here,Subsystems - Memory devices,1839,62096
+General Project Administration - All patches CC here,Subsystems - Migration,48696,1549731
+General Project Administration - All patches CC here,Subsystems - Migration dirty limit and dirty page rate,1839,52830
+General Project Administration - All patches CC here,Subsystems - Netmap network backend,426,12471
+General Project Administration - All patches CC here,Subsystems - Network device backends,22460,655855
+General Project Administration - All patches CC here,Subsystems - Open Sound System (OSS) Audio backend,796,20955
+General Project Administration - All patches CC here,Subsystems - OpenSBI Firmware,1487,545286
+General Project Administration - All patches CC here,Subsystems - Overall Audio backends,7899,221199
+General Project Administration - All patches CC here,Subsystems - Overall sensors,4565,143361
+General Project Administration - All patches CC here,Subsystems - PMBus,5465,194618
+General Project Administration - All patches CC here,Subsystems - PulseAudio backend,944,24986
+General Project Administration - All patches CC here,Subsystems - Python library,13177,1269933
+General Project Administration - All patches CC here,Subsystems - Python scripts,8610,284889
+General Project Administration - All patches CC here,Subsystems - QAPI,23667,735723
+General Project Administration - All patches CC here,Subsystems - QAPI Schema,27766,778681
+General Project Administration - All patches CC here,Subsystems - QEMU Guest Agent,17004,499175
+General Project Administration - All patches CC here,Subsystems - QEMU Guest Agent Win32,5533,168213
+General Project Administration - All patches CC here,Subsystems - QMP,3815,113234
+General Project Administration - All patches CC here,Subsystems - QOM,16796,507430
+General Project Administration - All patches CC here,Subsystems - QOM boilerplate conversion script,2993,114287
+General Project Administration - All patches CC here,Subsystems - QObject,12081,280674
+General Project Administration - All patches CC here,Subsystems - RDMA Migration,4253,131791
+General Project Administration - All patches CC here,"Subsystems - Read, Copy, Update (RCU)",3049,98983
+General Project Administration - All patches CC here,Subsystems - Record/replay,4705,150023
+General Project Administration - All patches CC here,Subsystems - Register API,798,29289
+General Project Administration - All patches CC here,Subsystems - Reset framework,945,31235
+General Project Administration - All patches CC here,Subsystems - Rust,1354,42601
+General Project Administration - All patches CC here,Subsystems - Rust-related patches CC here,3095,102798
+General Project Administration - All patches CC here,Subsystems - SDL Audio backend,507,14107
+General Project Administration - All patches CC here,Subsystems - SLIRP,1270,36389
+General Project Administration - All patches CC here,Subsystems - SPDM,290,8432
+General Project Administration - All patches CC here,Subsystems - SPICE,8501,258227
+General Project Administration - All patches CC here,Subsystems - Seccomp,780,23870
+General Project Administration - All patches CC here,Subsystems - Simpletrace,359,13525
+General Project Administration - All patches CC here,Subsystems - Sndio Audio backend,564,13106
+General Project Administration - All patches CC here,Subsystems - Sockets,1810,48757
+General Project Administration - All patches CC here,Subsystems - Stats,739,20847
+General Project Administration - All patches CC here,Subsystems - Storage daemon,772,28024
+General Project Administration - All patches CC here,Subsystems - Streams,87,2665
+General Project Administration - All patches CC here,Subsystems - Stubs,916,18906
+General Project Administration - All patches CC here,Subsystems - TPM,9691,302652
+General Project Administration - All patches CC here,Subsystems - Throttling infrastructure,3202,105315
+General Project Administration - All patches CC here,Subsystems - Tracing,4304,128997
+General Project Administration - All patches CC here,Subsystems - Transactions helper,166,4562
+General Project Administration - All patches CC here,Subsystems - UUID,445,13599
+General Project Administration - All patches CC here,Subsystems - User authorization,2060,57559
+General Project Administration - All patches CC here,Subsystems - VT-d Emulation,5328,180496
+General Project Administration - All patches CC here,Subsystems - Yank feature,732,20344
+General Project Administration - All patches CC here,Subsystems - elf2dmp,2224,57650
+General Project Administration - All patches CC here,Subsystems - qtest,72843,2237416
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - AArch64 TCG target,3597,114352
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - ARM TCG target,3314,105244
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - Common TCG code,63677,2015138
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - LoongArch64 TCG target,7929,249979
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - MIPS TCG target,2943,92907
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - PPC TCG target,4784,148101
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - RISC-V TCG target,9095,325887
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - SPARC TCG target,5150,233059
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - TCG Plugins,7766,239428
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - TCI TCG target,2642,81958
+General Project Administration - All patches CC here,Tiny Code Generator (TCG) - i386 TCG target,4943,160609
+General Project Administration - All patches CC here,Trivial patches - Trivial patches,52,1593
+General Project Administration - All patches CC here,Usermode Emulation - BSD user,19786,653024
+General Project Administration - All patches CC here,Usermode Emulation - Linux user,75925,2518695
+General Project Administration - All patches CC here,Usermode Emulation - Overall usermode emulation,3040,96947
+General Project Administration - All patches CC here,X86 Machines - Machine core,10486,339679
+General Project Administration - All patches CC here,X86 Machines - PC,39938,1278496
+General Project Administration - All patches CC here,X86 Machines - PC Chipset,12498,370752
+General Project Administration - All patches CC here,X86 Machines - microvm,1551,164116
+General Project Administration - All patches CC here,X86 Machines - nitro-enclave,1273,40771
+General Project Administration - All patches CC here,"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",1577,47757
+General Project Administration - All patches CC here,Xtensa Machines - sim,129,4634
+General Project Administration - All patches CC here,Xtensa Machines - virt,127,4908
+General Project Administration - Project policy and developer guides,General Project Administration - Project policy and developer guides,1648,66099
+Guest CPU Cores (KVM) - ARM KVM CPUs,Guest CPU Cores (KVM) - ARM KVM CPUs,2470,73136
+Guest CPU Cores (KVM) - ARM KVM CPUs,Guest CPU Cores (KVM) - Overall KVM CPUs,2470,73136
+Guest CPU Cores (KVM) - ARM KVM CPUs,Guest CPU cores (TCG) - ARM TCG CPUs,2470,73136
+Guest CPU Cores (KVM) - MIPS KVM CPUs,Guest CPU Cores (KVM) - MIPS KVM CPUs,2245,73396
+Guest CPU Cores (KVM) - MIPS KVM CPUs,Guest CPU Cores (KVM) - Overall KVM CPUs,1306,42050
+Guest CPU Cores (KVM) - MIPS KVM CPUs,Guest CPU cores (TCG) - MIPS TCG CPUs,2245,73396
+Guest CPU Cores (KVM) - Overall KVM CPUs,Guest CPU Cores (KVM) - Overall KVM CPUs,19532,568572
+Guest CPU Cores (KVM) - Overall KVM CPUs,Guest CPU Cores (KVM) - PPC KVM CPUs,3014,82334
+Guest CPU Cores (KVM) - Overall KVM CPUs,Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,215,7509
+Guest CPU Cores (KVM) - Overall KVM CPUs,Guest CPU cores (TCG) - ARM TCG CPUs,2982,90102
+Guest CPU Cores (KVM) - Overall KVM CPUs,Guest CPU cores (TCG) - MIPS TCG CPUs,1306,42050
+Guest CPU Cores (KVM) - Overall KVM CPUs,Guest CPU cores (TCG) - PowerPC TCG CPUs,3493,93548
+Guest CPU Cores (KVM) - Overall KVM CPUs,Hosts - LINUX,5490,164190
+Guest CPU Cores (KVM) - PPC KVM CPUs,Guest CPU Cores (KVM) - PPC KVM CPUs,3014,82334
+Guest CPU Cores (KVM) - PPC KVM CPUs,Guest CPU cores (TCG) - PowerPC TCG CPUs,3014,82334
+Guest CPU Cores (KVM) - S390 KVM CPUs,Guest CPU Cores (KVM) - S390 KVM CPUs,4565,139299
+Guest CPU Cores (KVM) - S390 KVM CPUs,Guest CPU cores (TCG) - S390 TCG CPUs,4357,129354
+Guest CPU Cores (KVM) - S390 KVM CPUs,S390 Machines - S390 CPU topology,336,10211
+Guest CPU Cores (KVM) - S390 KVM CPUs,Subsystems - GDB stub,208,9945
+Guest CPU Cores (KVM) - X86 KVM CPUs,Guest CPU Cores (KVM) - X86 KVM CPUs,13251,416682
+Guest CPU Cores (KVM) - X86 KVM CPUs,Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,2043,57856
+Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,9618,262490
+Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,Guest CPU cores (TCG) - X86 TCG CPUs,7360,197125
+Guest CPU Cores (KVM) - Xen emulation on X86 KVM CPUs,X86 Machines - PC,7360,197125
+Guest CPU Cores (NVMM) - NetBSD Virtual Machine Monitor (NVMM) CPU support,Guest CPU Cores (NVMM) - NetBSD Virtual Machine Monitor (NVMM) CPU support,1392,38855
+Guest CPU Cores (Xen) - X86 Xen CPUs,Guest CPU Cores (Xen) - X86 Xen CPUs,31008,1011449
+Guest CPU Cores (Xen) - X86 Xen CPUs,Guest CPU cores (TCG) - X86 TCG CPUs,1779,51570
+Guest CPU Cores (Xen) - X86 Xen CPUs,Subsystems - Block layer core,2195,65278
+Guest CPU Cores (Xen) - X86 Xen CPUs,Subsystems - Stubs,43,784
+Guest CPU Cores (Xen) - X86 Xen CPUs,X86 Machines - PC,1779,51570
+Guest CPU Cores (other accelerators) - Apple Silicon HVF CPUs,Guest CPU Cores (other accelerators) - Apple Silicon HVF CPUs,2340,79611
+Guest CPU Cores (other accelerators) - Apple Silicon HVF CPUs,Guest CPU cores (TCG) - ARM TCG CPUs,2340,79611
+Guest CPU Cores (other accelerators) - HVF,Guest CPU Cores (other accelerators) - HVF,837,22309
+Guest CPU Cores (other accelerators) - Overall,Guest CPU Cores (other accelerators) - Overall,741,22289
+Guest CPU Cores (other accelerators) - WHPX CPUs,Guest CPU Cores (other accelerators) - WHPX CPUs,3363,104655
+Guest CPU Cores (other accelerators) - X86 HVF CPUs,Guest CPU Cores (other accelerators) - X86 HVF CPUs,7875,259849
+Guest CPU cores (TCG) - ARM SMMU,Guest CPU cores (TCG) - ARM SMMU,4312,136424
+Guest CPU cores (TCG) - ARM SMMU,Guest CPU cores (TCG) - ARM TCG CPUs,3857,121688
+Guest CPU cores (TCG) - ARM TCG CPUs,Guest CPU cores (TCG) - ARM TCG CPUs,192393,6889059
+Guest CPU cores (TCG) - ARM TCG CPUs,Subsystems - qtest,677,25123
+Guest CPU cores (TCG) - AVR TCG CPUs,Guest CPU cores (TCG) - AVR TCG CPUs,4705,143128
+Guest CPU cores (TCG) - AVR TCG CPUs,Subsystems - GDB stub,49,2045
+Guest CPU cores (TCG) - Alpha TCG CPUs,Guest CPU cores (TCG) - Alpha TCG CPUs,8706,268845
+Guest CPU cores (TCG) - FPU emulation,Guest CPU cores (TCG) - FPU emulation,13020,419469
+Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs,Guest CPU cores (TCG) - HPPA (PA-RISC) TCG CPUs,12271,382192
+Guest CPU cores (TCG) - Hexagon TCG CPUs,Guest CPU cores (TCG) - Hexagon TCG CPUs,44218,1620696
+Guest CPU cores (TCG) - Hexagon TCG CPUs,Subsystems - GDB stub,184,16627
+Guest CPU cores (TCG) - Hexagon TCG CPUs,Usermode Emulation - Linux user,1053,39081
+Guest CPU cores (TCG) - Hexagon idef-parser,Guest CPU cores (TCG) - Hexagon idef-parser,5149,185595
+Guest CPU cores (TCG) - LoongArch TCG CPUs,Guest CPU cores (TCG) - LoongArch TCG CPUs,26175,983913
+Guest CPU cores (TCG) - M68K TCG CPUs,Guest CPU cores (TCG) - M68K TCG CPUs,20232,682434
+Guest CPU cores (TCG) - MIPS TCG CPUs,Guest CPU cores (TCG) - MIPS TCG CPUs,150818,5773780
+Guest CPU cores (TCG) - MicroBlaze TCG CPUs,Guest CPU cores (TCG) - MicroBlaze TCG CPUs,6386,231289
+Guest CPU cores (TCG) - MicroBlaze TCG CPUs,MicroBlaze Machines - petalogix_ml605,225,8841
+Guest CPU cores (TCG) - MicroBlaze TCG CPUs,MicroBlaze Machines - petalogix_s3adsp1800,155,5948
+Guest CPU cores (TCG) - Multiarch Linux User Tests,Guest CPU cores (TCG) - Multiarch Linux User Tests,6306,172527
+Guest CPU cores (TCG) - Multiarch Linux User Tests,Subsystems - GDB stub,653,18503
+Guest CPU cores (TCG) - OpenRISC TCG CPUs,Guest CPU cores (TCG) - OpenRISC TCG CPUs,8072,206707
+Guest CPU cores (TCG) - OpenRISC TCG CPUs,OpenRISC Machines - or1k-sim,371,12610
+Guest CPU cores (TCG) - Overall TCG CPUs,Guest CPU cores (TCG) - Overall TCG CPUs,28035,890509
+Guest CPU cores (TCG) - Overall TCG CPUs,Subsystems - Main loop,878,19709
+Guest CPU cores (TCG) - Overall TCG CPUs,Subsystems - Python scripts,1657,50789
+Guest CPU cores (TCG) - Overall TCG CPUs,Tiny Code Generator (TCG) - Common TCG code,3497,132988
+Guest CPU cores (TCG) - Overall TCG CPUs,Tiny Code Generator (TCG) - TCG Plugins,172,6910
+Guest CPU cores (TCG) - Overall TCG CPUs,Usermode Emulation - Overall usermode emulation,1326,37231
+Guest CPU cores (TCG) - PowerPC TCG CPUs,Guest CPU cores (TCG) - PowerPC TCG CPUs,65041,2300331
+Guest CPU cores (TCG) - RENESAS RX CPUs,Guest CPU cores (TCG) - RENESAS RX CPUs,5638,144431
+Guest CPU cores (TCG) - RISC-V TCG CPUs,Guest CPU cores (TCG) - RISC-V TCG CPUs,60489,2060241
+Guest CPU cores (TCG) - RISC-V TCG CPUs,Guest CPU cores (TCG) - RISC-V XThead* extensions,1310,40813
+Guest CPU cores (TCG) - RISC-V TCG CPUs,Guest CPU cores (TCG) - RISC-V XVentanaCondOps extension,52,1690
+Guest CPU cores (TCG) - RISC-V TCG CPUs,RISC-V Machines - Microchip PolarFire SoC Icicle Kit,841,34536
+Guest CPU cores (TCG) - RISC-V TCG CPUs,RISC-V Machines - OpenTitan,461,18315
+Guest CPU cores (TCG) - RISC-V TCG CPUs,RISC-V Machines - Shakti C class SoC,263,8731
+Guest CPU cores (TCG) - RISC-V TCG CPUs,RISC-V Machines - SiFive Machines,1576,60735
+Guest CPU cores (TCG) - RISC-V TCG CPUs,Usermode Emulation - BSD user,4,198
+Guest CPU cores (TCG) - RISC-V TCG CPUs,Usermode Emulation - Linux user,18,705
+Guest CPU cores (TCG) - RISC-V XThead* extensions,Guest CPU cores (TCG) - RISC-V XThead* extensions,2046,66442
+Guest CPU cores (TCG) - RISC-V XVentanaCondOps extension,Guest CPU cores (TCG) - RISC-V XVentanaCondOps extension,112,3146
+Guest CPU cores (TCG) - S390 TCG CPUs,Guest CPU cores (TCG) - S390 TCG CPUs,54575,1697333
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390 CPU models,1945,81013
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390 CPU topology,805,24880
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390 PCI,3410,101524
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390 SCLP-backed devices,1253,36834
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390 Virtio-ccw,15262,456794
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390 channel subsystem,3901,112940
+Guest CPU cores (TCG) - S390 TCG CPUs,S390 Machines - S390-ccw boot,965,29865
+Guest CPU cores (TCG) - SH4 TCG CPUs,Guest CPU cores (TCG) - SH4 TCG CPUs,9798,359949
+Guest CPU cores (TCG) - SH4 TCG CPUs,SH4 Machines - R2D,464,13754
+Guest CPU cores (TCG) - SPARC TCG CPUs,Guest CPU cores (TCG) - SPARC TCG CPUs,22479,780078
+Guest CPU cores (TCG) - SPARC TCG CPUs,SPARC Machines - Leon3,445,15702
+Guest CPU cores (TCG) - SPARC TCG CPUs,SPARC Machines - Sun4m,1908,62405
+Guest CPU cores (TCG) - SPARC TCG CPUs,SPARC Machines - Sun4u,1207,38519
+Guest CPU cores (TCG) - SPARC TCG CPUs,SPARC Machines - Sun4v,183,6577
+Guest CPU cores (TCG) - SPARC TCG CPUs,Tiny Code Generator (TCG) - SPARC TCG target,3236,173818
+Guest CPU cores (TCG) - TriCore TCG CPUs,Guest CPU cores (TCG) - TriCore TCG CPUs,16521,555342
+Guest CPU cores (TCG) - X86 TCG CPUs,Guest CPU cores (TCG) - X86 TCG CPUs,76984,3354318
+Guest CPU cores (TCG) - X86 TCG CPUs,Subsystems - AMD-Vi Emulation,2134,70895
+Guest CPU cores (TCG) - X86 TCG CPUs,Subsystems - EDK2 Firmware,187,5575
+Guest CPU cores (TCG) - X86 TCG CPUs,Subsystems - VT-d Emulation,5003,167651
+Guest CPU cores (TCG) - X86 TCG CPUs,X86 Machines - PC,31363,984626
+Guest CPU cores (TCG) - X86 TCG CPUs,X86 Machines - microvm,739,25019
+Guest CPU cores (TCG) - X86 TCG CPUs,X86 Machines - nitro-enclave,354,11437
+Guest CPU cores (TCG) - Xtensa TCG CPUs,Guest CPU cores (TCG) - Xtensa TCG CPUs,380566,8809971
+Guest CPU cores (TCG) - Xtensa TCG CPUs,"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",734,24239
+Guest CPU cores (TCG) - Xtensa TCG CPUs,Xtensa Machines - sim,129,4634
+Guest CPU cores (TCG) - Xtensa TCG CPUs,Xtensa Machines - virt,127,4908
+"HP-PARISC Machines - HP B160L, HP C3700","HP-PARISC Machines - HP B160L, HP C3700",9745,847913
+"Hosts - Darwin (macOS, iOS)","Hosts - Darwin (macOS, iOS)",10863,1824161
+"Hosts - Darwin (macOS, iOS)",Subsystems - Cocoa graphics,2200,71511
+"Hosts - Darwin (macOS, iOS)",Subsystems - Graphics,2276,74289
+"Hosts - Darwin (macOS, iOS)",Subsystems - Network device backends,538,15680
+"Hosts - Darwin (macOS, iOS)",Subsystems - Overall Audio backends,681,22256
+Hosts - LINUX,Hosts - LINUX,32029,1102161
+Hosts - LINUX,M68K Machines - q800,292,9660
+Hosts - NETBSD,Hosts - NETBSD,0,0
+Hosts - OPENBSD,Hosts - OPENBSD,0,0
+Hosts - POSIX,Hosts - POSIX,3044,82116
+Hosts - POSIX,Subsystems - Block I/O path,790,23768
+"Hosts - W32, W64","Hosts - W32, W64",4756,129437
+"Hosts - W32, W64",Subsystems - Block I/O path,444,12681
+"Hosts - W32, W64",Subsystems - Block layer core,1162,33024
+"Hosts - W32, W64",Subsystems - Graphics,116,3311
+"Hosts - W32, W64",Subsystems - Network device backends,773,23087
+"Hosts - W32, W64",Subsystems - Python scripts,129,3880
+"Hosts - W32, W64",Subsystems - Stubs,18,340
+LoongArch Machines - Virt,LoongArch Machines - Virt,5351,176371
+LoongArch Machines - Virt,MIPS Machines - Loongson-3 virtual platforms,421,12217
+LoongArch Machines - Virt,Subsystems - GDB stub,266,14031
+M68K Machines - NeXTcube,M68K Machines - NeXTcube,1695,48587
+M68K Machines - an5206,M68K Machines - an5206,736,19822
+M68K Machines - mcf5208,M68K Machines - mcf5208,1729,46085
+M68K Machines - q800,M68K Machines - q800,6556,199644
+M68K Machines - q800,Subsystems - Block layer core,578,16403
+M68K Machines - virt,M68K Machines - virt,1390,37993
+MIPS Machines - Boston,MIPS Machines - Boston,1579,50902
+MIPS Machines - Boston,MIPS Machines - Overall MIPS Machines,847,30153
+MIPS Machines - Fuloong 2E,MIPS Machines - Fuloong 2E,1234,39774
+MIPS Machines - Fuloong 2E,MIPS Machines - Overall MIPS Machines,340,11006
+MIPS Machines - Jazz,MIPS Machines - Jazz,2258,66184
+MIPS Machines - Jazz,MIPS Machines - Overall MIPS Machines,458,15437
+MIPS Machines - Loongson-3 virtual platforms,MIPS Machines - Loongson-3 virtual platforms,1927,62082
+MIPS Machines - Loongson-3 virtual platforms,MIPS Machines - Overall MIPS Machines,1075,38295
+MIPS Machines - Malta,MIPS Machines - Malta,4646,151884
+MIPS Machines - Malta,MIPS Machines - Overall MIPS Machines,1317,42345
+MIPS Machines - Malta,X86 Machines - PC,1280,40011
+MIPS Machines - Mipssim,MIPS Machines - Mipssim,549,16419
+MIPS Machines - Mipssim,MIPS Machines - Overall MIPS Machines,251,8340
+MIPS Machines - Overall MIPS Machines,MIPS Machines - Overall MIPS Machines,5166,169662
+MicroBlaze Machines - petalogix_ml605,MicroBlaze Machines - petalogix_ml605,225,8841
+MicroBlaze Machines - petalogix_s3adsp1800,MicroBlaze Machines - petalogix_s3adsp1800,260,9786
+Miscellaneous - Code Coverage Tools,Miscellaneous - Code Coverage Tools,119,3541
+Miscellaneous - Performance Tools and Tests,Miscellaneous - Performance Tools and Tests,455,18367
+OpenRISC Machines - or1k-sim,OpenRISC Machines - or1k-sim,595,18887
+PowerPC Machines - 405 (ref405ep),PowerPC Machines - 405 (ref405ep),1960,58227
+PowerPC Machines - Bamboo,PowerPC Machines - Bamboo,715,21786
+PowerPC Machines - New World (mac99),PowerPC Machines - New World (mac99),7947,264336
+PowerPC Machines - New World (mac99),PowerPC Machines - Old World (g3beige),4711,155608
+PowerPC Machines - Old World (g3beige),PowerPC Machines - Old World (g3beige),5627,185967
+PowerPC Machines - PReP,PowerPC Machines - PReP,2528,78127
+PowerPC Machines - PowerNV (Non-Virtualized),PowerPC Machines - PowerNV (Non-Virtualized),42120,3367220
+PowerPC Machines - PowerNV (Non-Virtualized),PowerPC Machines - sPAPR (pseries),202,5304
+PowerPC Machines - PowerNV (Non-Virtualized),Subsystems - qtest,1652,52040
+PowerPC Machines - Virtual Open Firmware (VOF),PowerPC Machines - Virtual Open Firmware (VOF),1658,63418
+PowerPC Machines - Virtual Open Firmware (VOF),PowerPC Machines - sPAPR (pseries),164,4976
+PowerPC Machines - amigaone,PowerPC Machines - amigaone,531,16293
+PowerPC Machines - e500,PowerPC Machines - e500,7188,598802
+PowerPC Machines - mpc8544ds,PowerPC Machines - mpc8544ds,269,8408
+PowerPC Machines - pca955x,PowerPC Machines - pca955x,934,25093
+PowerPC Machines - pegasos2,PowerPC Machines - pegasos2,2953,126596
+PowerPC Machines - sPAPR (pseries),PowerPC Machines - sPAPR (pseries),52893,2129717
+PowerPC Machines - sPAPR (pseries),Subsystems - qtest,575,16010
+PowerPC Machines - sam460ex,PowerPC Machines - sam460ex,5510,178755
+PowerPC Machines - virtex_ml507,PowerPC Machines - virtex_ml507,332,10954
+RISC-V Machines - Microchip PolarFire SoC Icicle Kit,RISC-V Machines - Microchip PolarFire SoC Icicle Kit,2015,74074
+RISC-V Machines - OpenTitan,RISC-V Machines - OpenTitan,2213,74783
+RISC-V Machines - Shakti C class SoC,RISC-V Machines - Shakti C class SoC,605,19289
+RISC-V Machines - SiFive Machines,RISC-V Machines - SiFive Machines,6347,203432
+RX Machines - rx-gdbsim,RX Machines - rx-gdbsim,324,10969
+"Responsible Disclosure, Reporting Security Issues","Responsible Disclosure, Reporting Security Issues",0,0
+S390 Machines - S390 CPU models,S390 Machines - S390 CPU models,1945,81013
+S390 Machines - S390 CPU topology,S390 Machines - S390 CPU topology,1725,55275
+S390 Machines - S390 CPU topology,S390 Machines - S390 Virtio-ccw,973,32786
+S390 Machines - S390 PCI,S390 Machines - S390 PCI,4233,126357
+S390 Machines - S390 PCI,S390 Machines - S390 Virtio-ccw,4233,126357
+S390 Machines - S390 SCLP-backed devices,S390 Machines - S390 SCLP-backed devices,2352,68933
+S390 Machines - S390 SCLP-backed devices,S390 Machines - S390 Virtio-ccw,1690,50081
+S390 Machines - S390 Virtio-ccw,S390 Machines - S390 Virtio-ccw,18865,574544
+S390 Machines - S390 Virtio-ccw,S390 Machines - S390 channel subsystem,3720,109979
+S390 Machines - S390 Virtio-ccw,S390 Machines - S390-ccw boot,965,29865
+S390 Machines - S390 channel subsystem,S390 Machines - S390 channel subsystem,4538,132658
+S390 Machines - S390-ccw boot,S390 Machines - S390-ccw boot,8169,307931
+SH4 Machines - R2D,SH4 Machines - R2D,2058,59633
+SPARC Machines - Leon3,SPARC Machines - Leon3,2055,63894
+SPARC Machines - Sun4m,SPARC Machines - Sun4m,6075,555467
+SPARC Machines - Sun4u,SPARC Machines - Sun4u,3480,1659197
+SPARC Machines - Sun4v,SPARC Machines - Sun4v,299,9142
+Subsystems - AF_XDP network backend,Subsystems - AF_XDP network backend,524,14240
+Subsystems - AF_XDP network backend,Subsystems - Network device backends,524,14240
+Subsystems - ALSA Audio backend,Subsystems - ALSA Audio backend,973,25825
+Subsystems - AMD-Vi Emulation,Subsystems - AMD-Vi Emulation,2134,70895
+Subsystems - AMD-Vi Emulation,X86 Machines - PC,2134,70895
+Subsystems - Benchmark util,Subsystems - Benchmark util,1193,39335
+Subsystems - Block I/O path,Subsystems - Block I/O path,7648,232325
+Subsystems - Block I/O path,Subsystems - Block layer core,4631,145843
+Subsystems - Block Jobs,Subsystems - Block Jobs,9401,284697
+Subsystems - Block Jobs,Subsystems - Block layer core,6796,213220
+Subsystems - Block Jobs,Subsystems - QAPI Schema,276,7517
+Subsystems - Block SCSI subsystem,Subsystems - Block SCSI subsystem,2801,85487
+Subsystems - Block layer core,Subsystems - Block layer core,397367,15436072
+Subsystems - Block layer core,Subsystems - Detached LUKS header,316,9655
+Subsystems - Block layer core,Subsystems - Dirty Bitmaps,3146,95571
+Subsystems - Block layer core,Subsystems - QAPI Schema,7511,229310
+Subsystems - Block layer core,Subsystems - QObject,738,22537
+Subsystems - Block layer core,Subsystems - Record/replay,166,4663
+Subsystems - Block layer core,Subsystems - Throttling infrastructure,1072,33930
+Subsystems - Buffers,Subsystems - Buffers,333,8942
+Subsystems - COLO Framework,Subsystems - COLO Framework,1487,50028
+Subsystems - COLO Framework,Subsystems - Migration,1153,31233
+Subsystems - COLO Proxy,Subsystems - COLO Proxy,3327,103391
+Subsystems - COLO Proxy,Subsystems - Network device backends,2824,83439
+Subsystems - COLO Proxy,Subsystems - qtest,286,8737
+Subsystems - Character Devices (Braille),Subsystems - Character Devices (Braille),694,23260
+Subsystems - Character Devices (Braille),Subsystems - Character device backends,694,23260
+Subsystems - Character device backends,Subsystems - Character device backends,11067,319997
+Subsystems - Character device backends,Subsystems - QAPI Schema,877,20529
+Subsystems - Checkpatch,Subsystems - Checkpatch,3188,89850
+Subsystems - Clock framework,Subsystems - Clock framework,1575,51409
+Subsystems - Clock framework,Subsystems - QOM,376,11106
+Subsystems - Cocoa graphics,Subsystems - Cocoa graphics,2200,71511
+Subsystems - Cocoa graphics,Subsystems - Graphics,2200,71511
+Subsystems - Command line option argument parsing,Subsystems - Command line option argument parsing,3829,121520
+Subsystems - Compute Express Link,Subsystems - Compute Express Link,9398,313830
+Subsystems - Compute Express Link,Subsystems - QAPI Schema,555,17775
+Subsystems - Core Audio framework backend,Subsystems - Core Audio framework backend,0,0
+Subsystems - Coroutines,Subsystems - Coroutines,3190,93230
+Subsystems - Coverity Scan integration,Subsystems - Coverity Scan integration,1066,30610
+Subsystems - Coverity model,Subsystems - Coverity model,0,0
+Subsystems - Cryptodev Backends,Subsystems - Cryptodev Backends,3516,104187
+Subsystems - Cryptodev Backends,Subsystems - QAPI Schema,103,2055
+Subsystems - Cryptography,Subsystems - Cryptography,30699,1013369
+Subsystems - Cryptography,Subsystems - QAPI Schema,614,15247
+Subsystems - D-Bus,Subsystems - D-Bus,8093,245519
+Subsystems - D-Bus,Subsystems - Graphics,4444,131824
+Subsystems - D-Bus,Subsystems - Overall Audio backends,691,21458
+Subsystems - D-Bus,Subsystems - Python scripts,429,14235
+Subsystems - D-Bus,Subsystems - qtest,749,20977
+Subsystems - DSound Audio backend,Subsystems - DSound Audio backend,1014,26523
+Subsystems - Detached LUKS header,Subsystems - Detached LUKS header,498,16691
+Subsystems - Device Fuzzing,Subsystems - Device Fuzzing,4430,137515
+Subsystems - Device Fuzzing,Subsystems - qtest,3516,106442
+Subsystems - Device Tree,Subsystems - Device Tree,904,27255
+Subsystems - Dirty Bitmaps,Subsystems - Dirty Bitmaps,8473,257799
+Subsystems - Dirty Bitmaps,Subsystems - Migration,1271,38703
+Subsystems - Dump,Subsystems - Dump,4163,130139
+Subsystems - Dump,Subsystems - Python scripts,598,20723
+Subsystems - Dump,Subsystems - QAPI Schema,212,5928
+Subsystems - Dump,Subsystems - Stubs,27,530
+Subsystems - EDK2 Firmware,Subsystems - EDK2 Firmware,59935,15041668
+Subsystems - EDK2 Firmware,X86 Machines - PC,187,5575
+Subsystems - Error reporting,Subsystems - Error reporting,1845,50145
+Subsystems - Error reporting,Subsystems - QAPI,540,18229
+Subsystems - Error reporting,Subsystems - QAPI Schema,30,766
+Subsystems - Error reporting,Subsystems - QMP,30,766
+Subsystems - FSI,Subsystems - FSI,1466,44348
+Subsystems - FSI,Subsystems - qtest,205,6772
+Subsystems - File monitor,Subsystems - File monitor,1262,38786
+Subsystems - Firmware schema specifications,Subsystems - Firmware schema specifications,679,24644
+Subsystems - GDB stub,Subsystems - GDB stub,8896,291110
+Subsystems - GDB stub,Subsystems - Python scripts,191,5632
+Subsystems - Graphics,Subsystems - Graphics,48192,1525474
+Subsystems - Graphics,Subsystems - QAPI Schema,1717,42967
+Subsystems - Graphics,Subsystems - SPICE,4758,135276
+Subsystems - Host Memory Backends,Subsystems - Host Memory Backends,1578,48036
+Subsystems - Human Monitor (HMP),Subsystems - Human Monitor (HMP),6646,183099
+Subsystems - Human Monitor (HMP),Subsystems - QMP,990,28969
+Subsystems - Human Monitor (HMP),Subsystems - qtest,166,4135
+Subsystems - I/O Channels,Subsystems - I/O Channels,10583,325540
+Subsystems - I2C and SMBus,Subsystems - I2C and SMBus,1548,44185
+Subsystems - IOVA Tree,Subsystems - IOVA Tree,401,10910
+Subsystems - JACK Audio Connection Kit backend,Subsystems - JACK Audio Connection Kit backend,705,17613
+Subsystems - Main loop,Subsystems - Main loop,8698,252451
+Subsystems - Main loop,Subsystems - QAPI Schema,705,17404
+Subsystems - Memory API,Subsystems - Memory API,13285,434541
+Subsystems - Memory devices,Subsystems - Memory devices,1839,62096
+Subsystems - Migration,Subsystems - Migration,48696,1549731
+Subsystems - Migration,Subsystems - Migration dirty limit and dirty page rate,1093,33684
+Subsystems - Migration,Subsystems - Python scripts,438,16269
+Subsystems - Migration,Subsystems - QAPI Schema,2494,83073
+Subsystems - Migration,Subsystems - Yank feature,78,2175
+Subsystems - Migration dirty limit and dirty page rate,Subsystems - Migration dirty limit and dirty page rate,1839,52830
+Subsystems - Netmap network backend,Subsystems - Netmap network backend,426,12471
+Subsystems - Netmap network backend,Subsystems - Network device backends,426,12471
+Subsystems - Network device backends,Subsystems - Network device backends,22460,655855
+Subsystems - Network device backends,Subsystems - QAPI Schema,1033,27344
+Subsystems - Network device backends,Subsystems - Record/replay,89,2530
+Subsystems - Network device backends,Subsystems - SLIRP,1270,36389
+Subsystems - Open Sound System (OSS) Audio backend,Subsystems - Open Sound System (OSS) Audio backend,796,20955
+Subsystems - OpenSBI Firmware,Subsystems - OpenSBI Firmware,1487,545286
+Subsystems - Overall Audio backends,Subsystems - Overall Audio backends,7899,221199
+Subsystems - Overall Audio backends,Subsystems - QAPI Schema,523,13232
+Subsystems - Overall sensors,Subsystems - Overall sensors,4565,143361
+Subsystems - Overall sensors,Subsystems - PMBus,1693,57182
+Subsystems - PMBus,Subsystems - PMBus,5465,194618
+Subsystems - PMBus,Subsystems - qtest,1279,49004
+Subsystems - PulseAudio backend,Subsystems - PulseAudio backend,944,24986
+Subsystems - Python library,Subsystems - Python library,13177,1269933
+Subsystems - Python scripts,Subsystems - Python scripts,8610,284889
+Subsystems - Python scripts,Subsystems - QAPI,19,463
+Subsystems - Python scripts,Subsystems - QOM,49,1309
+Subsystems - Python scripts,Subsystems - Simpletrace,359,13525
+Subsystems - Python scripts,Subsystems - Tracing,140,3970
+Subsystems - Python scripts,Tiny Code Generator (TCG) - TCG Plugins,45,1346
+Subsystems - QAPI,Subsystems - QAPI,23667,735723
+Subsystems - QAPI Schema,Subsystems - QAPI Schema,27766,778681
+Subsystems - QAPI Schema,Subsystems - QEMU Guest Agent,1917,49498
+Subsystems - QAPI Schema,Subsystems - QMP,573,14421
+Subsystems - QAPI Schema,Subsystems - QOM,1444,44093
+Subsystems - QAPI Schema,Subsystems - Record/replay,120,2931
+Subsystems - QAPI Schema,Subsystems - SPICE,1717,42967
+Subsystems - QAPI Schema,Subsystems - Sockets,231,5021
+Subsystems - QAPI Schema,Subsystems - Stats,277,6769
+Subsystems - QAPI Schema,Subsystems - TPM,190,3781
+Subsystems - QAPI Schema,Subsystems - Tracing,84,1823
+Subsystems - QAPI Schema,Subsystems - User authorization,117,2547
+Subsystems - QAPI Schema,Subsystems - Yank feature,119,2611
+Subsystems - QAPI Schema,X86 Machines - Machine core,2535,66376
+Subsystems - QEMU Guest Agent,Subsystems - QEMU Guest Agent,17004,499175
+Subsystems - QEMU Guest Agent,Subsystems - QEMU Guest Agent Win32,5533,168213
+Subsystems - QEMU Guest Agent Win32,Subsystems - QEMU Guest Agent Win32,5533,168213
+Subsystems - QMP,Subsystems - QMP,3815,113234
+Subsystems - QMP,Subsystems - Storage daemon,7,162
+Subsystems - QMP,Subsystems - qtest,714,21836
+Subsystems - QOM,Subsystems - QOM,16796,507430
+Subsystems - QOM,Subsystems - Stubs,22,502
+Subsystems - QOM boilerplate conversion script,Subsystems - QOM boilerplate conversion script,2993,114287
+Subsystems - QObject,Subsystems - QObject,12081,280674
+Subsystems - RDMA Migration,Subsystems - RDMA Migration,4253,131791
+"Subsystems - Read, Copy, Update (RCU)","Subsystems - Read, Copy, Update (RCU)",3049,98983
+Subsystems - Record/replay,Subsystems - Record/replay,4705,150023
+Subsystems - Record/replay,Subsystems - Stubs,25,322
+Subsystems - Register API,Subsystems - Register API,798,29289
+Subsystems - Reset framework,Subsystems - Reset framework,945,31235
+Subsystems - Rust,Subsystems - Rust,1354,42601
+Subsystems - Rust,Subsystems - Rust-related patches CC here,1354,42601
+Subsystems - Rust-related patches CC here,Subsystems - Rust-related patches CC here,3095,102798
+Subsystems - SDL Audio backend,Subsystems - SDL Audio backend,507,14107
+Subsystems - SLIRP,Subsystems - SLIRP,1270,36389
+Subsystems - SPDM,Subsystems - SPDM,290,8432
+Subsystems - SPICE,Subsystems - SPICE,8501,258227
+Subsystems - Seccomp,Subsystems - Seccomp,780,23870
+Subsystems - Simpletrace,Subsystems - Simpletrace,359,13525
+Subsystems - Sndio Audio backend,Subsystems - Sndio Audio backend,564,13106
+Subsystems - Sockets,Subsystems - Sockets,1810,48757
+Subsystems - Stats,Subsystems - Stats,739,20847
+Subsystems - Storage daemon,Subsystems - Storage daemon,772,28024
+Subsystems - Streams,Subsystems - Streams,87,2665
+Subsystems - Stubs,Subsystems - Stubs,916,18906
+Subsystems - TPM,Subsystems - TPM,9691,302652
+Subsystems - TPM,Subsystems - qtest,2530,86712
+Subsystems - Throttling infrastructure,Subsystems - Throttling infrastructure,3202,105315
+Subsystems - Tracing,Subsystems - Tracing,4304,128997
+Subsystems - Transactions helper,Subsystems - Transactions helper,166,4562
+Subsystems - UUID,Subsystems - UUID,445,13599
+Subsystems - User authorization,Subsystems - User authorization,2060,57559
+Subsystems - VT-d Emulation,Subsystems - VT-d Emulation,5328,180496
+Subsystems - VT-d Emulation,X86 Machines - PC,5328,180496
+Subsystems - Yank feature,Subsystems - Yank feature,732,20344
+Subsystems - elf2dmp,Subsystems - elf2dmp,2224,57650
+Subsystems - qtest,Subsystems - qtest,72843,2237416
+Subsystems - qtest,X86 Machines - PC,429,15561
+Tiny Code Generator (TCG) - AArch64 TCG target,Tiny Code Generator (TCG) - AArch64 TCG target,3597,114352
+Tiny Code Generator (TCG) - AArch64 TCG target,Tiny Code Generator (TCG) - Common TCG code,3597,114352
+Tiny Code Generator (TCG) - ARM TCG target,Tiny Code Generator (TCG) - ARM TCG target,3314,105244
+Tiny Code Generator (TCG) - ARM TCG target,Tiny Code Generator (TCG) - Common TCG code,3314,105244
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - Common TCG code,63677,2015138
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - LoongArch64 TCG target,7929,249979
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - MIPS TCG target,2943,92907
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - PPC TCG target,4784,148101
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - RISC-V TCG target,3258,101136
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - SPARC TCG target,1914,59241
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - TCI TCG target,2642,81958
+Tiny Code Generator (TCG) - Common TCG code,Tiny Code Generator (TCG) - i386 TCG target,4943,160609
+Tiny Code Generator (TCG) - LoongArch64 TCG target,Tiny Code Generator (TCG) - LoongArch64 TCG target,7929,249979
+Tiny Code Generator (TCG) - MIPS TCG target,Tiny Code Generator (TCG) - MIPS TCG target,2943,92907
+Tiny Code Generator (TCG) - PPC TCG target,Tiny Code Generator (TCG) - PPC TCG target,4784,148101
+Tiny Code Generator (TCG) - RISC-V TCG target,Tiny Code Generator (TCG) - RISC-V TCG target,9095,325887
+Tiny Code Generator (TCG) - S390 TCG target,Tiny Code Generator (TCG) - S390 TCG target,0,0
+Tiny Code Generator (TCG) - SPARC TCG target,Tiny Code Generator (TCG) - SPARC TCG target,5150,233059
+Tiny Code Generator (TCG) - TCG Plugins,Tiny Code Generator (TCG) - TCG Plugins,7766,239428
+Tiny Code Generator (TCG) - TCI TCG target,Tiny Code Generator (TCG) - TCI TCG target,2642,81958
+Tiny Code Generator (TCG) - i386 TCG target,Tiny Code Generator (TCG) - i386 TCG target,4943,160609
+Trivial patches - Trivial patches,Trivial patches - Trivial patches,52,1593
+Usermode Emulation - BSD user,Usermode Emulation - BSD user,19786,653024
+Usermode Emulation - Linux user,Usermode Emulation - Linux user,75925,2518695
+Usermode Emulation - Overall usermode emulation,Usermode Emulation - Overall usermode emulation,3040,96947
+X86 Machines - Machine core,X86 Machines - Machine core,10486,339679
+X86 Machines - PC,X86 Machines - PC,39938,1278496
+X86 Machines - PC,X86 Machines - microvm,852,28464
+X86 Machines - PC,X86 Machines - nitro-enclave,416,13235
+X86 Machines - PC Chipset,X86 Machines - PC Chipset,12498,370752
+X86 Machines - microvm,X86 Machines - microvm,1551,164116
+X86 Machines - nitro-enclave,X86 Machines - nitro-enclave,1273,40771
+"Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)","Xtensa Machines - XTFPGA (LX60, LX200, ML605, KC705)",1577,47757
+Xtensa Machines - sim,Xtensa Machines - sim,129,4634
+Xtensa Machines - virt,Xtensa Machines - virt,127,4908

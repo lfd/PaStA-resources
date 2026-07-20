@@ -1,0 +1,1449 @@
+filename,lines,sections
+.gitignore,62,
+.gitmodules,6,
+CODING_STYLE,81,
+COPYING,339,
+COPYING.LIB,504,
+Changelog,574,
+HACKING,125,
+LICENSE,18,
+MAINTAINERS,489,
+Makefile,369,
+Makefile.dis,23,
+Makefile.hw,24,
+Makefile.objs,318,
+Makefile.target,380,
+Makefile.user,23,
+QMP/README,88,
+QMP/qmp-events.txt,266,
+QMP/qmp-shell,259,
+QMP/qmp-spec.txt,272,
+QMP/qmp.py,131,
+README,3,
+TODO,37,
+VERSION,1,
+a.out.h,430,
+acl.c,185,
+acl.h,74,
+aes.c,1314,
+aes.h,26,
+aio.c,230,
+alpha-dis.c,1920,
+alpha.ld,127,
+arch_init.c,726,
+arch_init.h,34,
+arm-dis.c,4136,
+arm-semi.c,488,
+arm.ld,153,
+async.c,216,
+audio/alsaaudio.c,1260,"""Subsystems - Audio"""
+audio/audio.c,2066,"""Subsystems - Audio"""
+audio/audio.h,166,"""Subsystems - Audio"""
+audio/audio_int.h,282,"""Subsystems - Audio"""
+audio/audio_pt_int.c,175,"""Subsystems - Audio"""
+audio/audio_pt_int.h,22,"""Subsystems - Audio"""
+audio/audio_template.h,560,"""Subsystems - Audio"""
+audio/audio_win_int.c,108,"""Subsystems - Audio"""
+audio/audio_win_int.h,10,"""Subsystems - Audio"""
+audio/coreaudio.c,549,"""Subsystems - Audio"""
+audio/dsound_template.h,293,"""Subsystems - Audio"""
+audio/dsoundaudio.c,1030,"""Subsystems - Audio"""
+audio/esdaudio.c,557,"""Subsystems - Audio"""
+audio/fmodaudio.c,687,"""Subsystems - Audio"""
+audio/mixeng.c,360,"""Subsystems - Audio"""
+audio/mixeng.h,51,"""Subsystems - Audio"""
+audio/mixeng_template.h,152,"""Subsystems - Audio"""
+audio/noaudio.c,173,"""Subsystems - Audio"""
+audio/ossaudio.c,944,"""Subsystems - Audio"""
+audio/paaudio.c,525,"""Subsystems - Audio"""
+audio/rate_template.h,111,"""Subsystems - Audio"""
+audio/sdlaudio.c,459,"""Subsystems - Audio"""
+audio/spiceaudio.c,345,"""Subsystems - Audio"",""Subsystems - SPICE"""
+audio/wavaudio.c,262,"""Subsystems - Audio"""
+audio/wavcapture.c,161,"""Subsystems - Audio"""
+audio/winwaveaudio.c,723,"""Subsystems - Audio"""
+balloon.c,148,
+balloon.h,33,
+block-migration.c,727,"""Subsystems - Block"""
+block-migration.h,23,"""Subsystems - Block"""
+block.c,2917,"""Subsystems - Block"""
+block.h,296,"""Subsystems - Block"""
+block/blkdebug.c,471,"""Subsystems - Block"""
+block/blkverify.c,383,"""Subsystems - Block"""
+block/bochs.c,230,"""Subsystems - Block"""
+block/cloop.c,171,"""Subsystems - Block"""
+block/cow.c,324,"""Subsystems - Block"""
+block/curl.c,564,"""Subsystems - Block"""
+block/dmg.c,312,"""Subsystems - Block"""
+block/nbd.c,221,"""Subsystems - Block"""
+block/parallels.c,157,"""Subsystems - Block"""
+block/qcow.c,975,"""Subsystems - Block"""
+block/qcow2-cache.c,314,"""Subsystems - Block"""
+block/qcow2-cluster.c,972,"""Subsystems - Block"""
+block/qcow2-refcount.c,1166,"""Subsystems - Block"""
+block/qcow2-snapshot.c,451,"""Subsystems - Block"""
+block/qcow2.c,1384,"""Subsystems - Block"""
+block/qcow2.h,242,"""Subsystems - Block"""
+block/qed-check.c,210,"""Subsystems - Block"""
+block/qed-cluster.c,154,"""Subsystems - Block"""
+block/qed-gencb.c,32,"""Subsystems - Block"""
+block/qed-l2-cache.c,173,"""Subsystems - Block"""
+block/qed-table.c,319,"""Subsystems - Block"""
+block/qed.c,1365,"""Subsystems - Block"""
+block/qed.h,301,"""Subsystems - Block"""
+block/raw-posix-aio.h,43,"""Subsystems - Block"""
+block/raw-posix.c,1444,"""Subsystems - Block"""
+block/raw-win32.c,430,"""Subsystems - Block"""
+block/raw.c,156,"""Subsystems - Block"""
+block/rbd.c,1059,"""Subsystems - Block"""
+block/rbd_types.h,71,"""Subsystems - Block"""
+block/sheepdog.c,2037,"""Subsystems - Block"""
+block/vdi.c,961,"""Subsystems - Block"""
+block/vmdk.c,870,"""Subsystems - Block"""
+block/vpc.c,654,"""Subsystems - Block"""
+block/vvfat.c,2888,"""Subsystems - Block"""
+block_int.h,264,"""Subsystems - Block"""
+blockdev.c,770,"""Subsystems - Block"""
+blockdev.h,66,"""Subsystems - Block"""
+bsd-user/bsd-mman.h,121,"""Usermode Emulation - BSD user"""
+bsd-user/bsdload.c,202,"""Usermode Emulation - BSD user"""
+bsd-user/elfload.c,1577,"""Usermode Emulation - BSD user"""
+bsd-user/errno_defs.h,149,"""Usermode Emulation - BSD user"""
+bsd-user/freebsd/strace.list,171,"""Usermode Emulation - BSD user"""
+bsd-user/freebsd/syscall_nr.h,373,"""Usermode Emulation - BSD user"""
+bsd-user/i386/syscall.h,161,"""Usermode Emulation - BSD user"""
+bsd-user/i386/target_signal.h,20,"""Usermode Emulation - BSD user"""
+bsd-user/main.c,1131,"""Usermode Emulation - BSD user"""
+bsd-user/mmap.c,559,"""Usermode Emulation - BSD user"""
+bsd-user/netbsd/strace.list,145,"""Usermode Emulation - BSD user"""
+bsd-user/netbsd/syscall_nr.h,373,"""Usermode Emulation - BSD user"""
+bsd-user/openbsd/strace.list,187,"""Usermode Emulation - BSD user"""
+bsd-user/openbsd/syscall_nr.h,225,"""Usermode Emulation - BSD user"""
+bsd-user/qemu-types.h,24,"""Usermode Emulation - BSD user"""
+bsd-user/qemu.h,394,"""Usermode Emulation - BSD user"""
+bsd-user/signal.c,38,"""Usermode Emulation - BSD user"""
+bsd-user/sparc/syscall.h,9,"""Usermode Emulation - BSD user"""
+bsd-user/sparc/target_signal.h,27,"""Usermode Emulation - BSD user"""
+bsd-user/sparc64/syscall.h,10,"""Usermode Emulation - BSD user"""
+bsd-user/sparc64/target_signal.h,27,"""Usermode Emulation - BSD user"""
+bsd-user/strace.c,191,"""Usermode Emulation - BSD user"""
+bsd-user/syscall.c,560,"""Usermode Emulation - BSD user"""
+bsd-user/syscall_defs.h,114,"""Usermode Emulation - BSD user"""
+bsd-user/uaccess.c,65,"""Usermode Emulation - BSD user"""
+bsd-user/x86_64/syscall.h,116,"""Usermode Emulation - BSD user"""
+bsd-user/x86_64/target_signal.h,19,"""Usermode Emulation - BSD user"""
+bswap.h,240,
+bt-host.c,199,
+bt-host.h,9,
+bt-vhci.c,168,
+buffered_file.c,282,
+buffered_file.h,30,
+cache-utils.c,97,
+cache-utils.h,41,
+check-qdict.c,401,
+check-qfloat.c,76,
+check-qint.c,113,
+check-qjson.c,794,
+check-qlist.c,153,
+check-qstring.c,134,
+cmd.c,610,
+cmd.h,79,
+compatfd.c,117,
+compatfd.h,43,
+config.h,2,
+configure,3294,
+console.c,1707,
+console.h,381,
+cpu-all.h,972,
+cpu-common.h,143,
+cpu-defs.h,215,
+cpu-exec.c,1271,
+cpus.c,989,
+cpus.h,21,
+cris-dis.c,2893,
+cursor.c,210,
+cursor_hidden.xpm,37,
+cursor_left_ptr.xpm,39,
+cutils.c,380,
+darwin-user/commpage.c,357,"""Usermode Emulation - Darwin user"""
+darwin-user/ioctls.h,4,"""Usermode Emulation - Darwin user"""
+darwin-user/ioctls_types.h,1,"""Usermode Emulation - Darwin user"""
+darwin-user/machload.c,902,"""Usermode Emulation - Darwin user"""
+darwin-user/main.c,1015,"""Usermode Emulation - Darwin user"""
+darwin-user/mmap.c,409,"""Usermode Emulation - Darwin user"""
+darwin-user/qemu.h,178,"""Usermode Emulation - Darwin user"""
+darwin-user/signal.c,457,"""Usermode Emulation - Darwin user"""
+darwin-user/syscall.c,1566,"""Usermode Emulation - Darwin user"""
+darwin-user/syscalls.h,384,"""Usermode Emulation - Darwin user"""
+def-helper.h,240,
+default-configs/alpha-linux-user.mak,1,
+default-configs/arm-linux-user.mak,3,
+default-configs/arm-softmmu.mak,28,
+default-configs/armeb-linux-user.mak,3,
+default-configs/cris-linux-user.mak,1,
+default-configs/cris-softmmu.mak,5,
+default-configs/i386-bsd-user.mak,1,
+default-configs/i386-darwin-user.mak,1,
+default-configs/i386-linux-user.mak,1,
+default-configs/i386-softmmu.mak,20,
+default-configs/m68k-linux-user.mak,3,
+default-configs/m68k-softmmu.mak,5,
+default-configs/microblaze-linux-user.mak,1,
+default-configs/microblaze-softmmu.mak,4,
+default-configs/mips-linux-user.mak,1,
+default-configs/mips-softmmu.mak,28,
+default-configs/mips64-softmmu.mak,28,
+default-configs/mips64el-softmmu.mak,30,
+default-configs/mipsel-linux-user.mak,1,
+default-configs/mipsel-softmmu.mak,28,
+default-configs/pci.mak,16,
+default-configs/ppc-darwin-user.mak,3,
+default-configs/ppc-linux-user.mak,3,
+default-configs/ppc-softmmu.mak,33,
+default-configs/ppc64-linux-user.mak,3,
+default-configs/ppc64-softmmu.mak,33,
+default-configs/ppc64abi32-linux-user.mak,3,
+default-configs/ppcemb-softmmu.mak,33,
+default-configs/s390x-softmmu.mak,1,
+default-configs/sh4-linux-user.mak,1,
+default-configs/sh4-softmmu.mak,7,
+default-configs/sh4eb-linux-user.mak,1,
+default-configs/sh4eb-softmmu.mak,7,
+default-configs/sparc-bsd-user.mak,1,
+default-configs/sparc-linux-user.mak,1,
+default-configs/sparc-softmmu.mak,10,
+default-configs/sparc32plus-linux-user.mak,1,
+default-configs/sparc64-bsd-user.mak,1,
+default-configs/sparc64-linux-user.mak,1,
+default-configs/sparc64-softmmu.mak,13,
+default-configs/x86_64-bsd-user.mak,1,
+default-configs/x86_64-linux-user.mak,1,
+default-configs/x86_64-softmmu.mak,20,
+device_tree.c,110,
+device_tree.h,26,
+dis-asm.h,476,
+disas.c,432,
+disas.h,42,
+dma-helpers.c,184,
+dma.h,41,
+docs/blkverify.txt,69,
+docs/bootindex.txt,43,
+docs/migration.txt,303,
+docs/qdev-device-use.txt,368,
+docs/specs/acpi_pci_hotplug.txt,37,
+docs/specs/ivshmem_device_spec.txt,96,
+docs/specs/qed_spec.txt,130,
+docs/tracing.txt,189,
+dyngen-exec.h,84,
+elf.h,1240,
+envlist.c,246,
+envlist.h,22,
+exec-all.h,349,
+exec.c,4316,
+fpu/softfloat-macros.h,719,
+fpu/softfloat-native.c,514,
+fpu/softfloat-native.h,492,
+fpu/softfloat-specialize.h,755,
+fpu/softfloat.c,6119,
+fpu/softfloat.h,583,
+fsdev/qemu-fsdev.c,100,
+fsdev/qemu-fsdev.h,55,
+gdb-xml/arm-core.xml,31,"""Subsystems - GDB stub"""
+gdb-xml/arm-neon.xml,88,"""Subsystems - GDB stub"""
+gdb-xml/arm-vfp.xml,29,"""Subsystems - GDB stub"""
+gdb-xml/arm-vfp3.xml,45,"""Subsystems - GDB stub"""
+gdb-xml/cf-core.xml,29,"""Subsystems - GDB stub"""
+gdb-xml/cf-fp.xml,22,"""Subsystems - GDB stub"""
+gdb-xml/power-altivec.xml,57,"""Subsystems - GDB stub"""
+gdb-xml/power-core.xml,49,"""Subsystems - GDB stub"""
+gdb-xml/power-fpu.xml,44,"""Subsystems - GDB stub"""
+gdb-xml/power-spe.xml,45,"""Subsystems - GDB stub"""
+gdb-xml/power64-core.xml,49,"""Subsystems - GDB stub"""
+gdbstub.c,2694,"""Subsystems - GDB stub"""
+gdbstub.h,44,"""Subsystems - GDB stub"""
+gen-icount.h,48,
+hmp-commands.hx,1369,
+host-utils.c,105,
+host-utils.h,236,
+hpet.h,22,
+hppa-dis.c,2831,
+hppa.ld,213,
+hw/9p.h,24,
+hw/a9mpcore.c,29,
+hw/ac97.c,1351,
+hw/acpi.c,199,
+hw/acpi.h,78,
+hw/acpi_piix4.c,672,
+hw/adb.c,480,
+hw/adlib.c,338,
+hw/ads7846.c,170,
+hw/alpha_palcode.c,1048,
+hw/an5206.c,101,"""M68K Machines - an5206"""
+hw/apb_pci.c,482,
+hw/apb_pci.h,9,
+hw/apic.c,1012,
+hw/apic.h,27,
+hw/apm.c,86,
+hw/apm.h,22,
+hw/applesmc.c,241,
+hw/arm-misc.h,46,
+hw/arm11mpcore.c,112,
+hw/arm_boot.c,283,
+hw/arm_gic.c,749,
+hw/arm_pic.c,49,
+hw/arm_sysctl.c,264,
+hw/arm_timer.c,357,
+hw/armv7m.c,263,
+hw/armv7m_nvic.c,409,
+hw/audiodev.h,20,
+hw/axis_dev88.c,357,"""CRIS Machines - Axis Dev88"""
+hw/baum.c,642,
+hw/baum.h,26,
+hw/bitbang_i2c.c,228,
+hw/bitbang_i2c.h,14,
+hw/blizzard.c,998,
+hw/blizzard_template.h,136,
+hw/boards.h,38,
+hw/bonito.c,813,
+hw/bt-hci-csr.c,454,
+hw/bt-hci.c,2221,
+hw/bt-hid.c,571,
+hw/bt-l2cap.c,1362,
+hw/bt-sdp.c,967,
+hw/bt.c,121,
+hw/bt.h,2183,
+hw/cbus.c,618,
+hw/cdrom.c,155,
+hw/cirrus_vga.c,3153,
+hw/cirrus_vga_rop.h,208,
+hw/cirrus_vga_rop2.h,281,
+hw/cris-boot.c,97,
+hw/cris-boot.h,11,
+hw/cris_pic_cpu.c,50,
+hw/cs4231.c,175,
+hw/cs4231a.c,686,
+hw/cuda.c,769,
+hw/debugcon.c,107,
+hw/dec_pci.c,133,
+hw/dec_pci.h,8,
+hw/device-hotplug.c,46,
+hw/devices.h,70,
+hw/dma.c,555,
+hw/dp8393x.c,914,
+hw/ds1225y.c,182,
+hw/ds1338.c,132,
+hw/dummy_m68k.c,80,"""M68K Machines - dummy_m68k"""
+hw/e1000.c,1183,
+hw/e1000_hw.h,864,
+hw/ecc.c,88,
+hw/eccmemctl.c,332,
+hw/eepro100.c,2066,
+hw/eeprom93xx.c,337,
+hw/eeprom93xx.h,40,
+hw/elf_ops.h,297,
+hw/empty_slot.c,93,
+hw/empty_slot.h,2,
+hw/es1370.c,1053,
+hw/escc.c,961,
+hw/escc.h,8,
+hw/esp.c,751,
+hw/esp.h,13,
+hw/etraxfs.c,160,"""CRIS Machines - etraxfs"""
+hw/etraxfs.h,28,
+hw/etraxfs_dma.c,756,
+hw/etraxfs_dma.h,22,
+hw/etraxfs_eth.c,613,
+hw/etraxfs_pic.c,169,
+hw/etraxfs_ser.c,220,
+hw/etraxfs_timer.c,336,
+hw/event_notifier.c,62,
+hw/event_notifier.h,16,
+hw/fdc.c,2110,
+hw/fdc.h,16,
+hw/file-op-9p.h,107,
+hw/firmware_abi.h,73,
+hw/flash.h,54,
+hw/fmopl.c,1391,
+hw/fmopl.h,174,
+hw/framebuffer.c,116,
+hw/framebuffer.h,22,
+hw/fw_cfg.c,407,
+hw/fw_cfg.h,70,
+hw/g364fb.c,615,
+hw/grackle_pci.c,147,
+hw/grlib.h,126,
+hw/grlib_apbuart.c,187,
+hw/grlib_gptimer.c,395,
+hw/grlib_irqmp.c,376,
+hw/gt64xxx.c,1174,
+hw/gumstix.c,141,"""ARM Machines - Gumstix"""
+hw/gus.c,322,
+hw/gusemu.h,105,
+hw/gusemu_hal.c,554,
+hw/gusemu_mixer.c,240,
+hw/gustate.h,132,
+hw/hda-audio.c,926,
+hw/heathrow_pic.c,230,
+hw/hpet.c,748,
+hw/hpet_emul.h,71,
+hw/hw.h,824,
+hw/i2c.c,196,
+hw/i2c.h,82,
+hw/i8254.c,517,
+hw/i8259.c,539,
+hw/ide.h,31,
+hw/ide/ahci.c,1523,"""Devices - IDE"""
+hw/ide/cmd646.c,298,"""Devices - IDE"""
+hw/ide/core.c,2813,"""Devices - IDE"""
+hw/ide/internal.h,571,"""Devices - IDE"""
+hw/ide/isa.c,120,"""Devices - IDE"""
+hw/ide/macio.c,329,"""Devices - IDE"""
+hw/ide/microdrive.c,551,"""Devices - IDE"""
+hw/ide/mmio.c,141,"""Devices - IDE"""
+hw/ide/pci.c,467,"""Devices - IDE"""
+hw/ide/pci.h,48,"""Devices - IDE"""
+hw/ide/piix.c,214,"""Devices - IDE"""
+hw/ide/qdev.c,172,"""Devices - IDE"""
+hw/ide/via.c,200,"""Devices - IDE"""
+hw/integratorcp.c,545,"""ARM Machines - Integrator CP"""
+hw/intel-hda-defs.h,717,
+hw/intel-hda.c,1308,
+hw/intel-hda.h,62,
+hw/ioapic.c,268,
+hw/ioh3420.c,246,
+hw/ioh3420.h,10,
+hw/irq.c,77,
+hw/irq.h,35,
+hw/isa-bus.c,204,
+hw/isa.h,52,
+hw/isa_mmio.c,82,
+hw/ivshmem.c,829,
+hw/jazz_led.c,328,
+hw/lan9118.c,1184,
+hw/lance.c,160,
+hw/leon3.c,217,
+hw/lm832x.c,512,
+hw/loader.c,795,
+hw/loader.h,48,
+hw/lsi53c895a.c,2212,"""Devices - SCSI"""
+hw/m48t59.c,762,
+hw/mac_dbdma.c,852,
+hw/mac_dbdma.h,43,
+hw/mac_nvram.c,195,
+hw/macio.c,118,
+hw/mainstone.c,158,"""ARM Machines - Mainstone"""
+hw/mainstone.h,38,
+hw/marvell_88w8618_audio.c,299,
+hw/max111x.c,188,
+hw/max7310.c,220,
+hw/mc146818rtc.c,657,
+hw/mc146818rtc.h,12,
+hw/mcf.h,21,
+hw/mcf5206.c,541,
+hw/mcf5208.c,306,"""M68K Machines - mcf5208"""
+hw/mcf_fec.c,481,
+hw/mcf_intc.c,157,
+hw/mcf_uart.c,310,
+hw/microblaze_pic_cpu.c,50,
+hw/mips-bios.h,8,
+hw/mips.h,40,
+hw/mips_addr.c,34,
+hw/mips_cpudevs.h,15,
+hw/mips_fulong2e.c,408,
+hw/mips_int.c,65,
+hw/mips_jazz.c,314,"""MIPS Machines - Jazz"""
+hw/mips_malta.c,978,"""MIPS Machines - Malta"""
+hw/mips_mipssim.c,212,"""MIPS Machines - Mipssim"""
+hw/mips_r4k.c,318,"""MIPS Machines - R4000"""
+hw/mips_timer.c,147,
+hw/mipsnet.c,288,
+hw/mpcore.c,286,
+hw/msi.c,344,
+hw/msi.h,41,
+hw/msix.c,420,
+hw/msix.h,36,
+hw/msmouse.c,78,
+hw/msmouse.h,2,
+hw/mst_fpga.c,240,
+hw/multiboot.c,339,
+hw/multiboot.h,12,
+hw/musicpal.c,1665,"""ARM Machines - Musicpal"""
+hw/nand.c,661,
+hw/ne2000-isa.c,125,
+hw/ne2000.c,781,
+hw/ne2000.h,39,
+hw/nseries.c,1417,"""ARM Machines - nSeries"""
+hw/nvram.h,42,
+hw/omap.h,1141,
+hw/omap1.c,3894,
+hw/omap2.c,2616,
+hw/omap_clk.c,1260,
+hw/omap_dma.c,2082,
+hw/omap_dss.c,1068,
+hw/omap_gpio.c,725,
+hw/omap_gpmc.c,419,
+hw/omap_gptimer.c,484,
+hw/omap_i2c.c,470,
+hw/omap_intc.c,598,
+hw/omap_l4.c,272,
+hw/omap_lcd_template.h,175,
+hw/omap_lcdc.c,461,
+hw/omap_mmc.c,641,
+hw/omap_sdrc.c,165,
+hw/omap_spi.c,346,
+hw/omap_sx1.c,254,
+hw/omap_synctimer.c,96,
+hw/omap_tap.c,112,
+hw/omap_uart.c,196,
+hw/onenand.c,661,
+hw/openpic.c,1686,
+hw/openpic.h,18,
+hw/palm.c,289,"""ARM Machines - Palm"""
+hw/parallel.c,609,
+hw/pc.c,1153,
+hw/pc.h,175,
+hw/pc_piix.c,389,
+hw/pci-hotplug.c,291,"""Devices - PCI"""
+hw/pci-stub.c,50,"""Devices - PCI"""
+hw/pci.c,2117,"""Devices - PCI"""
+hw/pci.h,469,"""Devices - PCI"""
+hw/pci_bridge.c,275,"""Devices - PCI"""
+hw/pci_bridge.h,66,"""Devices - PCI"""
+hw/pci_host.c,159,"""Devices - PCI"""
+hw/pci_host.h,53,"""Devices - PCI"""
+hw/pci_ids.h,110,"""Devices - PCI"""
+hw/pci_internals.h,47,"""Devices - PCI"""
+hw/pci_regs.h,665,"""Devices - PCI"""
+hw/pcie.c,544,"""Devices - PCI"""
+hw/pcie.h,132,"""Devices - PCI"""
+hw/pcie_aer.c,1031,"""Devices - PCI"""
+hw/pcie_aer.h,106,"""Devices - PCI"""
+hw/pcie_host.c,177,"""Devices - PCI"""
+hw/pcie_host.h,49,"""Devices - PCI"""
+hw/pcie_port.c,124,"""Devices - PCI"""
+hw/pcie_port.h,51,"""Devices - PCI"""
+hw/pcie_regs.h,156,"""Devices - PCI"""
+hw/pckbd.c,499,
+hw/pcmcia.h,51,
+hw/pcnet-pci.c,346,
+hw/pcnet.c,1748,
+hw/pcnet.h,42,
+hw/pcspk.c,147,
+hw/petalogix_s3adsp1800_mmu.c,225,
+hw/pflash_cfi01.c,726,
+hw/pflash_cfi02.c,741,
+hw/piix4.c,127,"""Devices - PCI"""
+hw/piix_pci.c,380,"""Devices - PCI"""
+hw/pixel_ops.h,53,
+hw/pl011.c,332,
+hw/pl022.c,312,
+hw/pl031.c,237,
+hw/pl050.c,187,
+hw/pl061.c,317,
+hw/pl080.c,407,
+hw/pl110.c,422,
+hw/pl110_template.h,307,
+hw/pl181.c,473,
+hw/pl190.c,278,
+hw/pm_smbus.c,176,
+hw/pm_smbus.h,21,
+hw/ppc.c,1288,
+hw/ppc.h,56,
+hw/ppc405.h,76,
+hw/ppc405_boards.c,653,"""PowerPC Machines - 405"""
+hw/ppc405_uc.c,2544,
+hw/ppc440.c,100,
+hw/ppc440.h,21,
+hw/ppc440_bamboo.c,203,
+hw/ppc4xx.h,60,
+hw/ppc4xx_devs.c,691,
+hw/ppc4xx_pci.c,393,
+hw/ppc_mac.h,113,
+hw/ppc_newworld.c,429,"""PowerPC Machines - New World"""
+hw/ppc_oldworld.c,332,"""PowerPC Machines - Old World"""
+hw/ppc_prep.c,771,"""PowerPC Machines - Prep"""
+hw/ppce500.h,22,
+hw/ppce500_mpc8544ds.c,297,
+hw/ppce500_pci.c,326,
+hw/prep_pci.c,144,
+hw/prep_pci.h,8,
+hw/primecell.h,14,
+hw/ps2.c,614,
+hw/ps2.h,9,
+hw/ptimer.c,244,
+hw/pxa.h,212,
+hw/pxa2xx.c,2292,
+hw/pxa2xx_dma.c,549,
+hw/pxa2xx_gpio.c,340,
+hw/pxa2xx_keypad.c,336,
+hw/pxa2xx_lcd.c,982,
+hw/pxa2xx_mmci.c,547,
+hw/pxa2xx_pcmcia.c,215,
+hw/pxa2xx_pic.c,313,
+hw/pxa2xx_template.h,435,
+hw/pxa2xx_timer.c,490,
+hw/qdev-addr.c,32,
+hw/qdev-addr.h,5,
+hw/qdev-properties.c,777,
+hw/qdev.c,926,
+hw/qdev.h,328,
+hw/qxl-logger.c,248,"""Subsystems - SPICE"""
+hw/qxl-render.c,226,"""Subsystems - SPICE"""
+hw/qxl.c,1531,"""Subsystems - SPICE"""
+hw/qxl.h,108,"""Subsystems - SPICE"""
+hw/r2d.c,341,"""SH4 Machines - R2D"""
+hw/rc4030.c,830,
+hw/realview.c,459,"""ARM Machines - Real View"""
+hw/realview_gic.c,79,"""ARM Machines - Real View"""
+hw/rtl8139.c,3431,
+hw/s390-virtio-bus.c,409,"""S390 Machines - S390 Virtio"""
+hw/s390-virtio-bus.h,69,
+hw/s390-virtio.c,289,"""S390 Machines - S390 Virtio"""
+hw/sb16.c,1420,
+hw/sbi.c,148,
+hw/scsi-bus.c,547,"""Devices - SCSI"""
+hw/scsi-defs.h,166,"""Devices - SCSI"""
+hw/scsi-disk.c,1309,"""Devices - SCSI"""
+hw/scsi-generic.c,576,"""Devices - SCSI"""
+hw/scsi.h,110,"""Devices - SCSI"""
+hw/sd.c,1658,
+hw/sd.h,79,
+hw/serial.c,991,
+hw/sh.h,54,
+hw/sh7750.c,818,
+hw/sh7750_regnames.c,97,
+hw/sh7750_regnames.h,6,
+hw/sh7750_regs.h,1277,
+hw/sh_intc.c,481,
+hw/sh_intc.h,80,
+hw/sh_pci.c,161,
+hw/sh_serial.c,401,
+hw/sh_timer.c,327,
+hw/sharpsl.h,17,
+hw/shix.c,104,"""SH4 Machines - Shix"""
+hw/slavio_intctl.c,463,
+hw/slavio_misc.c,499,
+hw/slavio_timer.c,424,
+hw/sm501.c,1457,
+hw/sm501_template.h,145,
+hw/smbios.c,239,
+hw/smbios.h,162,
+hw/smbus.c,318,
+hw/smbus.h,68,
+hw/smbus_eeprom.c,127,
+hw/smc91c111.c,798,
+hw/soc_dma.c,366,
+hw/soc_dma.h,113,
+hw/sparc32_dma.c,305,
+hw/sparc32_dma.h,12,
+hw/spitz.c,1117,"""ARM Machines - Spitz"""
+hw/ssd0303.c,312,
+hw/ssd0323.c,355,
+hw/ssi-sd.c,256,
+hw/ssi.c,70,
+hw/ssi.h,45,
+hw/stellaris.c,1474,"""ARM Machines - Stellaris"""
+hw/stellaris_enet.c,443,
+hw/stellaris_input.c,91,
+hw/sun4c_intctl.c,224,
+hw/sun4m.c,1821,"""SPARC Machines - Sun4m"""
+hw/sun4m.h,36,
+hw/sun4m_iommu.c,378,
+hw/sun4u.c,942,"""SPARC Machines - Sun4u"""
+hw/syborg.c,112,
+hw/syborg.h,18,
+hw/syborg_fb.c,551,
+hw/syborg_interrupt.c,238,
+hw/syborg_keyboard.c,244,
+hw/syborg_pointer.c,243,
+hw/syborg_rtc.c,150,
+hw/syborg_serial.c,359,
+hw/syborg_timer.c,245,
+hw/syborg_virtio.c,314,
+hw/sysbus.c,203,
+hw/sysbus.h,67,
+hw/tc58128.c,183,
+hw/tc6393xb.c,608,
+hw/tc6393xb_template.h,67,
+hw/tcx.c,651,
+hw/tmp105.c,244,
+hw/tosa.c,277,
+hw/tsc2005.c,593,
+hw/tsc210x.c,1293,
+hw/tusb6010.c,766,
+hw/twl92230.c,876,
+hw/unin_pci.c,391,
+hw/usb-bt.c,568,"""Devices - USB"""
+hw/usb-bus.c,394,"""Devices - USB"""
+hw/usb-desc.c,406,"""Devices - USB"""
+hw/usb-desc.h,92,"""Devices - USB"""
+hw/usb-hid.c,1006,"""Devices - USB"""
+hw/usb-hub.c,590,"""Devices - USB"""
+hw/usb-msd.c,621,"""Devices - USB"""
+hw/usb-musb.c,1495,"""Devices - USB"""
+hw/usb-net.c,1441,"""Devices - USB"""
+hw/usb-ohci.c,1792,"""Devices - USB"""
+hw/usb-ohci.h,9,"""Devices - USB"""
+hw/usb-serial.c,611,"""Devices - USB"""
+hw/usb-uhci.c,1229,"""Devices - USB"""
+hw/usb-uhci.h,10,"""Devices - USB"""
+hw/usb-wacom.c,370,"""Devices - USB"""
+hw/usb.c,261,"""Devices - USB"""
+hw/usb.h,367,"""Devices - USB"""
+hw/versatile_pci.c,160,
+hw/versatilepb.c,362,"""ARM Machines - Versatile PB"""
+hw/vga-isa-mm.c,128,
+hw/vga-isa.c,49,
+hw/vga-pci.c,123,
+hw/vga.c,2398,
+hw/vga_int.h,232,
+hw/vga_template.h,525,
+hw/vhost.c,725,"""Devices - vhost"""
+hw/vhost.h,50,"""Devices - vhost"""
+hw/vhost_net.c,229,"""Devices - vhost"""
+hw/vhost_net.h,20,"""Devices - vhost"""
+hw/virtex_ml507.c,276,
+hw/virtio-9p-debug.c,645,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p-debug.h,6,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p-local.c,563,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p-posix-acl.c,140,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p-xattr-user.c,109,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p-xattr.c,159,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p-xattr.h,102,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p.c,3744,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-9p.h,507,"""Devices - virtio"",""Devices - virtio-9p"""
+hw/virtio-balloon.c,283,"""Devices - virtio"""
+hw/virtio-balloon.h,55,"""Devices - virtio"""
+hw/virtio-blk.c,580,"""Devices - virtio"",""Devices - virtio-blk"""
+hw/virtio-blk.h,106,"""Devices - virtio"",""Devices - virtio-blk"""
+hw/virtio-console.c,141,"""Devices - virtio"",""Devices - virtio-serial"""
+hw/virtio-net.c,1077,"""Devices - virtio"""
+hw/virtio-net.h,189,"""Devices - virtio"""
+hw/virtio-pci.c,943,"""Devices - virtio"""
+hw/virtio-serial-bus.c,905,"""Devices - virtio"",""Devices - virtio-serial"""
+hw/virtio-serial.h,202,"""Devices - virtio"",""Devices - virtio-serial"""
+hw/virtio.c,882,"""Devices - virtio"""
+hw/virtio.h,228,"""Devices - virtio"""
+hw/vmmouse.c,291,
+hw/vmport.c,111,
+hw/vmware_vga.c,1330,
+hw/vmware_vga.h,9,
+hw/vt82c686.c,594,
+hw/vt82c686.h,11,
+hw/watchdog.c,147,
+hw/watchdog.h,43,
+hw/wdt_i6300esb.c,448,
+hw/wdt_ib700.c,137,
+hw/wm8750.c,707,
+hw/xen.h,21,
+hw/xen_backend.c,714,
+hw/xen_backend.h,106,
+hw/xen_blkif.h,103,
+hw/xen_common.h,34,
+hw/xen_console.c,269,
+hw/xen_devconfig.c,173,
+hw/xen_disk.c,788,
+hw/xen_domainbuild.c,300,
+hw/xen_domainbuild.h,13,
+hw/xen_machine_pv.c,124,
+hw/xen_nic.c,421,
+hw/xenfb.c,1013,
+hw/xilinx.h,50,
+hw/xilinx_ethlite.c,254,
+hw/xilinx_intc.c,176,
+hw/xilinx_timer.c,235,
+hw/xilinx_uartlite.c,220,
+hw/xio3130_downstream.c,211,
+hw/xio3130_downstream.h,11,
+hw/xio3130_upstream.c,186,
+hw/xio3130_upstream.h,10,
+hw/zaurus.c,268,
+i386-dis.c,6562,
+i386.ld,153,
+ia64-dis.c,10599,
+ia64.ld,209,
+input.c,288,
+ioport-user.c,60,
+ioport.c,306,
+ioport.h,55,
+iorange.h,30,
+iov.c,70,
+iov.h,19,
+json-lexer.c,339,
+json-lexer.h,50,
+json-parser.c,577,
+json-parser.h,22,
+json-streamer.c,88,
+json-streamer.h,39,
+kvm-all.c,1367,"""Guest CPU Cores (KVM): - Overall"""
+kvm-stub.c,153,"""Guest CPU Cores (KVM): - Overall"""
+kvm.h,201,
+libfdt_env.h,40,
+linux-aio.c,261,
+linux-user/alpha/syscall.h,253,"""Usermode Emulation - Linux user"""
+linux-user/alpha/syscall_nr.h,421,"""Usermode Emulation - Linux user"""
+linux-user/alpha/target_signal.h,56,"""Usermode Emulation - Linux user"""
+linux-user/alpha/termbits.h,264,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/double_cpdo.c,295,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/extended_cpdo.c,272,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpa11.c,237,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpa11.h,130,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpa11.inl,50,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpa11_cpdo.c,112,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpa11_cpdt.c,381,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpa11_cprt.c,283,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpopcode.c,112,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpopcode.h,390,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/fpsr.h,107,"""Usermode Emulation - Linux user"""
+linux-user/arm/nwfpe/single_cpdo.c,252,"""Usermode Emulation - Linux user"""
+linux-user/arm/syscall.h,42,"""Usermode Emulation - Linux user"""
+linux-user/arm/syscall_nr.h,367,"""Usermode Emulation - Linux user"""
+linux-user/arm/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/arm/termbits.h,216,"""Usermode Emulation - Linux user"""
+linux-user/cpu-uname.c,72,"""Usermode Emulation - Linux user"""
+linux-user/cpu-uname.h,1,"""Usermode Emulation - Linux user"""
+linux-user/cris/syscall.h,36,"""Usermode Emulation - Linux user"""
+linux-user/cris/syscall_nr.h,335,"""Usermode Emulation - Linux user"""
+linux-user/cris/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/cris/termbits.h,213,"""Usermode Emulation - Linux user"""
+linux-user/elfload.c,2494,"""Usermode Emulation - Linux user"""
+linux-user/errno_defs.h,141,"""Usermode Emulation - Linux user"""
+linux-user/flat.h,67,"""Usermode Emulation - Linux user"""
+linux-user/flatload.c,815,"""Usermode Emulation - Linux user"""
+linux-user/i386/syscall.h,146,"""Usermode Emulation - Linux user"""
+linux-user/i386/syscall_nr.h,337,"""Usermode Emulation - Linux user"""
+linux-user/i386/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/i386/termbits.h,226,"""Usermode Emulation - Linux user"""
+linux-user/ioctls.h,334,"""Usermode Emulation - Linux user"""
+linux-user/linux_loop.h,95,"""Usermode Emulation - Linux user"""
+linux-user/linuxload.c,207,"""Usermode Emulation - Linux user"""
+linux-user/m68k-sim.c,170,"""Usermode Emulation - Linux user"""
+linux-user/m68k/syscall.h,21,"""Usermode Emulation - Linux user"""
+linux-user/m68k/syscall_nr.h,330,"""Usermode Emulation - Linux user"""
+linux-user/m68k/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/m68k/termbits.h,227,"""Usermode Emulation - Linux user"""
+linux-user/main.c,3375,"""Usermode Emulation - Linux user"""
+linux-user/microblaze/syscall.h,45,"""Usermode Emulation - Linux user"""
+linux-user/microblaze/syscall_nr.h,369,"""Usermode Emulation - Linux user"""
+linux-user/microblaze/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/microblaze/termbits.h,213,"""Usermode Emulation - Linux user"""
+linux-user/mips/syscall.h,227,"""Usermode Emulation - Linux user"""
+linux-user/mips/syscall_nr.h,334,"""Usermode Emulation - Linux user"""
+linux-user/mips/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/mips/termbits.h,245,"""Usermode Emulation - Linux user"""
+linux-user/mips64/syscall.h,221,"""Usermode Emulation - Linux user"""
+linux-user/mips64/syscall_nr.h,293,"""Usermode Emulation - Linux user"""
+linux-user/mips64/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/mips64/termbits.h,245,"""Usermode Emulation - Linux user"""
+linux-user/mipsn32/syscall.h,221,"""Usermode Emulation - Linux user"""
+linux-user/mipsn32/syscall_nr.h,297,"""Usermode Emulation - Linux user"""
+linux-user/mipsn32/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/mipsn32/termbits.h,245,"""Usermode Emulation - Linux user"""
+linux-user/mmap.c,759,"""Usermode Emulation - Linux user"""
+linux-user/ppc/syscall.h,64,"""Usermode Emulation - Linux user"""
+linux-user/ppc/syscall_nr.h,334,"""Usermode Emulation - Linux user"""
+linux-user/ppc/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/ppc/termbits.h,236,"""Usermode Emulation - Linux user"""
+linux-user/qemu-types.h,24,"""Usermode Emulation - Linux user"""
+linux-user/qemu.h,440,"""Usermode Emulation - Linux user"""
+linux-user/sh4/syscall.h,12,"""Usermode Emulation - Linux user"""
+linux-user/sh4/syscall_nr.h,336,"""Usermode Emulation - Linux user"""
+linux-user/sh4/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/sh4/termbits.h,274,"""Usermode Emulation - Linux user"""
+linux-user/signal.c,4981,"""Usermode Emulation - Linux user"""
+linux-user/socket.h,147,"""Usermode Emulation - Linux user"""
+linux-user/sparc/syscall.h,9,"""Usermode Emulation - Linux user"""
+linux-user/sparc/syscall_nr.h,287,"""Usermode Emulation - Linux user"""
+linux-user/sparc/target_signal.h,36,"""Usermode Emulation - Linux user"""
+linux-user/sparc/termbits.h,279,"""Usermode Emulation - Linux user"""
+linux-user/sparc64/syscall.h,10,"""Usermode Emulation - Linux user"""
+linux-user/sparc64/syscall_nr.h,324,"""Usermode Emulation - Linux user"""
+linux-user/sparc64/target_signal.h,36,"""Usermode Emulation - Linux user"""
+linux-user/sparc64/termbits.h,279,"""Usermode Emulation - Linux user"""
+linux-user/strace.c,1356,"""Usermode Emulation - Linux user"""
+linux-user/strace.list,1526,"""Usermode Emulation - Linux user"""
+linux-user/syscall.c,7514,"""Usermode Emulation - Linux user"""
+linux-user/syscall_defs.h,2207,"""Usermode Emulation - Linux user"""
+linux-user/syscall_types.h,183,"""Usermode Emulation - Linux user"""
+linux-user/uaccess.c,65,"""Usermode Emulation - Linux user"""
+linux-user/vm86.c,481,"""Usermode Emulation - Linux user"""
+linux-user/x86_64/syscall.h,98,"""Usermode Emulation - Linux user"""
+linux-user/x86_64/syscall_nr.h,295,"""Usermode Emulation - Linux user"""
+linux-user/x86_64/target_signal.h,29,"""Usermode Emulation - Linux user"""
+linux-user/x86_64/termbits.h,247,"""Usermode Emulation - Linux user"""
+m68k-dis.c,5051,
+m68k-semi.c,407,
+m68k.ld,175,
+microblaze-dis.c,1100,
+migration-exec.c,145,
+migration-fd.c,130,
+migration-tcp.c,204,
+migration-unix.c,215,
+migration.c,482,
+migration.h,142,
+mips-dis.c,4873,
+mips.ld,224,
+module.c,80,
+module.h,38,
+monitor.c,5233,"""Subsystems - Monitor (QMP/HMP)"""
+monitor.h,65,
+nbd.c,765,
+nbd.h,64,
+net-checksum.c,86,
+net.c,1435,
+net.h,184,
+net/checksum.c,85,"""Subsystems - Network device layer"""
+net/checksum.h,29,"""Subsystems - Network device layer"""
+net/dump.c,159,"""Subsystems - Network device layer"""
+net/dump.h,33,"""Subsystems - Network device layer"""
+net/queue.c,260,"""Subsystems - Network device layer"""
+net/queue.h,71,"""Subsystems - Network device layer"""
+net/slirp.c,771,"""Subsystems - Network device layer"""
+net/slirp.h,51,"""Subsystems - Network device layer"""
+net/socket.c,600,"""Subsystems - Network device layer"""
+net/socket.h,33,"""Subsystems - Network device layer"""
+net/tap-aix.c,61,"""Subsystems - Network device layer"""
+net/tap-bsd.c,131,"""Subsystems - Network device layer"""
+net/tap-haiku.c,61,"""Subsystems - Network device layer"""
+net/tap-linux.c,195,"""Subsystems - Network device layer"""
+net/tap-linux.h,63,"""Subsystems - Network device layer"""
+net/tap-solaris.c,227,"""Subsystems - Network device layer"""
+net/tap-win32.c,751,"""Subsystems - Network device layer"""
+net/tap.c,525,"""Subsystems - Network device layer"""
+net/tap.h,60,"""Subsystems - Network device layer"""
+net/util.c,60,"""Subsystems - Network device layer"""
+net/util.h,32,"""Subsystems - Network device layer"""
+net/vde.c,131,"""Subsystems - Network device layer"""
+net/vde.h,36,"""Subsystems - Network device layer"""
+notify.c,39,
+notify.h,43,
+os-posix.c,384,
+os-win32.c,266,
+osdep.c,169,
+osdep.h,130,
+oslib-posix.c,157,
+oslib-win32.c,121,
+path.c,165,
+pc-bios/Makefile,19,
+pc-bios/README,29,
+pc-bios/bamboo.dtb,2,
+pc-bios/bamboo.dts,234,
+pc-bios/bios.bin,643,
+pc-bios/gpxe-eepro100-80861209.rom,341,
+pc-bios/keymaps/ar,98,
+pc-bios/keymaps/bepo,333,
+pc-bios/keymaps/common,157,
+pc-bios/keymaps/da,120,
+pc-bios/keymaps/de,114,
+pc-bios/keymaps/de-ch,169,
+pc-bios/keymaps/en-gb,119,
+pc-bios/keymaps/en-us,35,
+pc-bios/keymaps/es,105,
+pc-bios/keymaps/et,85,
+pc-bios/keymaps/fi,124,
+pc-bios/keymaps/fo,76,
+pc-bios/keymaps/fr,181,
+pc-bios/keymaps/fr-be,134,
+pc-bios/keymaps/fr-ca,50,
+pc-bios/keymaps/fr-ch,114,
+pc-bios/keymaps/hr,125,
+pc-bios/keymaps/hu,115,
+pc-bios/keymaps/is,139,
+pc-bios/keymaps/it,115,
+pc-bios/keymaps/ja,109,
+pc-bios/keymaps/lt,57,
+pc-bios/keymaps/lv,128,
+pc-bios/keymaps/mk,101,
+pc-bios/keymaps/modifiers,18,
+pc-bios/keymaps/nl,59,
+pc-bios/keymaps/nl-be,3,
+pc-bios/keymaps/no,119,
+pc-bios/keymaps/pl,122,
+pc-bios/keymaps/pt,113,
+pc-bios/keymaps/pt-br,69,
+pc-bios/keymaps/ru,109,
+pc-bios/keymaps/sl,110,
+pc-bios/keymaps/sv,81,
+pc-bios/keymaps/th,131,
+pc-bios/keymaps/tr,123,
+pc-bios/linuxboot.bin,2,
+pc-bios/mpc8544ds.dtb,1,
+pc-bios/mpc8544ds.dts,122,
+pc-bios/multiboot.bin,3,
+pc-bios/ohw.diff,1843,
+pc-bios/openbios-ppc,329,
+pc-bios/openbios-sparc32,502,
+pc-bios/openbios-sparc64,1411,
+pc-bios/optionrom/Makefile,29,
+pc-bios/optionrom/linuxboot.S,137,
+pc-bios/optionrom/multiboot.S,184,
+pc-bios/optionrom/optionrom.h,126,
+pc-bios/petalogix-s3adsp1800.dtb,14,
+pc-bios/ppc_rom.bin,410,
+pc-bios/pxe-e1000.bin,459,
+pc-bios/pxe-ne2k_pci.bin,373,
+pc-bios/pxe-pcnet.bin,383,
+pc-bios/pxe-rtl8139.bin,335,
+pc-bios/pxe-virtio.bin,365,
+pc-bios/s390-zipl.rom,12,
+pc-bios/vgabios-cirrus.bin,125,
+pc-bios/vgabios-qxl.bin,171,
+pc-bios/vgabios-stdvga.bin,171,
+pc-bios/vgabios-vmware.bin,171,
+pc-bios/vgabios.bin,168,
+pci-ids.txt,31,
+pflib.c,213,
+pflib.h,20,
+poison.h,50,
+posix-aio-compat.c,661,
+ppc-dis.c,5412,
+ppc.ld,227,
+ppc64.ld,220,
+qbool.c,68,
+qbool.h,29,
+qdict-test-data.txt,4999,
+qdict.c,456,
+qdict.h,67,
+qemu-aio.h,59,
+qemu-barrier.h,10,
+qemu-char.c,2624,"""Subsystems - Character Devices"""
+qemu-char.h,123,
+qemu-common.h,366,
+qemu-config.c,673,
+qemu-config.h,19,
+qemu-doc.texi,2661,
+qemu-error.c,209,
+qemu-error.h,40,
+qemu-img-cmds.hx,59,
+qemu-img.c,1524,
+qemu-img.texi,266,
+qemu-io.c,1831,
+qemu-lock.h,237,
+qemu-log.h,93,
+qemu-malloc.c,98,
+qemu-nbd.c,499,
+qemu-nbd.texi,66,
+qemu-objects.h,25,
+qemu-option.c,977,
+qemu-option.h,135,
+qemu-options.h,41,
+qemu-options.hx,2346,
+qemu-os-posix.h,54,
+qemu-os-win32.h,63,
+qemu-queue.h,449,
+qemu-sockets.c,675,
+qemu-tech.texi,697,
+qemu-thread.c,192,
+qemu-thread.h,44,
+qemu-timer-common.c,63,
+qemu-timer.c,1120,
+qemu-timer.h,313,
+qemu-tool.c,113,
+qemu-x509.h,9,
+qemu.sasl,34,
+qemu_socket.h,62,
+qerror.c,458,
+qerror.h,171,
+qfloat.c,68,
+qfloat.h,29,
+qint.c,67,
+qint.h,28,
+qjson.c,294,
+qjson.h,28,
+qlist.c,157,
+qlist.h,53,
+qmp-commands.hx,1776,
+qobject.h,112,
+qstring.c,141,
+qstring.h,35,
+range.h,29,
+readline.c,476,
+readline.h,55,
+rules.mak,64,
+rwhandler.c,87,
+rwhandler.h,27,
+s390-dis.c,1796,
+s390.ld,201,
+savevm.c,2141,
+scripts/checkpatch.pl,2910,
+scripts/create_config,103,
+scripts/feature_to_c.sh,78,
+scripts/hxtool,102,
+scripts/make_device_config.sh,28,
+scripts/qemu-binfmt-conf.sh,66,
+scripts/signrom.sh,45,
+scripts/simpletrace.py,93,
+scripts/texi2pod.pl,477,
+scripts/tracetool,629,
+sh4-dis.c,2077,
+simpletrace.c,255,
+simpletrace.h,40,
+slirp/COPYRIGHT,61,"""Subsystems - SLIRP"""
+slirp/bootp.c,314,"""Subsystems - SLIRP"""
+slirp/bootp.h,122,"""Subsystems - SLIRP"""
+slirp/cksum.c,139,"""Subsystems - SLIRP"""
+slirp/debug.h,34,"""Subsystems - SLIRP"""
+slirp/if.c,209,"""Subsystems - SLIRP"""
+slirp/if.h,25,"""Subsystems - SLIRP"""
+slirp/ip.h,253,"""Subsystems - SLIRP"""
+slirp/ip_icmp.c,351,"""Subsystems - SLIRP"""
+slirp/ip_icmp.h,161,"""Subsystems - SLIRP"""
+slirp/ip_input.c,682,"""Subsystems - SLIRP"""
+slirp/ip_output.c,172,"""Subsystems - SLIRP"""
+slirp/libslirp.h,56,"""Subsystems - SLIRP"""
+slirp/main.h,46,"""Subsystems - SLIRP"""
+slirp/mbuf.c,218,"""Subsystems - SLIRP"""
+slirp/mbuf.h,127,"""Subsystems - SLIRP"""
+slirp/misc.c,406,"""Subsystems - SLIRP"""
+slirp/misc.h,72,"""Subsystems - SLIRP"""
+slirp/sbuf.c,181,"""Subsystems - SLIRP"""
+slirp/sbuf.h,30,"""Subsystems - SLIRP"""
+slirp/slirp.c,1113,"""Subsystems - SLIRP"""
+slirp/slirp.h,320,"""Subsystems - SLIRP"""
+slirp/slirp_config.h,188,"""Subsystems - SLIRP"""
+slirp/socket.c,726,"""Subsystems - SLIRP"""
+slirp/socket.h,95,"""Subsystems - SLIRP"""
+slirp/tcp.h,164,"""Subsystems - SLIRP"""
+slirp/tcp_input.c,1487,"""Subsystems - SLIRP"""
+slirp/tcp_output.c,492,"""Subsystems - SLIRP"""
+slirp/tcp_subr.c,915,"""Subsystems - SLIRP"""
+slirp/tcp_timer.c,292,"""Subsystems - SLIRP"""
+slirp/tcp_timer.h,127,"""Subsystems - SLIRP"""
+slirp/tcp_var.h,161,"""Subsystems - SLIRP"""
+slirp/tcpip.h,77,"""Subsystems - SLIRP"""
+slirp/tftp.c,422,"""Subsystems - SLIRP"""
+slirp/tftp.h,43,"""Subsystems - SLIRP"""
+slirp/udp.c,384,"""Subsystems - SLIRP"""
+slirp/udp.h,86,"""Subsystems - SLIRP"""
+softmmu-semi.h,70,
+softmmu_defs.h,22,
+softmmu_exec.h,153,
+softmmu_header.h,198,
+softmmu_template.h,332,
+sparc-dis.c,3275,
+sparc.ld,150,
+sparc64.ld,138,
+spice-qemu-char.c,190,
+sysconfigs/target/target-x86_64.conf,86,
+sysemu.h,192,
+target-alpha/STATUS,28,"""Guest CPU cores (TCG): - Alpha"""
+target-alpha/cpu.h,538,"""Guest CPU cores (TCG): - Alpha"""
+target-alpha/exec.h,61,"""Guest CPU cores (TCG): - Alpha"""
+target-alpha/helper.c,570,"""Guest CPU cores (TCG): - Alpha"""
+target-alpha/helper.h,126,"""Guest CPU cores (TCG): - Alpha"""
+target-alpha/op_helper.c,1385,"""Guest CPU cores (TCG): - Alpha"""
+target-alpha/translate.c,3374,"""Guest CPU cores (TCG): - Alpha"""
+target-arm/cpu.h,508,"""Guest CPU cores (TCG): - ARM"""
+target-arm/exec.h,58,"""Guest CPU cores (TCG): - ARM"""
+target-arm/helper.c,2687,"""Guest CPU cores (TCG): - ARM"""
+target-arm/helpers.h,454,"""Guest CPU cores (TCG): - ARM"""
+target-arm/iwmmxt_helper.c,681,"""Guest CPU cores (TCG): - ARM"""
+target-arm/machine.c,211,"""Guest CPU cores (TCG): - ARM"""
+target-arm/neon_helper.c,1514,"""Guest CPU cores (TCG): - ARM"""
+target-arm/op_addsub.h,103,"""Guest CPU cores (TCG): - ARM"""
+target-arm/op_helper.c,475,"""Guest CPU cores (TCG): - ARM"""
+target-arm/translate.c,9411,"""Guest CPU cores (TCG): - ARM"""
+target-cris/cpu.h,268,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/crisv10-decode.h,107,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/crisv32-decode.h,128,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/exec.h,53,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/helper.c,271,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/helper.h,26,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/machine.c,90,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/mmu.c,368,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/mmu.h,17,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/op_helper.c,655,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/opcode-cris.h,365,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/translate.c,3611,"""Guest CPU cores (TCG): - CRIS"""
+target-cris/translate_v10.c,1245,"""Guest CPU cores (TCG): - CRIS"""
+target-i386/TODO,32,"""Guest CPU cores (TCG): - X86"""
+target-i386/cpu.h,987,"""Guest CPU cores (TCG): - X86"""
+target-i386/cpuid.c,1241,"""Guest CPU cores (TCG): - X86"""
+target-i386/exec.h,335,"""Guest CPU cores (TCG): - X86"""
+target-i386/helper.c,1251,"""Guest CPU cores (TCG): - X86"""
+target-i386/helper.h,220,"""Guest CPU cores (TCG): - X86"""
+target-i386/helper_template.h,334,"""Guest CPU cores (TCG): - X86"""
+target-i386/kvm.c,1921,"""Guest CPU Cores (KVM): - Overall"",""Guest CPU Cores (KVM): - X86"",""Guest CPU cores (TCG): - X86"""
+target-i386/kvm_x86.h,25,"""Guest CPU Cores (KVM): - Overall"",""Guest CPU cores (TCG): - X86"""
+target-i386/machine.c,515,"""Guest CPU cores (TCG): - X86"""
+target-i386/op_helper.c,5669,"""Guest CPU cores (TCG): - X86"""
+target-i386/ops_sse.h,2075,"""Guest CPU cores (TCG): - X86"""
+target-i386/ops_sse_header.h,349,"""Guest CPU cores (TCG): - X86"""
+target-i386/svm.h,222,"""Guest CPU cores (TCG): - X86"""
+target-i386/translate.c,7915,"""Guest CPU cores (TCG): - X86"""
+target-m68k/cpu.h,257,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/exec.h,50,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/helper.c,924,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/helpers.h,54,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/m68k-qreg.h,11,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/machine.c,0,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/op_helper.c,225,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/qregs.def,13,"""Guest CPU cores (TCG): - M68K"""
+target-m68k/translate.c,3120,"""Guest CPU cores (TCG): - M68K"""
+target-microblaze/cpu.h,336,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/exec.h,52,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/helper.c,282,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/helper.h,36,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/machine.c,11,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/microblaze-decode.h,52,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/mmu.c,303,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/mmu.h,91,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/op_helper.c,491,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-microblaze/translate.c,1906,"""Guest CPU cores (TCG): - MicroBlaze"""
+target-mips/TODO,52,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/cpu.h,659,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/exec.h,98,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/helper.c,696,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/helper.h,290,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/machine.c,308,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/mips-defs.h,72,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/op_helper.c,3044,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/translate.c,12746,"""Guest CPU cores (TCG): - MIPS"""
+target-mips/translate_init.c,594,"""Guest CPU cores (TCG): - MIPS"""
+target-ppc/STATUS,559,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/cpu.h,1626,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/exec.h,57,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/helper.c,2821,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/helper.h,404,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/helper_regs.h,111,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/kvm.c,406,"""Guest CPU Cores (KVM): - Overall"",""Guest CPU Cores (KVM): - PPC"",""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/kvm_ppc.c,105,"""Guest CPU Cores (KVM): - Overall"",""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/kvm_ppc.h,33,"""Guest CPU Cores (KVM): - Overall"",""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/machine.c,179,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/mfrom_table.c,79,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/mfrom_table_gen.c,33,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/op_helper.c,4172,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/translate.c,9141,"""Guest CPU cores (TCG): - PowerPC"""
+target-ppc/translate_init.c,9768,"""Guest CPU cores (TCG): - PowerPC"""
+target-s390x/cpu.h,269,"""Guest CPU cores (TCG): - S390"""
+target-s390x/exec.h,53,"""Guest CPU cores (TCG): - S390"""
+target-s390x/helper.c,84,"""Guest CPU cores (TCG): - S390"""
+target-s390x/kvm.c,507,"""Guest CPU Cores (KVM): - Overall"",""Guest CPU Cores (KVM): - S390"",""Guest CPU cores (TCG): - S390"""
+target-s390x/machine.c,30,"""Guest CPU cores (TCG): - S390"""
+target-s390x/op_helper.c,73,"""Guest CPU cores (TCG): - S390"""
+target-s390x/translate.c,61,"""Guest CPU cores (TCG): - S390"""
+target-sh4/README.sh4,150,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/cpu.h,364,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/exec.h,56,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/helper.c,843,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/helper.h,54,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/machine.c,0,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/op_helper.c,817,"""Guest CPU cores (TCG): - SH4"""
+target-sh4/translate.c,2077,"""Guest CPU cores (TCG): - SH4"""
+target-sparc/TODO,88,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/cpu.h,659,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/exec.h,41,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/helper.c,1546,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/helper.h,166,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/machine.c,199,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/op_helper.c,4535,"""Guest CPU cores (TCG): - SPARC"""
+target-sparc/translate.c,5106,"""Guest CPU cores (TCG): - SPARC"""
+targphys.h,21,
+tcg-runtime.c,85,
+tcg/LICENSE,3,"""Tiny Code Generator (TCG) - Common code"""
+tcg/README,511,"""Tiny Code Generator (TCG) - Common code"""
+tcg/TODO,14,"""Tiny Code Generator (TCG) - Common code"""
+tcg/arm/tcg-target.c,1843,"""Tiny Code Generator (TCG) - ARM target"",""Tiny Code Generator (TCG) - Common code"""
+tcg/arm/tcg-target.h,93,"""Tiny Code Generator (TCG) - ARM target"",""Tiny Code Generator (TCG) - Common code"""
+tcg/hppa/tcg-target.c,1683,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - HPPA target"""
+tcg/hppa/tcg-target.h,119,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - HPPA target"""
+tcg/i386/tcg-target.c,1982,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - i386 target"""
+tcg/i386/tcg-target.h,126,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - i386 target"""
+tcg/ia64/tcg-target.c,2390,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - IA64 target"""
+tcg/ia64/tcg-target.h,156,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - IA64 target"""
+tcg/mips/tcg-target.c,1533,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - MIPS target"""
+tcg/mips/tcg-target.h,110,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - MIPS target"""
+tcg/ppc/tcg-target.c,1922,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - PPC"""
+tcg/ppc/tcg-target.h,98,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - PPC"""
+tcg/ppc64/tcg-target.c,1699,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - PPC64 target"""
+tcg/ppc64/tcg-target.h,109,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - PPC64 target"""
+tcg/s390/tcg-target.c,2324,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - S390 target"""
+tcg/s390/tcg-target.h,109,"""Tiny Code Generator (TCG) - Common code"",""Tiny Code Generator (TCG) - S390 target"""
+tcg/sparc/tcg-target.c,1569,"""Tiny Code Generator (TCG) - Common code"""
+tcg/sparc/tcg-target.h,150,"""Tiny Code Generator (TCG) - Common code"""
+tcg/tcg-op.h,2533,"""Tiny Code Generator (TCG) - Common code"""
+tcg/tcg-opc.h,310,"""Tiny Code Generator (TCG) - Common code"""
+tcg/tcg-runtime.h,18,"""Tiny Code Generator (TCG) - Common code"""
+tcg/tcg.c,2175,"""Tiny Code Generator (TCG) - Common code"""
+tcg/tcg.h,489,"""Tiny Code Generator (TCG) - Common code"""
+tests/Makefile,147,
+tests/alpha/Makefile,35,
+tests/alpha/crt.s,26,
+tests/alpha/hello-alpha.c,5,
+tests/alpha/test-cond.c,87,
+tests/alpha/test-ovf.c,29,
+tests/cris/.gdbinit,11,
+tests/cris/Makefile,155,
+tests/cris/README,1,
+tests/cris/check_abs.c,40,
+tests/cris/check_addc.c,58,
+tests/cris/check_addcm.c,85,
+tests/cris/check_addi.s,57,
+tests/cris/check_addiv32.s,62,
+tests/cris/check_addm.s,96,
+tests/cris/check_addo.c,125,
+tests/cris/check_addoq.c,44,
+tests/cris/check_addq.s,47,
+tests/cris/check_addr.s,96,
+tests/cris/check_addxc.s,91,
+tests/cris/check_addxm.s,106,
+tests/cris/check_addxr.s,96,
+tests/cris/check_andc.s,80,
+tests/cris/check_andm.s,90,
+tests/cris/check_andq.s,46,
+tests/cris/check_andr.s,95,
+tests/cris/check_asr.s,230,
+tests/cris/check_ba.s,93,
+tests/cris/check_bas.s,102,
+tests/cris/check_bcc.s,197,
+tests/cris/check_bound.c,142,
+tests/cris/check_boundc.s,101,
+tests/cris/check_boundr.s,125,
+tests/cris/check_btst.s,96,
+tests/cris/check_clearfv32.s,19,
+tests/cris/check_clrjmp1.s,36,
+tests/cris/check_cmp-2.s,15,
+tests/cris/check_cmpc.s,86,
+tests/cris/check_cmpm.s,96,
+tests/cris/check_cmpq.s,75,
+tests/cris/check_cmpr.s,102,
+tests/cris/check_cmpxc.s,92,
+tests/cris/check_cmpxm.s,106,
+tests/cris/check_dstep.s,42,
+tests/cris/check_ftag.c,37,
+tests/cris/check_gcctorture_pr28634-1.c,15,
+tests/cris/check_gcctorture_pr28634.c,15,
+tests/cris/check_glibc_kernelversion.c,116,
+tests/cris/check_hello.c,7,
+tests/cris/check_int64.c,47,
+tests/cris/check_jsr.s,85,
+tests/cris/check_lapc.s,78,
+tests/cris/check_lsl.s,217,
+tests/cris/check_lsr.s,218,
+tests/cris/check_lz.c,49,
+tests/cris/check_mapbrk.c,39,
+tests/cris/check_mcp.s,49,
+tests/cris/check_mmap1.c,48,
+tests/cris/check_mmap2.c,48,
+tests/cris/check_mmap3.c,33,
+tests/cris/check_movdelsr1.s,33,
+tests/cris/check_movecr.s,37,
+tests/cris/check_movei.s,50,
+tests/cris/check_movemr.s,78,
+tests/cris/check_movemrv32.s,96,
+tests/cris/check_moveq.c,51,
+tests/cris/check_mover.s,28,
+tests/cris/check_moverm.s,45,
+tests/cris/check_movmp.s,131,
+tests/cris/check_movpmv32.s,35,
+tests/cris/check_movpr.s,28,
+tests/cris/check_movprv32.s,21,
+tests/cris/check_movscr.s,29,
+tests/cris/check_movsm.s,44,
+tests/cris/check_movsr.s,46,
+tests/cris/check_movucr.s,33,
+tests/cris/check_movum.s,40,
+tests/cris/check_movur.s,45,
+tests/cris/check_mulv32.s,51,
+tests/cris/check_mulx.s,246,
+tests/cris/check_neg.s,104,
+tests/cris/check_not.s,31,
+tests/cris/check_openpf1.c,38,
+tests/cris/check_openpf2.c,16,
+tests/cris/check_openpf3.c,49,
+tests/cris/check_openpf4.c,5,
+tests/cris/check_openpf5.c,56,
+tests/cris/check_orc.s,71,
+tests/cris/check_orm.s,75,
+tests/cris/check_orq.s,41,
+tests/cris/check_orr.s,84,
+tests/cris/check_ret.s,25,
+tests/cris/check_scc.s,95,
+tests/cris/check_settls1.c,45,
+tests/cris/check_sigalrm.c,26,
+tests/cris/check_stat1.c,16,
+tests/cris/check_stat2.c,20,
+tests/cris/check_stat3.c,25,
+tests/cris/check_stat4.c,27,
+tests/cris/check_subc.s,87,
+tests/cris/check_subm.s,96,
+tests/cris/check_subq.s,52,
+tests/cris/check_subr.s,102,
+tests/cris/check_swap.c,76,
+tests/cris/check_time1.c,46,
+tests/cris/check_time2.c,18,
+tests/cris/check_xarith.s,72,
+tests/cris/crisutils.h,71,
+tests/cris/crt.s,13,
+tests/cris/sys.c,51,
+tests/cris/sys.h,16,
+tests/cris/testutils.inc,117,
+tests/hello-arm.c,113,
+tests/hello-i386.c,26,
+tests/hello-mips.c,64,
+tests/linux-test.c,535,
+tests/pi_10.com,1,
+tests/qruncom.c,284,
+tests/runcom.c,192,
+tests/sha1.c,240,
+tests/test-arm-iwmmxt.s,49,
+tests/test-i386-code16.S,79,
+tests/test-i386-muldiv.h,76,
+tests/test-i386-shift.h,185,
+tests/test-i386-ssse3.c,57,
+tests/test-i386-vm86.S,103,
+tests/test-i386.c,2764,
+tests/test-i386.h,152,
+tests/test-mmap.c,476,
+tests/test_path.c,160,
+tests/testthread.c,51,
+thunk.c,288,
+thunk.h,161,
+trace-events,256,
+translate-all.c,167,
+uboot_image.h,158,
+ui/cocoa.m,1014,"""Subsystems - Graphics"""
+ui/curses.c,368,"""Subsystems - Graphics"""
+ui/curses_keys.h,509,"""Subsystems - Graphics"""
+ui/d3des.c,424,"""Subsystems - Graphics"""
+ui/d3des.h,51,"""Subsystems - Graphics"""
+ui/keymaps.c,210,"""Subsystems - Graphics"""
+ui/keymaps.h,77,"""Subsystems - Graphics"""
+ui/qemu-spice.h,57,"""Subsystems - Graphics"",""Subsystems - SPICE"""
+ui/sdl.c,877,"""Subsystems - Graphics"""
+ui/sdl_keysym.h,277,"""Subsystems - Graphics"""
+ui/sdl_zoom.c,95,"""Subsystems - Graphics"""
+ui/sdl_zoom.h,25,"""Subsystems - Graphics"""
+ui/sdl_zoom_template.h,225,"""Subsystems - Graphics"""
+ui/spice-core.c,672,"""Subsystems - Graphics"",""Subsystems - SPICE"""
+ui/spice-display.c,412,"""Subsystems - Graphics"",""Subsystems - SPICE"""
+ui/spice-display.h,68,"""Subsystems - Graphics"""
+ui/spice-input.c,217,"""Subsystems - Graphics"",""Subsystems - SPICE"""
+ui/vnc-auth-sasl.c,639,"""Subsystems - Graphics"""
+ui/vnc-auth-sasl.h,74,"""Subsystems - Graphics"""
+ui/vnc-auth-vencrypt.c,175,"""Subsystems - Graphics"""
+ui/vnc-auth-vencrypt.h,33,"""Subsystems - Graphics"""
+ui/vnc-enc-hextile-template.h,211,"""Subsystems - Graphics"""
+ui/vnc-enc-hextile.c,116,"""Subsystems - Graphics"""
+ui/vnc-enc-tight.c,1717,"""Subsystems - Graphics"""
+ui/vnc-enc-tight.h,183,"""Subsystems - Graphics"""
+ui/vnc-enc-zlib.c,152,"""Subsystems - Graphics"""
+ui/vnc-jobs-async.c,331,"""Subsystems - Graphics"""
+ui/vnc-jobs-sync.c,73,"""Subsystems - Graphics"""
+ui/vnc-jobs.h,87,"""Subsystems - Graphics"""
+ui/vnc-palette.c,136,"""Subsystems - Graphics"""
+ui/vnc-palette.h,63,"""Subsystems - Graphics"""
+ui/vnc-tls.c,445,"""Subsystems - Graphics"""
+ui/vnc-tls.h,76,"""Subsystems - Graphics"""
+ui/vnc.c,2767,"""Subsystems - Graphics"""
+ui/vnc.h,502,"""Subsystems - Graphics"""
+ui/vnc_keysym.h,324,"""Subsystems - Graphics"""
+ui/x_keymap.c,168,"""Subsystems - Graphics"""
+ui/x_keymap.h,32,"""Subsystems - Graphics"""
+usb-bsd.c,643,
+usb-linux.c,1722,
+usb-stub.c,52,
+version.rc,28,
+vgafont.h,4611,
+vl.c,3141,"""Subsystems - Main loop"""
+x86_64.ld,182,
